@@ -1,0 +1,106 @@
+[
+ {
+  "id": "8bf91a6f88711431",
+  "subject": "CS405",
+  "term": "FINALTERM",
+  "experience": "• Short Questions: L program likhna tha Lekin while loop use kr k for loop nhi\n\n• Long Questions: 1.5 ka factorial find krne ka pl SQL program likhna tha Lekin while loop use kr k for loop nhi\n\n• 1. 2.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:07:26.111Z"
+ },
+ {
+  "id": "4a677960353b19f5",
+  "subject": "CS405",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s mostly from(Records, Cursor),some were from loops and exception topic.\n\n• Short Questions: Difference between Error and Exception\n\n• Long Questions: were conceptual.\n\n• Paper was simple and easy. Questions Detail of Expectation Pragma and Fill the space of given for loop code and last one was in the form of table. Mostly paper come from loops.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:07:26.899Z"
+ },
+ {
+  "id": "b393dff83e55ad32",
+  "subject": "CS405",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s prepare kiy thay out of 68 and many ab baki ky 18 bhi dekh liy hy ghar a kar to mcqs khali prepare karny sy kind of passing joga paper ho jai ga like i needed 22 marks to pass my subject (accroding to vutoolkit cgpa calculator ) so sirf vutoolkit ky 50 mcqs proper concept clear karny ky sath mery 12 paky mcqs solve ho gai thay ( not because they were in vu toolkit but because of the conecpt warna paradox final term mcqs ma aik bhi ni same wording ka )\n\n• Short Questions: L like :\n\n• Long Questions: jo 100% right answer thay so 12 + 3 +5 = 20 number secure ho gai thay baki or bhi achy mcqs huwy thay mery so yeah easily 26-35 marks a jai gy\n\n• Assalam wa alikum TBH paper ki preparation ky liy many sirf vutoolkit sy 50 and the thing which i regret on looking into is the types of each thing in PL/SQ 1) types of record as well as procedures to make record in actual code 2) types of exception and its procedures to make it in code 3) types of triggers in ma sy trigger and exception ma 2 ay thay type ky or aik aya tha type ka or many in 3 question ma implicit and explicit type likh kar agya awi ( because wo cursor ma hoti hy wo type jo s ma prepare ki thi many ) So i would recommend paradox to add more s on the last topics and modules of the subject because hum sy mostly studetn sirf apky final term hi prepare kar rahy hy JAZAKALLAH and cs206 ma sirf apky s prepare kar ky gya or alhammadulliklah acha huwa tha or yay wala bhi passing joga ho gya hy like 12 confirm marks form s and 1 confirm question and 1 confirm question",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:07:27.596Z"
+ },
+ {
+  "id": "20ab89f035f6c685",
+  "subject": "CS405",
+  "term": "FINALTERM",
+  "experience": "• Short Questions: L table/collection.\n\n• A FOR loop code snippet was given, and we had to determine its output. A WHILE loop code snippet was given, and we had to determine its output. What is the purpose and use of the COUNT attribute in a PL/SQ Explain the difference between an Error and an Exception in PL/SQL. Count the total number of students. Count the number of students whose subject is Chemistry. Explain the two types of Triggers in PL/SQL. Write the PL/SQL program using CASE Statement to display grades. 1. Each trigger is contained in how many tables? 2. Exception section in pl\\sql block is? 3. no of types of record? 4. no of types of cursor? no of attributes of pl\\sql table? 5. which step of processing cursor is performed in declaration section? 6. collection can hold multiple data but still size of collection is..........? 7. INSERT, UPDATE, DELELTE IN CURSOR ARE? 8. Cursor defined by programmer is called? 9. SQLCODE will return...... the exception? 10. which of the following is use for custom error messages? 11. Pragma exceptionINIT is processed at? 12. encompasses lists, arrays, and other familiar data types? 13. With...... programmer is able to define its own structure? 14. which of the follows is part of package? 15. which of the following is true for reverse for loop? 16. If there is no parameter type mention in header then..... is default? 17. A statement-level DELETE trigger is fired? only once. 18. It does not have a selector and Conditions are mentioned in WHEN clause.? 19. Case statements are alternate to? IF-Then\\if then else statements.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:07:28.389Z"
+ },
+ {
+  "id": "6508a7e441470d5f",
+  "subject": "CS405",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s maximum loops, record,collection related thy\n\n• Short Questions: before after triger ka ta\n\n• Long Questions: package part ko explain karny thy\n\n• ik ik ik code lhikna ta ka table sa ik student ka record show karna tha and not found kaliya exception bi lhikni tha case statement and search case statement ko diffrentiate karna tha ik code ma error find karr ka oski reason lhikni thi ik exception topic sa tha syntax lhikna tha and explain karna tha",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:07:29.202Z"
+ },
+ {
+  "id": "b33ce0e6d28af3c7",
+  "subject": "CS405",
+  "term": "FINALTERM",
+  "experience": "• Short Questions: Ik Code  tha error batana tha for loop ka\n\n• Long Questions: syntax of case\n\n• Ik question tha what is procedure ?",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:07:35.381Z"
+ },
+ {
+  "id": "1320781b2d039897",
+  "subject": "CS405",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s ,clear all concepts .\n\n• Short Questions: 1. Errors were in code ,\n\n• Long Questions: 1 : TYPE OF TRIGGER WITH EXPLANATION\n\n• Read handouts for 1. For loop mei (i = i+1) use kiya hoa tha , end small likha hoa tha ... 2. SYNTAX OF IF THEN ELSE STATEMENT . GRADE TABLE WAS GIVEN . ,,WE HAVE TO WRITE PL/SQL TO APPLY THEM . 3. A COURSE CODE was incomplete we have to complete it .... Code was exactly taken from notes . among them display maximum salary.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:07:36.108Z"
+ },
+ {
+  "id": "6e068fb14537f147",
+  "subject": "CS405",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s ke topics:\n\n• Short Questions: tha.\n\n• Long Questions: mein 5 ka factorial nikalne ka program likhna tha.\n\n• Asslamualiekum! Case statement ka syntax aur uska use poocha gaya If-Then statement ka correct syntax likhna tha. Exception ki mukhtalif types ke naam likhne the. User-defined exception ki definition aur use batana tha. Diye gaye code ka output predict karna tha. Raise Application Exception ka adhura syntax complete karna tha. question Employee record ka program complete karna tha, jisme kuch code missing tha (Employee Name, Salary aur Department). Cursor aur Record ke concept se related question tha.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:07:36.800Z"
+ },
+ {
+  "id": "c7aa746d70f8d507",
+  "subject": "CS405",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s from handouts\n\n• Short Questions: 1. How will you define associative array?\n\n• Long Questions: 1. Write the PL/SQL code to find the factorial of 6.\n\n• 2. 3. Write syntax of IF THEN statement. 4. Difference between continue and continue when statement? Write the PL/SQL code to find the factorial of 6. Write the code to add name address semester and dep no in student table and add exception when department number greater than 15.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:07:37.592Z"
+ },
+ {
+  "id": "c8eeab58f513d9e1",
+  "subject": "CS405",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s hadouts ma sa b thy or paradox waly b thy.\n\n• Short Questions: ma Base on time\n\n• Long Questions: bht difficult thy sary ak for loop wala tha",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:07:38.489Z"
+ },
+ {
+  "id": "232bfe57b9dee328",
+  "subject": "CS405",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s ma sa 5 mcqs aya tha and raise application error mcqs ma us ka syntax dia HOA tha and error batna tha and short ma us ka syntax write Karna tha aik question tha us ka output batna tha different between after and before trigger short question tha long ma 2 pl/SQL ka program write Karna tha\n\n• Short Questions: tha long ma 2 pl/SQL ka program write Karna tha\n\n• Long Questions: ma 2 pl/SQL ka program write Karna tha\n\n• Paper mostly easy tha and handouts ma sa tha Vu toolkit Wala",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:07:45.086Z"
+ },
+ {
+  "id": "8207f16f301d8810",
+  "subject": "CS405",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s\n\n• Short Questions:  Count attribute\n\n• Long Questions:  Implicit and explicit cursor\n\n• C405.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:07:45.851Z"
+ },
+ {
+  "id": "3c42ad0c0fe5bce1",
+  "subject": "CS405",
+  "term": "FINALTERM",
+  "experience": "• MCQs: S\n\n• Short Questions: L SELECT statement.\n\n• Long Questions: inhi exmples mn sy thy.\n\n• Subjective: k kafi part past reviews sy repeat hua h.reviews must kia krain chahay koi bhi subject h apka.questions zaror repeat hotay hn.\n\n• 1. Differentiate between before and after trigger. 2. What is the basic reason of using cursor in SQ 3. write syntax of pragma exceptionINIT and where it is defined in pl\\sql block. 4. what is case statement and how they execute? Code example of raiseapplicationerror from handouts(page no. Suppose an table named as EMPLOYEE with attributes as (EID, ENAME, EDPT, ESLARAY). write a pl\\sql block to display all details of those employees whose salary is greater than 50,000 by using cursor based record? Each trigger is contained in how many tables? Exception section in pl\\sql block is? no of types of record? no of types of cursor? no of attributes of pl\\sql table? 5. which step of processing cursor is performed in declaration section? 6. collection can hold multiple data but still size of collection is..........? 7. INSERT, UPDATE, DELELTE IN CURSOR ARE? 8. Cursor defined by programmer is called? 9. SQLCODE will return...... the exception? 10. which of the following is use for custom error messages? 11. Pragma exceptionINIT is processed at? 12. encompasses lists, arrays, and other familiar data types? 13. With...... programmer is able to define its own structure? 14. which of the follows is part of package? 15. which of the following is true for reverse for loop? 16. If there is no parameter type mention in header then..... is default? 17. A statement-level DELETE trigger is fired? only once. 18. It does not have a selector and Conditions are mentioned in WHEN clause.? 19. Case statements are alternate to? IF-Then\\if then else statements. s quiz 2,3,4 mn sy thy kch. kch hndouts, kch cncptual, kch asssmnt quiz mn sy thy. k kafi part past reviews sy repeat hua h. reviews must kia krain chahay koi bhi subject h apka. questions zaror repeat hotay hn. handouts mn jo exmples di hoi hn wo bhi achi trha sy smjh lijiay ga. mery do questions sample papers mid or final dono wala lazmi kr lijiay ga lms k download section mn maujood hn dono.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:07:46.689Z"
+ }
+]
