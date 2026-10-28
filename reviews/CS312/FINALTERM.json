@@ -1,0 +1,34 @@
+[
+ {
+  "id": "0a9bbb544c1dd594",
+  "subject": "CS312",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s were very easy\n\n• Short Questions: 1. D/W inner Join & left outer join\n\n• Long Questions: 1. What is short circuit key and how it can be inserted in a relationship which have multiple levels of master table in data Base with example\n\n• 1. 2. How a relation can be converted into third normal form ? Identify different rules applied on the relation for this purpose. 3. Why calculated values are stored in database table in denormalization? 4. You are required to provide resultant table after execution of following SQL queries.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:04:30.298Z"
+ },
+ {
+  "id": "0214466c8cf2bfe3",
+  "subject": "CS312",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s were mixed from different chapters: Normalization, Logical Operators, GROUP BY, BETWEEN, Views, Sequences, Indexes, etc.\n\n• Short Questions: included Anomalies and a query using LIKE with wildcard characters.\n\n• Long Questions: included:\n\n• Questions",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:04:31.091Z"
+ },
+ {
+  "id": "9192347294d85902",
+  "subject": "CS312",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s  asaan thae conceptual thae handouts and lectures ager liye phir bohot easy\n\n• Short Questions: l works like or operator.. Aisa tha mcqs (IN) answer tha\n\n• Long Questions: 1. What is short circuit key and how it can be inserted in a relationship which have multiple levels of master table in data Base with example\n\n• 1. 2. 3. 4. 5. DDL ( create...... 6. 7. Anomolies mai b 2 3 thae ya zaida yad ni aa rha. 3no types uski. 8. 9. Lock wala b tha smth.. 10. 2 s quiz file 4 sy b aye thae aik. 11. IN operation in sql works like or operator.. Index wala tha.. Theory.. Briefly explain index. How a relation can be converted into 2nd normal form ? Write sql code tha students sy related.. Students ka cgpa 3. Anomoly ka tha ky 2 students ny cs802 course rakha phir drop krdiya toh ab jab hum data delete kren gy toh konsi anamoly occur hogi.. Or konsa data lost hoga.. Vo b likhen.. It was ky write sql code retrieval of rows keliye.. User name end with either garry or chin. Write sql code to view data from student table.. Stuid stuname where city is lahore.. Neechy table diya hua tha..",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:04:31.860Z"
+ },
+ {
+  "id": "1aa2c492a3cccb2e",
+  "subject": "CS312",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s tricky thy kxh files me se thy kxh handsout se thy\n\n• Short Questions: thy\n\n• Long Questions: me ek question different BETWEEN and %wildcard\n\n• 4 question Inner join/left join difference Ek scenario tha btya tha kon sa anomaly use huwa hai 3NF ka question tha Ek mjy yad nae Ek table diya tha dr patient wala usko sequence se likhna tha",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:04:32.690Z"
+ }
+]
