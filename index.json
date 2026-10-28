@@ -1,0 +1,937 @@
+{
+ "ACC311": {
+  "FINALTERM": 1,
+  "MIDTERM": 2
+ },
+ "ACC501": {
+  "FINALTERM": 5,
+  "MIDTERM": 1
+ },
+ "BIF101": {
+  "MIDTERM": 2
+ },
+ "BIF401": {
+  "FINALTERM": 1
+ },
+ "BIF401P": {
+  "FINALTERM": 1
+ },
+ "BIO101": {
+  "FINALTERM": 1,
+  "MIDTERM": 2
+ },
+ "BIO503": {
+  "MIDTERM": 2
+ },
+ "BIO504": {
+  "MIDTERM": 2
+ },
+ "BIO504T": {
+  "FINALTERM": 4,
+  "MIDTERM": 1
+ },
+ "BNK611": {
+  "FINALTERM": 1,
+  "MIDTERM": 1
+ },
+ "BT302": {
+  "FINALTERM": 2,
+  "MIDTERM": 2
+ },
+ "BT401": {
+  "FINALTERM": 1,
+  "MIDTERM": 1
+ },
+ "BT406": {
+  "FINALTERM": 2,
+  "MIDTERM": 2
+ },
+ "BT501": {
+  "MIDTERM": 1
+ },
+ "BT505": {
+  "FINALTERM": 1
+ },
+ "BT601": {
+  "FINALTERM": 1,
+  "MIDTERM": 1
+ },
+ "CHE201": {
+  "FINALTERM": 7
+ },
+ "CS001": {
+  "FINALTERM": 5,
+  "MIDTERM": 1
+ },
+ "CS101": {
+  "FINALTERM": 75,
+  "MIDTERM": 47
+ },
+ "CS201": {
+  "FINALTERM": 37,
+  "MIDTERM": 35
+ },
+ "CS201P": {
+  "FINALTERM": 19
+ },
+ "CS202": {
+  "FINALTERM": 13,
+  "MIDTERM": 5
+ },
+ "CS204": {
+  "FINALTERM": 1,
+  "MIDTERM": 1
+ },
+ "CS205": {
+  "FINALTERM": 12,
+  "MIDTERM": 9
+ },
+ "CS206": {
+  "FINALTERM": 6,
+  "MIDTERM": 1
+ },
+ "CS301": {
+  "FINALTERM": 29,
+  "MIDTERM": 18
+ },
+ "CS301P": {
+  "FINALTERM": 14
+ },
+ "CS302": {
+  "FINALTERM": 41,
+  "MIDTERM": 12
+ },
+ "CS302P": {
+  "FINALTERM": 3
+ },
+ "CS304": {
+  "FINALTERM": 14,
+  "MIDTERM": 14
+ },
+ "CS304P": {
+  "FINALTERM": 11
+ },
+ "CS306": {
+  "FINALTERM": 7,
+  "MIDTERM": 1
+ },
+ "CS310": {
+  "FINALTERM": 2
+ },
+ "CS311": {
+  "FINALTERM": 11,
+  "MIDTERM": 4
+ },
+ "CS312": {
+  "FINALTERM": 4,
+  "MIDTERM": 3
+ },
+ "CS315": {
+  "FINALTERM": 1
+ },
+ "CS401": {
+  "FINALTERM": 19,
+  "MIDTERM": 5
+ },
+ "CS402": {
+  "FINALTERM": 3,
+  "MIDTERM": 3
+ },
+ "CS403": {
+  "FINALTERM": 22,
+  "MIDTERM": 11
+ },
+ "CS405": {
+  "FINALTERM": 13,
+  "MIDTERM": 3
+ },
+ "CS406": {
+  "FINALTERM": 4
+ },
+ "CS407": {
+  "FINALTERM": 3
+ },
+ "CS408": {
+  "FINALTERM": 5,
+  "MIDTERM": 3
+ },
+ "CS409": {
+  "FINALTERM": 6,
+  "MIDTERM": 1
+ },
+ "CS411": {
+  "FINALTERM": 2
+ },
+ "CS420": {
+  "FINALTERM": 3,
+  "MIDTERM": 1
+ },
+ "CS432": {
+  "FINALTERM": 5,
+  "MIDTERM": 3
+ },
+ "CS435": {
+  "FINALTERM": 9,
+  "MIDTERM": 4
+ },
+ "CS442": {
+  "FINALTERM": 13,
+  "MIDTERM": 1
+ },
+ "CS501": {
+  "FINALTERM": 6
+ },
+ "CS502": {
+  "FINALTERM": 11,
+  "MIDTERM": 1
+ },
+ "CS504": {
+  "FINALTERM": 24,
+  "MIDTERM": 8
+ },
+ "CS505": {
+  "FINALTERM": 6,
+  "MIDTERM": 3
+ },
+ "CS506": {
+  "FINALTERM": 12,
+  "MIDTERM": 1
+ },
+ "CS507": {
+  "FINALTERM": 1
+ },
+ "CS508": {
+  "FINALTERM": 3,
+  "MIDTERM": 1
+ },
+ "CS510": {
+  "FINALTERM": 8,
+  "MIDTERM": 3
+ },
+ "CS511": {
+  "FINALTERM": 3,
+  "MIDTERM": 1
+ },
+ "CS521": {
+  "FINALTERM": 3,
+  "MIDTERM": 2
+ },
+ "CS601": {
+  "FINALTERM": 29,
+  "MIDTERM": 5
+ },
+ "CS602": {
+  "FINALTERM": 4
+ },
+ "CS603": {
+  "FINALTERM": 6,
+  "MIDTERM": 3
+ },
+ "CS604": {
+  "FINALTERM": 18,
+  "MIDTERM": 4
+ },
+ "CS605": {
+  "FINALTERM": 2,
+  "MIDTERM": 2
+ },
+ "CS606": {
+  "FINALTERM": 13,
+  "MIDTERM": 3
+ },
+ "CS607": {
+  "FINALTERM": 14,
+  "MIDTERM": 2
+ },
+ "CS607P": {
+  "FINALTERM": 7
+ },
+ "CS609": {
+  "FINALTERM": 3
+ },
+ "CS610": {
+  "FINALTERM": 13,
+  "MIDTERM": 2
+ },
+ "CS610P": {
+  "FINALTERM": 13
+ },
+ "CS611": {
+  "FINALTERM": 7,
+  "MIDTERM": 4
+ },
+ "CS614": {
+  "FINALTERM": 10,
+  "MIDTERM": 3
+ },
+ "CS615": {
+  "FINALTERM": 5,
+  "MIDTERM": 2
+ },
+ "CS620": {
+  "FINALTERM": 4,
+  "MIDTERM": 1
+ },
+ "CS625": {
+  "FINALTERM": 17,
+  "MIDTERM": 8
+ },
+ "CS627": {
+  "FINALTERM": 6
+ },
+ "CS636": {
+  "FINALTERM": 9,
+  "MIDTERM": 1
+ },
+ "ECO302": {
+  "FINALTERM": 2
+ },
+ "ECO303": {
+  "FINALTERM": 1,
+  "MIDTERM": 1
+ },
+ "ECO401": {
+  "FINALTERM": 9,
+  "MIDTERM": 3
+ },
+ "ECO402": {
+  "FINALTERM": 1,
+  "MIDTERM": 1
+ },
+ "ECO403": {
+  "FINALTERM": 3,
+  "MIDTERM": 3
+ },
+ "ECO404": {
+  "FINALTERM": 1
+ },
+ "ECO501": {
+  "FINALTERM": 1
+ },
+ "ECO607": {
+  "FINALTERM": 1
+ },
+ "ECO610": {
+  "FINALTERM": 2,
+  "MIDTERM": 1
+ },
+ "EDU101": {
+  "FINALTERM": 8,
+  "MIDTERM": 6
+ },
+ "EDU201": {
+  "FINALTERM": 2
+ },
+ "EDU301": {
+  "FINALTERM": 10,
+  "MIDTERM": 4
+ },
+ "EDU302": {
+  "FINALTERM": 2,
+  "MIDTERM": 2
+ },
+ "EDU303": {
+  "FINALTERM": 2
+ },
+ "EDU304": {
+  "FINALTERM": 1
+ },
+ "EDU305": {
+  "FINALTERM": 10
+ },
+ "EDU401": {
+  "FINALTERM": 5,
+  "MIDTERM": 6
+ },
+ "EDU402": {
+  "FINALTERM": 6,
+  "MIDTERM": 1
+ },
+ "EDU403": {
+  "FINALTERM": 8,
+  "MIDTERM": 2
+ },
+ "EDU405": {
+  "FINALTERM": 2
+ },
+ "EDU406": {
+  "FINALTERM": 9,
+  "MIDTERM": 7
+ },
+ "EDU410": {
+  "FINALTERM": 1,
+  "MIDTERM": 1
+ },
+ "EDU430": {
+  "FINALTERM": 4,
+  "MIDTERM": 1
+ },
+ "EDU431": {
+  "FINALTERM": 1,
+  "MIDTERM": 1
+ },
+ "EDU433": {
+  "MIDTERM": 1
+ },
+ "EDU501": {
+  "FINALTERM": 1
+ },
+ "EDU505": {
+  "FINALTERM": 1
+ },
+ "EDU512": {
+  "FINALTERM": 2
+ },
+ "EDU516": {
+  "FINALTERM": 14,
+  "MIDTERM": 2
+ },
+ "EDU601": {
+  "FINALTERM": 2,
+  "MIDTERM": 1
+ },
+ "EDU602": {
+  "FINALTERM": 3
+ },
+ "EDU654": {
+  "FINALTERM": 1,
+  "MIDTERM": 1
+ },
+ "EDUA630": {
+  "MIDTERM": 1
+ },
+ "ENG001": {
+  "FINALTERM": 2
+ },
+ "ENG101": {
+  "FINALTERM": 59,
+  "MIDTERM": 30
+ },
+ "ENG201": {
+  "FINALTERM": 54,
+  "MIDTERM": 49
+ },
+ "ENG301": {
+  "FINALTERM": 6,
+  "MIDTERM": 3
+ },
+ "ENG501": {
+  "FINALTERM": 10,
+  "MIDTERM": 3
+ },
+ "ENG502": {
+  "FINALTERM": 20,
+  "MIDTERM": 4
+ },
+ "ENG503": {
+  "FINALTERM": 2,
+  "MIDTERM": 1
+ },
+ "ENG504": {
+  "FINALTERM": 6,
+  "MIDTERM": 3
+ },
+ "ENG505": {
+  "FINALTERM": 10,
+  "MIDTERM": 2
+ },
+ "ENG506": {
+  "FINALTERM": 1
+ },
+ "ENG507": {
+  "FINALTERM": 15,
+  "MIDTERM": 3
+ },
+ "ENG508": {
+  "FINALTERM": 8,
+  "MIDTERM": 1
+ },
+ "ENG509": {
+  "FINALTERM": 6,
+  "MIDTERM": 3
+ },
+ "ENG510": {
+  "FINALTERM": 9,
+  "MIDTERM": 2
+ },
+ "ENG511": {
+  "FINALTERM": 7
+ },
+ "ENG512": {
+  "FINALTERM": 10,
+  "MIDTERM": 3
+ },
+ "ENG513": {
+  "FINALTERM": 3,
+  "MIDTERM": 1
+ },
+ "ENG514": {
+  "FINALTERM": 6,
+  "MIDTERM": 2
+ },
+ "ENG515": {
+  "FINALTERM": 8,
+  "MIDTERM": 2
+ },
+ "ENG516": {
+  "FINALTERM": 1
+ },
+ "ENG517": {
+  "FINALTERM": 3
+ },
+ "ENG518": {
+  "FINALTERM": 5
+ },
+ "ENG519": {
+  "FINALTERM": 4,
+  "MIDTERM": 2
+ },
+ "ENG520": {
+  "FINALTERM": 2,
+  "MIDTERM": 1
+ },
+ "ENG522": {
+  "FINALTERM": 17,
+  "MIDTERM": 3
+ },
+ "ENG523": {
+  "FINALTERM": 9,
+  "MIDTERM": 1
+ },
+ "ENG524": {
+  "FINALTERM": 3,
+  "MIDTERM": 1
+ },
+ "ENG529": {
+  "FINALTERM": 4
+ },
+ "ETH100": {
+  "FINALTERM": 10,
+  "MIDTERM": 6
+ },
+ "ETH202": {
+  "FINALTERM": 1
+ },
+ "FIN611": {
+  "FINALTERM": 1,
+  "MIDTERM": 1
+ },
+ "FIN621": {
+  "FINALTERM": 1
+ },
+ "FIN623": {
+  "FINALTERM": 1
+ },
+ "FIN630": {
+  "MIDTERM": 1
+ },
+ "GSC101": {
+  "FINALTERM": 5
+ },
+ "HRM613": {
+  "FINALTERM": 1
+ },
+ "HRM624": {
+  "FINALTERM": 1
+ },
+ "HRM627": {
+  "FINALTERM": 1
+ },
+ "ISL201": {
+  "MIDTERM": 1
+ },
+ "ISL202": {
+  "FINALTERM": 76,
+  "MIDTERM": 24
+ },
+ "IT430": {
+  "FINALTERM": 1
+ },
+ "IT601": {
+  "FINALTERM": 2,
+  "MIDTERM": 1
+ },
+ "MATH101": {
+  "FINALTERM": 1,
+  "MIDTERM": 1
+ },
+ "MB501": {
+  "MIDTERM": 1
+ },
+ "MB502P": {
+  "FINALTERM": 1
+ },
+ "MB502T": {
+  "FINALTERM": 3
+ },
+ "MB504": {
+  "FINALTERM": 1
+ },
+ "MB504P": {
+  "FINALTERM": 1
+ },
+ "MCD504": {
+  "FINALTERM": 1
+ },
+ "MCM101": {
+  "FINALTERM": 8,
+  "MIDTERM": 4
+ },
+ "MCM301": {
+  "FINALTERM": 23,
+  "MIDTERM": 7
+ },
+ "MCM304": {
+  "FINALTERM": 4,
+  "MIDTERM": 2
+ },
+ "MCM311": {
+  "FINALTERM": 1
+ },
+ "MCM411": {
+  "FINALTERM": 1
+ },
+ "MCM501": {
+  "FINALTERM": 1
+ },
+ "MCM520": {
+  "FINALTERM": 1
+ },
+ "MGMT622": {
+  "FINALTERM": 1
+ },
+ "MGMT627": {
+  "FINALTERM": 3,
+  "MIDTERM": 1
+ },
+ "MGT101": {
+  "FINALTERM": 32,
+  "MIDTERM": 6
+ },
+ "MGT111": {
+  "FINALTERM": 1
+ },
+ "MGT201": {
+  "FINALTERM": 3
+ },
+ "MGT211": {
+  "FINALTERM": 14,
+  "MIDTERM": 2
+ },
+ "MGT301": {
+  "FINALTERM": 22,
+  "MIDTERM": 6
+ },
+ "MGT401": {
+  "FINALTERM": 6,
+  "MIDTERM": 2
+ },
+ "MGT402": {
+  "FINALTERM": 5
+ },
+ "MGT404": {
+  "FINALTERM": 2
+ },
+ "MGT411": {
+  "FINALTERM": 7,
+  "MIDTERM": 1
+ },
+ "MGT501": {
+  "FINALTERM": 18,
+  "MIDTERM": 9
+ },
+ "MGT502": {
+  "FINALTERM": 7,
+  "MIDTERM": 3
+ },
+ "MGT503": {
+  "FINALTERM": 10,
+  "MIDTERM": 3
+ },
+ "MGT510": {
+  "FINALTERM": 4
+ },
+ "MGT513": {
+  "MIDTERM": 1
+ },
+ "MGT522": {
+  "FINALTERM": 1,
+  "MIDTERM": 1
+ },
+ "MGT601": {
+  "FINALTERM": 2
+ },
+ "MGT602": {
+  "FINALTERM": 28,
+  "MIDTERM": 8
+ },
+ "MGT603": {
+  "FINALTERM": 3
+ },
+ "MGT610": {
+  "FINALTERM": 4,
+  "MIDTERM": 1
+ },
+ "MGT611": {
+  "FINALTERM": 3
+ },
+ "MGT613": {
+  "MIDTERM": 1
+ },
+ "MKT501": {
+  "MIDTERM": 2
+ },
+ "MKT621": {
+  "FINALTERM": 1,
+  "MIDTERM": 1
+ },
+ "MTH100": {
+  "FINALTERM": 15,
+  "MIDTERM": 1
+ },
+ "MTH101": {
+  "FINALTERM": 34,
+  "MIDTERM": 7
+ },
+ "MTH104": {
+  "FINALTERM": 14,
+  "MIDTERM": 4
+ },
+ "MTH201": {
+  "FINALTERM": 1,
+  "MIDTERM": 1
+ },
+ "MTH202": {
+  "FINALTERM": 38,
+  "MIDTERM": 5
+ },
+ "MTH301": {
+  "FINALTERM": 3,
+  "MIDTERM": 1
+ },
+ "MTH302": {
+  "FINALTERM": 13,
+  "MIDTERM": 7
+ },
+ "MTH401": {
+  "FINALTERM": 4,
+  "MIDTERM": 2
+ },
+ "MTH403": {
+  "FINALTERM": 1
+ },
+ "MTH404": {
+  "FINALTERM": 1,
+  "MIDTERM": 1
+ },
+ "MTH405": {
+  "FINALTERM": 2
+ },
+ "MTH501": {
+  "FINALTERM": 13,
+  "MIDTERM": 7
+ },
+ "MTH601": {
+  "FINALTERM": 4,
+  "MIDTERM": 1
+ },
+ "MTH603": {
+  "FINALTERM": 7,
+  "MIDTERM": 1
+ },
+ "MTH621": {
+  "FINALTERM": 2
+ },
+ "MTH622": {
+  "FINALTERM": 1
+ },
+ "MTH631": {
+  "FINALTERM": 1
+ },
+ "MTH632": {
+  "FINALTERM": 3
+ },
+ "MTH634": {
+  "FINALTERM": 1
+ },
+ "MTH641": {
+  "FINALTERM": 1
+ },
+ "MTH642": {
+  "FINALTERM": 3,
+  "MIDTERM": 1
+ },
+ "MTH644": {
+  "FINALTERM": 2
+ },
+ "MTH645": {
+  "FINALTERM": 5
+ },
+ "MTH646": {
+  "FINALTERM": 2
+ },
+ "MTH647": {
+  "FINALTERM": 2
+ },
+ "PAK301": {
+  "FINALTERM": 55,
+  "MIDTERM": 18
+ },
+ "PAK302": {
+  "FINALTERM": 6,
+  "MIDTERM": 3
+ },
+ "PAK522": {
+  "FINALTERM": 23,
+  "MIDTERM": 9
+ },
+ "PHY101": {
+  "FINALTERM": 21,
+  "MIDTERM": 9
+ },
+ "PHY301": {
+  "FINALTERM": 1
+ },
+ "PSC201": {
+  "FINALTERM": 3
+ },
+ "PSC401": {
+  "MIDTERM": 1
+ },
+ "PSY101": {
+  "FINALTERM": 9,
+  "MIDTERM": 4
+ },
+ "PSY401": {
+  "FINALTERM": 2,
+  "MIDTERM": 1
+ },
+ "PSY402": {
+  "FINALTERM": 1
+ },
+ "PSY403": {
+  "FINALTERM": 1,
+  "MIDTERM": 2
+ },
+ "PSY404": {
+  "FINALTERM": 7,
+  "MIDTERM": 1
+ },
+ "PSY405": {
+  "FINALTERM": 9,
+  "MIDTERM": 2
+ },
+ "PSY406": {
+  "FINALTERM": 3,
+  "MIDTERM": 1
+ },
+ "PSY407": {
+  "FINALTERM": 1,
+  "MIDTERM": 6
+ },
+ "PSY408": {
+  "FINALTERM": 1,
+  "MIDTERM": 1
+ },
+ "PSY409": {
+  "FINALTERM": 1
+ },
+ "PSY502": {
+  "FINALTERM": 7,
+  "MIDTERM": 2
+ },
+ "PSY504": {
+  "FINALTERM": 7,
+  "MIDTERM": 2
+ },
+ "PSY505": {
+  "FINALTERM": 3
+ },
+ "PSY511": {
+  "FINALTERM": 2
+ },
+ "PSY512": {
+  "FINALTERM": 7,
+  "MIDTERM": 3
+ },
+ "PSY513": {
+  "FINALTERM": 1
+ },
+ "PSY515": {
+  "FINALTERM": 1,
+  "MIDTERM": 1
+ },
+ "PSY516": {
+  "FINALTERM": 1
+ },
+ "PSY610": {
+  "FINALTERM": 1,
+  "MIDTERM": 1
+ },
+ "PSY611": {
+  "FINALTERM": 1
+ },
+ "PSY632": {
+  "MIDTERM": 1
+ },
+ "PSYP631": {
+  "FINALTERM": 4
+ },
+ "SOC101": {
+  "FINALTERM": 8,
+  "MIDTERM": 3
+ },
+ "SOC201": {
+  "FINALTERM": 1
+ },
+ "SOC302": {
+  "MIDTERM": 1
+ },
+ "SOC401": {
+  "FINALTERM": 7,
+  "MIDTERM": 1
+ },
+ "SOC402": {
+  "FINALTERM": 1
+ },
+ "SOC404": {
+  "FINALTERM": 6,
+  "MIDTERM": 2
+ },
+ "SOC609": {
+  "FINALTERM": 3
+ },
+ "STA301": {
+  "FINALTERM": 45,
+  "MIDTERM": 12
+ },
+ "STA630": {
+  "FINALTERM": 6,
+  "MIDTERM": 2
+ },
+ "STA641": {
+  "FINALTERM": 3,
+  "MIDTERM": 1
+ },
+ "URD101": {
+  "FINALTERM": 1
+ },
+ "ZOO503": {
+  "FINALTERM": 1
+ },
+ "ZOO505": {
+  "FINALTERM": 1
+ },
+ "ZOO510": {
+  "FINALTERM": 1
+ },
+ "ZOO512": {
+  "MIDTERM": 1
+ },
+ "ZOO513": {
+  "MIDTERM": 4
+ },
+ "ZOO516": {
+  "MIDTERM": 1
+ }
+}
