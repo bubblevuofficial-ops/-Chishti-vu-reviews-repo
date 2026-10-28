@@ -1,0 +1,106 @@
+[
+ {
+  "id": "1e10b129c17c9d66",
+  "subject": "CS606",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s were from preparational videos, others from handouts\n\n• S. 1. - Total no. 2. 3. 4. L.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:19:41.293Z"
+ },
+ {
+  "id": "fdbe2ff2a44fe9c5",
+  "subject": "CS606",
+  "term": "FINALTERM",
+  "experience": "Q1: how to identify handlers? I. II. III. IV. V.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:19:41.898Z"
+ },
+ {
+  "id": "6012bda7fbbe2c00",
+  "subject": "CS606",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s nhi yaad sae se\n\n• Short Questions: me pucha tha question\n\n• Long Questions: handouts me se hee aey thy\n\n• Q1. List three compiler name that AST uses? Q2. A ..... B...... C .....",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:19:42.689Z"
+ },
+ {
+  "id": "fd74ab70f1c5eaf8",
+  "subject": "CS606",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s from parsing, backpatch, handles\n\n• Short Questions:  Aik table tha accept, reduce or error likhna tha\n\n• Long Questions:  Aik table tha No of accepts, shifts, errors likhna thy\n\n•  three function to manipulate goto.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:19:43.292Z"
+ },
+ {
+  "id": "47e81dec1ed937f7",
+  "subject": "CS606",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s\n\n• Short Questions:\n\n• Long Questions:\n\n• 1. 2. 3. 4.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:19:44.199Z"
+ },
+ {
+  "id": "6927e0f85f4989f5",
+  "subject": "CS606",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s 60-70% past files\n\n• Short Questions: 1:find identical handles\n\n• Long Questions: 1:Yacc diagram page (97) label kr thi\n\n• INSTRUCT SET.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:19:50.983Z"
+ },
+ {
+  "id": "c11fc3acfab9f506",
+  "subject": "CS606",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s were from handouts and also from videos but they were so easy\n\n• Short Questions: All were practical like\n\n• Long Questions: 1- Construction of Ll1 table so easy a Grammer was given\n\n• 2- Fill in the blanks A diagram as given and ans was 11 E. Best of luck all student......",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:19:51.724Z"
+ },
+ {
+  "id": "4b2eca30e613b240",
+  "subject": "CS606",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s meray Educational tips ka Ess video sa kaafi zyada aya\n\n• Short Questions: ma aya Thaa and LR parser ka 3 conflicts short ma aya ,\n\n• Long Questions: est \"if\" statement encountered\n\n• Subjective: menay Educational Tips ka Saarey Questions yaad kiyay,un ma sa sirf mera Question 37 short ma aya Thaa and LR parser ka 3 conflicts short ma aya ,\n\n• Baqi sara Unseen Thaa , But Luckily Mujhay saara Atha Thaa In Sha Allah A grade confirm hai mera , Allah kee mada sa In Sha Allah.  16: In YACC, where are the attributes values stored?  17: An assembly language program is a form of code.  28: WOF is not a component of a CFG (i. e. , Control Flow Graph)?  30: The concept of variables is essential for various compiler optimizations like dead code elimination and register allocation.  (d) Constant.  31: What information does an address descriptor typically contain?  (b) The variable's data type (e. g.  (d) The variable's scope within the program.  33: In compiler construction, why is graph coloring applied to the intermediate representation?  (c) To optimize the order of nested loops.  3: In a shift-Reduce parser, the action pops zero or more symbols from the stack and pushes a non-terminal on the stack.  5: The maximum number of reduce moves that can be taken by a bottom-up parser for a grammar with no \\epsilon (i.  9: LR table construction is commonly used in which type of parsing?  11: WOF parsing techniques has the largest parsing table size?  12: What does the yyparse() function do in a YACC specification file?  13: What is an attribute dependency graph in the context of attribute grammars?  (a) A graph that represents the relationships between attributes in a parse tree.  (b) A graph that represents the dependencies between grammar symbols.  (c) A graph that represents the order of parsing operations.  (d) A graph that represents the ambiguity of a grammar.  Correct Answer: (a) A graph that represents the relationships between attributes in a parse tree.  14: What happens if there are circular dependencies between attributes in the rule based methodology of attribute grammar evaluation?  (a) The compiler fails to generate the dependency graph.  (b) The attribute evaluation enters an infinite loop.  (c) The order of attribute evaluation is determined dynamically.  (d) The compiler reanalyzes the attribute rules to resolve the circular dependencies.  Correct Answer: (b) The attribute evaluation enters an infinite loop.  Note: No need to write whole code again.  Q34: Perform left factoring on the following CFG (i.  Q36: List down at least three ways which are used to evaluate the attributes in attribute grammars.  Q38: You are required to write pseudo code for Goto Procedure used in canonical collection of LR(1) items.  Q39: Consider the following synthesized attribute tree generated by a typical attribute grammar. You are required to write appropriate attribute values with respect to numbers given in the diagram. (Note: This question refers to an included tree diagram showing a hierarchy of E.  Note: No need to draw the diagram again.  I.  II.  III.  IV.  V.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:19:52.580Z"
+ },
+ {
+  "id": "7bb98a947467253c",
+  "subject": "CS606",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s related to bottom up parsing, types or methods e. g stack queue tree, types of parson Shift-Reduce Reduce-Reduce\n\n• SDT, DAG are important. s related to bottom up parsing, types or methods e.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:19:53.198Z"
+ },
+ {
+  "id": "655d8a3f9993546b",
+  "subject": "CS606",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s were from the handouts, and half from the important Concepts. Not much from files. (many related to three address code, LR parsing, CFG, Augmented grammar, etc\n\n• Short Questions: Left factoring of CFG (production was given)\n\n• Long Questions: Write expressions in three address code form, table was given\n\n• s were from the handouts, and half from the important Concepts. Not much from files.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:19:54.182Z"
+ },
+ {
+  "id": "1acbc9ef8c581a0a",
+  "subject": "CS606",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s\n\n• Short Questions: (3 Marks Each)\n\n• Long Questions: (5 Marks Each)\n\n• Mot s were conceptual. Difficulty level was medium. Many s were repeated or very similar to the Moaz and Waqar Sidhu files. Q1. Q2. Write three real-life practical applications where compilers are used. Q3. An SDT for the if-then-else statement was given. M. E. S. N. Q4. An LR parse tree (or parsing tree) was given. The task was to write the original grammar/productions from the given parse tree. Write the Canonical LR(1) pseudocode. Different rows contained different numbers of instructions (2, 3, 4, or more), and the task was to calculate the total execution cost for each sequence. An LR Parsing Table was provided. Rows contained states (0, 1, 2, 3, ... Columns contained terminals/non-terminals such as +, (, ), $, S, A, etc.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:20:01.092Z"
+ },
+ {
+  "id": "7f0b952d7d7586c2",
+  "subject": "CS606",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s: MCQs zyada tar handouts ke modules se hi banaye gaye thay. Kuch purani files (Waqar/Junaid) se help mili lekin conceptual sawalat zyada thay.\n\n• Short Questions: 1. CFG Components: CFG ke triplet (<V,E,Entry>) se mutaliq sawal thay ke edge, vertex aur entry point kya hote hain.\n\n• Long Questions: (5 Marks):\n\n• Overall Experience: Paper kafi conceptual tha aur handouts ke un topics se aya tha jinhein aksar ignore kiya jata hai. Sirf past files ya video dekhne se guzara nahi hona tha, handouts ki deep reading lazmi thi. 2. DAG Cycles: Pucha gaya tha ke DAG mein cycles hote hain ya nahi. (Correct Answer: DAG \"Acyclic\" hota hai, is mein cycles nahi ho sakte). 3. Basic Blocks Counting: Ek code segment diya gaya tha jis mein se Basic Blocks ki tadad batani thi. 4. Leader Identification: Block B4 ki aakhri line goto 3 thi, toh batana tha ke leader kaunsa hai. (Aap ka jawab sahi tha, line 3 leader hogi kyunke wo goto ka target hai). 5. Live Variables: Live variables ki definition aur un ka use optimization mein pucha gaya tha. 6. Optimization Tool: Dead code ko optimize karne aur register allocation ke liye kaunsa analysis use hota hai (Liveness Analysis/Live Variables). CFG Analysis: Ek Control Flow Graph diya gaya tha jis mein se total Vertices (V), Edges (E), Basic Blocks, Live variables count kar ke likhne thay. Canonical Collection Pseudocode: LALR(1) items ki canonical collection banane ka poora algorithm/pseudocode likhna tha. Repeat until distinct. Same core wali states choose karein. States ko merge karein (Union of lookaheads). Successors aur edges ko point/update karein. Leaders List: leaders identify karne thay. Basic Blocks identify krny thy. Pro-Tip for Future Students: Sirf \"Shift/Reduce\" ke practical sawal kafi nahi hain. Canonical collection(CC) ka pseudocode, CFG ki mathematical definitions, aur Liveness analysis ko deep mein parhein, examiner yahan se questions kafi uthata hai. Yh wo paper tha jo mujhy nhi ata tha, is liay mujhy yad rha hy, ap is ko ready kr lena.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:20:01.991Z"
+ },
+ {
+  "id": "f7423cbb7a7b1593",
+  "subject": "CS606",
+  "term": "FINALTERM",
+  "experience": "• Short Questions: Q . Syntax Directed Translation (SDT) – If-Then-Else\n\n• Long Questions: 1: Write the LALR(1) Algorithm\n\n• Q . M. E. S. N. question Control Flow Graph (CFG) is given.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:20:02.706Z"
+ }
+]
