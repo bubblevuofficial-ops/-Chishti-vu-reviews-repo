@@ -1,0 +1,234 @@
+[
+ {
+  "id": "a29b8bfe5aa0f0e9",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "1. 2.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:17.795Z"
+ },
+ {
+  "id": "5861d869b34fe6f7",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• Short Questions: Answer the following\n\n• Long Questions: qustions:\n\n• Assalam o alikum paper concaptual tha m. c. qs vu toolkit kay best. Or VU talk ki prepration vedio must dahkiya ever best vedio for cs301. Paper bhi VU talk ki 2no vedios say he aya link bhi paste kr dia. a) If there are 33 external nodes in a binary tree, then what would be the number of internal nodes? b) What would be the number of external nodes if there are 40 internal nodes in a binary tree? 2) Sort the given array in ascending order through insertion sort algorithm, show each step in your solution. 3) Write down the general code to initialize each element of array having no parent in disjoint sets. Note: Consider array index numbers as different sets. 4) Prase tree dia gaaya tha usko express krna tha. 3) Max heap ka tree banaya tha us may 70 add krna tha or max heap ka final structure kia banay ga insertion kay bad.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:18.614Z"
+ },
+ {
+  "id": "a23fc0eea005e538",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s:\n\n• Short Questions: Q1: question es type ka tha like 45 is an internal value then what will be the external value? jasy ky apko pta ha internal N-1 hota ha and ecternal N+1 hota so es ka answer 45 + 1 = 46 tha ese thra ka aik ho question tha us mai external de hoe the internal btane the.\n\n• Long Questions: Q1: values de hoe the random like 22,33,45,65,78,98,09,67,54,45,67 final max heap tree construct krna tha.\n\n• conceptual thy agr ap kise ke b file ready kr rhy hain kindly concept clear krlena A. i se one by one sab s ko explain krwa lena apky s ka portion achy se ho jaye ga file ko ratta mat lagana sirf concept clear krlena chahay ap kise ke b file se kr rhy. bas aik s muje yad ha vo b meny glt laga dea shyd s hy huffman code ka founder kon ha meny john huffman laga deya shyd ye glt ha. Q2: values de hote the like 33,54,65,23,67,54,87 min heap tree construct krna tha. Q3: aik tree dea hua tha left left rotation us ko simple balance krna tha. Q4: code dea hua tha enqueue dequeue type ka output find krna tha simple. Q2: hashing wla aik tha like table dea hua tha left digits already fill the right wale fill krne the kuch values question mai given the like 2,5,6,10,3 or formula be dea tha (2x + 1)mod 7 es thra final value nikal kr table fill krna tha accordingly. Q3: code dea hua tha complete krna tha mid se.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:19.302Z"
+ },
+ {
+  "id": "31f6563b395d3068",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s easy tha minheap ma sa tha external internal tha kuch arry dia howa tha  insert sort karna tha   hash ka bara ma 3 mcqs tha mushkil tha wo kafii\n\n• Short Questions: ma\n\n• Long Questions: ma\n\n• s easy tha minheap sa tha external internal tha kuch arry dia howa tha insert sort karna tha hash ka bara 3 s tha mushkil tha wo kafii s file or VU concept channla ki youtube videos dakhna sa or paradox ka s karna sa almost cover ho gaii tha s ma tree tha 2 btana tha kon si roaton laga gi or ya complete binary trr baana ga A or B part tha ak ma nodes btani thi hight 5 ki edge kar ka or ma arry tha us na btana tha ka after 10 delect karna sa finnals kia arry bana ga sara banaan para fir finnal answer aya tha inset sort ka tha hash ka tha bs yahi yad ha",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:19.990Z"
+ },
+ {
+  "id": "168cf3c116e6c778",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s tha\n\n• Short Questions: ma 1 code Wala tha yaaad nhi\n\n• Long Questions: tha\n\n• Paper bhot easy min heap tree build Karna tha tha AK node insert kar ka balance Karna tha Baki bi paper khafi easy tha zyda tar world of education ki videos sa Aya paradox ka",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:20.801Z"
+ },
+ {
+  "id": "cb8ccf9a5c4da32b",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "a)What is this operation called? b)What is its functionality? Q3: Given values 1, 5, 4, 7 and hash function h(x) = (x+3) % 4, apply linear probing and show the array indices. Q4: In Max Heap and Min Heap, where are the largest and smallest elements stored respectively? Q5: An AVL tree was given; delete node 85 and rebalance the tree. Q6: Given the array 58, 48, 78, 64, 12, 98, 99, 100... find 98 using sequential search. How many times does the for loop run? Q7: Draw a min heap from the values: 3, 1, 6, 5, 2, 4.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:27.513Z"
+ },
+ {
+  "id": "840b0a86a796e7f6",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s : past mn se thy\n\n• Short Questions: mein trees banany thy or long mn b trees e banany thy kuch mn node remove krky unko balance krna\n\n• Long Questions: mn b trees e banany thy kuch mn node remove krky unko balance krna\n\n• Course Code CS301 Exam : Finalterm (Spring 2026) Date: Time:",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:28.291Z"
+ },
+ {
+  "id": "a0b36db57cfc5cd1",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: 's zeyada tr conceptual thy.....Handouts ko Notebooklm pr de kr 500 MCQ's generate krwa kr prepare kr lena achy sa\n\n• Paper Mostely conceptual tha... BST tree bana tha... or sath mn path likha hova tha ... Parse tree. Or 's zeyada tr conceptual thy.....",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:29.009Z"
+ },
+ {
+  "id": "094c1ddd05681314",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s mostly from Vu toolkit plus conceptual bi thay kuch.\n\n• Short Questions: lecture watch karo.\n\n• Subjective: mostly from AVL tree sy tha\n\n• kst learning ki VU Talk ki 2 preparation video must watch karo 2hour ki aik aik video hain lazmi watch karo concept bi clear hogy ga.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:29.787Z"
+ },
+ {
+  "id": "50215b63f886f000",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: S :Mostly vu toolkit se thee ur ku6 handout se\n\n• Short Questions: me trees bnane thee and ku6 me node  remove kr ke unko balance krna thaa\n\n• Long Questions: Given AVL Tree and 2 more nodes in it and balanced it\n\n• me trees bnane thee and ku6 me node remove kr ke unko balance krna thaa Draw AVL tree of 3,4,5,6 Parse tree bnana thaa (54)+3 is tara ka ku6 thaa",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:30.510Z"
+ },
+ {
+  "id": "57834ecc2c1d6ae7",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s handout Sa he thy kuch quiz files ma Sa bi thy\n\n• Short Questions: ma infix tree ka expression likhna Tha\n\n• Long Questions: ma parse tree Bnani thii ya mushkil Tha\n\n• Or AK question ma tree Bnani thii rotation Kr ka or AK question conceptual Tha equivalance relation ka related thy or AK question ma skip list ma AK value insert krni thii AK ma equivalence relation btany thy ak question ma bubble sorting krni thii Baki overall normal he Tha paper",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:37.487Z"
+ },
+ {
+  "id": "43132597ef86de33",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s from handout\n\n• AJ Mera cs301p ka paper Tha Questions ma 2 ma code ke output thani thii or AK ma code likhna Tha for percolate Or AK ma min heap ke array create krni thii after applying heapify",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:38.191Z"
+ },
+ {
+  "id": "ba50e065cc889a30",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s mostly past papers sy thy easy thy subjective me aiik question tha binary search tree algorithm ka code dia hua tha output btani thi aik tha ky queue function likhna tha aur 2 names thy unk queue me add krna tha aik tree traversal order wala tha aur last queue ka code tha jisme output btani thi ky values enqueue dequeue hony ky baad kya y\n\n• Subjective: me aiik question tha binary search tree algorithm ka code dia hua tha output btani thi aik tha ky queue function likhna tha aur 2 names thy unk queue me add krna tha aik tree traversal order wala tha aur last queue ka code tha jisme output btani thi ky values enqueue dequeue hony ky baad kya y\n\n• this review is for the paper cs301 PRACTICAL!!!!!",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:38.895Z"
+ },
+ {
+  "id": "957d311c5f7f5bf7",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s MN ye thy k . Huffman coding kis NY introduce krwai ...skip list ka idea kis ka tha... hashing waly topic MN Sy thy Kuch....Baki yad ni aa rhy ...Itny py hi guzara kren ....🙂\n\n• Short Questions: MN aik tree diya gya tha uska expression likhna tha ye b easy tha ...\n\n• Long Questions: MN aik Huffman coding Wala tha... Aik tree diya gya tha or  A B C D E ki coding values likhni thi... easy tha ye..\n\n• question MN aik Huffman coding Wala tha... Aik tree diya gya tha or A B C D E ki coding values likhni thi... easy tha ye.. Aik question MN min heap di Gai thi or uska array bnana tha... Aik question hashing MN Sy tha mjy ni pta wo kesy krna tha... Shirt question MN aik expression diya gya tha like 48 + 84 + / ... iska tres bnana tha... Aik or s MN ye thy k . Huffman coding kis NY introduce krwai ... skip list ka idea kis ka tha... hashing waly topic MN Sy thy Kuch.... Baki yad ni aa rhy ... Itny py hi guzara kren ....",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:39.609Z"
+ },
+ {
+  "id": "13079bb8f0933929",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s from world of education final term preparation videos (3)\n\n• Short Questions: skip list wla tha ik\n\n• Long Questions: 1.\n\n• Kuch conceptual thy .. or highlighted handouts lazmi read kriay ga .... Ik handouts sy aya tha k alpha ka kuch tha us m ik new node insert kro left subtree py to wo unblanance ho jta hai to btana tha k kitne rotations lgy ge balance krny m.... To is ka ans tha k singal rotation apply krain gy to balance ho jy ga ... 3. Ik huffman tree dia hua tha A B C ke code bitstream de hui thi A. 0. B 10. C 110. Is k comment m handouts ka link hai highligted wo bht help krain gy lzmi prhiay ga .....",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:40.387Z"
+ },
+ {
+  "id": "a235b8961d84d472",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s almost extension my sy hi thy or subjective bhi MCQs ki tarha hi conceptual thy.....Overall paper bus theek hi tha.....\n\n• Subjective: bhi MCQs ki tarha hi conceptual thy.....Overall paper bus theek hi tha.....\n\n• CS301 ka paper 80% conceptual tha s almost extension my sy hi thy or bhi s ki tarha hi conceptual thy..... Overall paper bus theek hi tha.....",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:46.686Z"
+ },
+ {
+  "id": "5d25a929c411c6b5",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s thory difficult thy .. or short mn ek output btani the .. dosra min or max heap kia hn .. 3sra ek tree diya huwa tha btana tha k min hai ya max .. 4tha ek arry di huwi the mid find krna tha .. 5va yaad nhi 🥲\n\n• Short Questions: mn ek output btani the .. dosra min or max heap kia hn .. 3sra ek tree diya huwa tha btana tha k min hai ya max .. 4tha ek arry di huwi the mid find krna tha .. 5va yaad nhi 🥲\n\n• Long Questions: . ek mn tree bnana tha ek value insert krni the phir roatate kr k final tree .... 2sra ek code tha maxheap ka us myn error find krny thy.. 3ra us myn equivelence relation btana tha\n\n• s thory difficult thy .. or mn ek output btani the .. dosra min or max heap kia hn .. 3sra ek tree diya huwa tha btana tha k min hai ya max .. 4tha ek arry di huwi the mid find krna tha .. or . ek mn tree bnana tha ek value insert krni the phir roatate kr k final tree .... 2sra ek code tha maxheap ka us myn error find krny thy..",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:47.370Z"
+ },
+ {
+  "id": "554402dc653715d4",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: paradox file\n\n• Short Questions: internal or external ka concept clear kr lain\n\n• Long Questions: may\n\n• Ak.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:48.194Z"
+ },
+ {
+  "id": "6c9fe3042ce5f744",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: world of education ki preparation video s tha ir handout s tha sorting nodes avl pixel un topic m s zyda tha\n\n• Short Questions: 1 divide and conquer m konsi sorting algorithm ni hota wo 3 nam likhna tha ( selection, insertion, bubble)\n\n• Long Questions: 1 Union by size k tree bna tha (1,2)(1,7)(8,9)3,8)(9,1)\n\n• 2 binary tree k N Internal nodes is m links kitna hon gya internal links kitna hon gya external links kya hon or external nodes? 3 Sort k pora algorithm array solve kia tha pocha tha k konsa sort ?",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:48.888Z"
+ },
+ {
+  "id": "8af866982fa28d78",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s thay us main se aur concepts bi clear ho jaty\n\n• Short Questions: expression dia tha uska tree bnana tha aur ek tree tha uska expression btana tha\n\n• Long Questions: Hoffman se tha code dia tha character btany thy\n\n• Subjective: aur objective zror watch krain mcqs thay us main se aur concepts bi clear ho jaty\n\n• Mobiz ki aur zror watch krain Baki paper main Aur code tha error find krna tha Ek skip list se tha k hamain agr element na mile kahi bi to kia return hoga Ek max heap aur min heap se tha",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:49.596Z"
+ },
+ {
+  "id": "6c049fcf7c768138",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s files sy thy 10 or Kuch conceptual thy\n\n• Short Questions: In max and min heap what is the order of large and small node Kuch asa sawal tha\n\n• Long Questions: Max heap delete krni thi\n\n• Date 27,8,2026 ppr cs301 questions Aik tha KY parent left child right konsi hai mtlb formula likhna tha Aik AVL tree tha us me aik nide left me add krein to kitni rotation lgy gi aik write me add krey to kitni Aik insertion sort question (de)+F draw expression tree Aik me linear probing X+3%4 ye formula tha",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:55.930Z"
+ },
+ {
+  "id": "02be9bd3cc60cc11",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: S maximum PARADOX ki mcqs website se thy, eik short me tree or uski bits given thi , bits ko tree se match kr ke word btana tha jo bnta tha, eik short or long me code given tha uska algorithm btana tha kn sa use use hua, eik short me BST ko AVL tree me convert krna tha, Eik short me AVL tree balance krna tha, Eik long me AVL max heap ka tree given tha usme eik max heap 70 insert krni thi, eik union wala tha usme array ko given union data ke according update krna tha, OverAll booht asan tha.\n\n• Short Questions: me tree or uski bits given thi , bits ko tree se match kr ke word btana tha jo bnta tha, eik short or long me code given tha uska algorithm btana tha kn sa use use hua, eik short me BST ko AVL tree me convert krna tha, Eik short me AVL tree balance krna tha, Eik long me AVL max heap ka tree given tha usme eik max heap 70 insert krni thi, eik union wala tha usme array ko given union data ke according update krna tha, OverAll booht asan tha.\n\n• Long Questions: me code given tha uska algorithm btana tha kn sa use use hua, eik short me BST ko AVL tree me convert krna tha, Eik short me AVL tree balance krna tha, Eik long me AVL max heap ka tree given tha usme eik max heap 70 insert krni thi, eik union wala tha usme array ko given union data ke according update krna tha, OverAll booht asan tha.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:56.688Z"
+ },
+ {
+  "id": "be9b77884d901fda",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s were almost conceptual jo samaj hi ni arhy thy kaha sy agy 🥲. Prepare Handouts extensively AVL Tree and last 5-6 Algorithms Lectures are very important. Short and Long Questions were a bit easy mostly to build AVL tree or tell elementary algorithm names.\n\n• Short Questions: and Long Questions were a bit easy mostly to build AVL tree or tell elementary algorithm names.\n\n• Long Questions: were a bit easy mostly to build AVL tree or tell elementary algorithm names.\n\n• s were almost conceptual jo samaj hi ni arhy thy kaha sy agy . Prepare Handouts extensively AVL Tree and last 5-6 Algorithms Lectures are very important.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:57.486Z"
+ },
+ {
+  "id": "c9bb96ad659ba07d",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: S were very easy mostly from handouts   1.Queues\n\n• Long Questions: 1. Given a AVL tree add 2 more nodes in it and balance it.\n\n• S were very easy mostly from handouts 1. 2. 3. 4. 5. Which is not elementary algorithm 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:58.185Z"
+ },
+ {
+  "id": "610bfb72e192cd9d",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s kiye thy laikin wahan ay aik b nahi aya ...main ny saray trees prepare kiye thy laikin un main sy aik b mcqs nahi aya mujhay to smj hi nahi aya ....ap sab apny handouts achi tarah prepare kar lain main ny wohi nahi kiye thy to main b isi waja sy bura gya paper\n\n• Apny handouts achy sy par k jayain main ny paradox k saray s kiye thy laikin wahan ay aik b nahi aya ... main ny saray trees prepare kiye thy laikin un main sy aik b s nahi aya mujhay to smj hi nahi aya ....",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:58.901Z"
+ },
+ {
+  "id": "960085439168ec83",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "CS301 / CS301P paper conceptual tha aur mostly handouts se aya. Programming part: Sorting ke programs diye hote hain, half code hota hai jo complete karna hota hai.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:58:05.484Z"
+ },
+ {
+  "id": "7a53ac7be75ab904",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: thaa \"who introduce tha idea of Skip list\" or subj bhi shai thi aik main tree bana thaa min heap ka value dye hoi thi unho nay, or aik kaa AVL tree ko balance karnaa thaa, aik main unhi nay binary tree ka algorithm ka code diaa thaa uska output likhna thaa or aik main code main error find karnaa thaa, aik main unho nay 2 Array boxes dyte thy jis main agar value greater than or equal to 5 thi usk box ko red color karna thaa or Joh value less than 5 thi us box ko green color karnaa thaa, or aik main values or index dye hoyee thy usko Heap max ka hisab say arrange karnye Array form main bana kar likhna thaa overall paper easy thhaa concept clear hoo tuh in topics ko achy say kar lyee selection sort, insertion sort, bubble sort(in sub ka formulas ) AVL tree, binary tree, binary search tree, complete binary search tree, Huffman coding\n\n• Short Questions: ?si=zHMtGAh11KkqVZH\n\n• Long Questions: DFQ?si=2onv8Q1Mx40bDs2M\n\n• CS301 ka Paper sahi ayaa tha object mostly inhi videos Main say thi orr thory say conceptual thy aik CS301 Final Term Preparation Videos List",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:58:06.087Z"
+ },
+ {
+  "id": "8a882258af694805",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s were from all handouts\n\n• Short Questions: Draw expression tree\n\n• Long Questions: Output\n\n• question Formula of finding mid value in BST questions Draw AVL tree of 1 ,2,3,4,5 Union by weight",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:58:06.765Z"
+ },
+ {
+  "id": "bf98f7f89f24ff3d",
+  "subject": "CS301",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s : sab vu toolkit mn se thy\n\n• Short Questions: mein trees banany thy or long mn b trees e banany thy kuch mn node remove krky unko balance krna tha\n\n• Long Questions: mn b trees e banany thy kuch mn node remove krky unko balance krna tha",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:58:07.608Z"
+ }
+]
