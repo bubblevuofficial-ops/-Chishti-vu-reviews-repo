@@ -1,0 +1,26 @@
+[
+ {
+  "id": "adbc47d51173eb31",
+  "subject": "CS420",
+  "term": "FINALTERM",
+  "experience": "Overall paper easy tha. 1. 2. Color is black (text color i. e. 3. Write the names of any three pointer attributes. Write HTML code for a file-input element that allows the user to select image files only by using the \"accept\" attribute. A field for entering the total quantity of items in a shopping cart, which must restrict input to whole digits only and provide up/down step buttons. In the context of Touch Interaction, what is Click Delay? Analyze the following HTML file-input elements. Enlist the names of the capture device specified by each input element's \"capture\" attribute. 1- Write the event name registered on the button. 2- Which event property identifies whether the pointer is a mouse, pen, or touch? document. getElementById(\"b\"). getElementById(\"o\"). \"that was a \" + e. type + \" on a \" + e. target. Paper 90% handouts + examples based tha.",
+  "difficulty": "Easy",
+  "savedAt": "2026-10-28T17:09:48.683Z"
+ },
+ {
+  "id": "341a1ebd279a3a42",
+  "subject": "CS420",
+  "term": "FINALTERM",
+  "experience": "• Subjective: questions:\n\n• Q1:What are the media values used with accept attribute used in html? Ans: Audio, video, image. Q2: What are the 3 parametrs of navigator. getUserMedia? Ans : (constraints, successCallback, errorCallback). Q3: What are 3 pointer attributes? Ans: PointerID, pointertype, Isprimary. Aik css code likhna tha. 2 Table fill karne the. aik mein input value types batani thin aur aik true false batana tha.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:09:49.393Z"
+ },
+ {
+  "id": "e057904f5a8fbd8f",
+  "subject": "CS420",
+  "term": "FINALTERM",
+  "experience": "• MCQs: 'S\n\n• Short Questions: qs:\n\n• Long Questions: ques:\n\n• 1. Q: Which one is not a chrome development tool? A. Elements B. Console C. Source D. 2. Size of Touch Area should be at-least . 05 mm X 05 mm B. 20 mm X 20 mm C. 10 mm X 10 mm D. 3 . is a horizontal coordinate of point relative to viewport, excluding scroll offset. ScreenX B. ClientX C. PageX D. 4. Pointer Events Package B. Pointer Events Polyfill C. Pointer End Package D. 5. tool is used for mobile application development. Notepad B. Unity 3D C. Notepad++ D. 6. Which type of keyboards offered by mobile devices are physically smaller and usually more tedious to operate? Virtual Keyboards B. Physical Keyboards C. On-Screen Keyboards D. 7. In the function we grab the x and y coordinates of the touch, and write them to the coordinates div. EventListner B. EventHandler C. TouchHandler D. 8. Choose the correct option for identifying the touchzone div; var touchzone = . document. getElementById() B. page. getElementById( ) C. session. getElementById( ) D. scope. 9. the user agent may consider touches that begin on the element only for the purposes of vertically scrolling the element's nearest ancestor with vertically scrollable content. Touch-action: Pan-y; B. Touch-action: Pan-up; C. Touch-action: Pan-down; D. 10. Q: Google, Microsoft, Amazon, Facebook, and others all show that UI performance translates to profit. Directly B. Inversely direct C. Not proportional D. 11. Tabkey B. Altkey C. metakey D. 12. Microsoft made a standards proposal that reconciles touch events and mouse events and pen input too, into one model called pointer events. 13. 14. 15. 16. Q: Generally, desktops and laptops have a(an) input device as compared to phones and tablets. Equal B. Larger C. Smaller D. 17. The pattern element takes as expressed by the java script. 18. 19. Navigator. 20. Performance is a website . Requirement B. 21. You can set the view port, to be non-scalable. Either, set user scalable, to no, or set minimum scale and maximum scale, to one. 22. . 23. both event type and even target B. interface C. event type D. 24. Q: Which of the following is NOT a mobile sensor? X-ray B. Proximity C. Picture D. 25. 26. ek tha Q: Which of the following cannot be detected or recognized from a picture? QR Code B. Bar Code C. Taste D. Which hashtag is used by the web developer Performance community for social media and news? write code in HTML used Button id and displayed text \"Send Answers\" and ID submit. Ans. 3. coords. innerHTML = 'x: ' + event. touches[0]. pageX + ', y: ' + event. Consider HTML Code and write Javascript (ye week 9 sy aya tha slide 11 sy html dia howa tha javascript likhni thi touchzone wli). In touch interaction , define click delay.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:09:50.212Z"
+ }
+]
