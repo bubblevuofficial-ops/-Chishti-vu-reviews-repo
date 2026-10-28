@@ -1,0 +1,106 @@
+[
+ {
+  "id": "010c927dd2280847",
+  "subject": "CS610P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s ka Liya vu zone iqra Azhar + vu exam ke video kr lo 10 mcqs long 2 ya 3 hojaii ga mara 3 long aii inki video sa 10 mcqs ip4 ip6 likhna tha or coloum match krna tha vu exam prep ki video sa aya tha or mcqs ma Jo values ati Hain subnet etc wali vo yad rakhna confuse nhi hona or extra time hoto mobiz corner ki 2 videos b kr lena\n\n• Long Questions: 2 ya 3 hojaii ga mara 3 long aii inki video sa 10 mcqs ip4 ip6 likhna tha or coloum match krna tha vu exam prep ki video sa aya tha or mcqs ma Jo values ati Hain subnet etc wali vo yad rakhna confuse nhi hona or extra time hoto mobiz corner ki 2 videos b kr lena\n\n• Assalamualaikum",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:22:37.081Z"
+ },
+ {
+  "id": "eba39a6c3cd68dd3",
+  "subject": "CS610P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s easy the vu zone witn iqra+paradox file se the\n\n• Paper bht easy  is use to encrypt IPv4 traffic MAC address has --- bits DHCP provide  to client Sare questions vu zone youtuve video mein se the exact same",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:22:37.981Z"
+ },
+ {
+  "id": "4e2e6dc6779e1845",
+  "subject": "CS610P",
+  "term": "FINALTERM",
+  "experience": "1. IP Adresses were given, tell which one is Private and which is Public? Starts with 172. Starts with 192. Private: 10. 0. 0/8 is explicitly identified as a private network . Public (Global): 128. 210. 24. 6 is used as an example of a global IP address . 2. information will be required? 3. devices such as switches and routers etc. a. Changing the default name of Cisco Router as “CS610p-Router”. b. Setting password on the router as “CS610pp”. c. Checking the IP address of all interfaces on the router. 4. command you will use for this purpose? -What will be the default wait time in milliseconds? -Mention the symbol that will show in case of dropped packets. -What will be the maximum value of TTL? Default wait time:. Dropped packet symbol:. . 5. Class A: 10. 0/8 1. 6. floors. segments with each other. in Karachi via public network. Which type of intelligent device will be used to connect the local computers at the first floor? Which device will be used to connect the segments of LANs of the first and the second floor? Which device will be used to connect these LANs with the public network? Intelligent device (first floor): A Switch (such as an ATM switch or LAN switch) . Connecting LAN segments: A Router. 7. Consider the IP address 195. IP Address 195. a) Total number of subnets: 32 (Calculated from Class C default 24 to 29. b) Total number of usable hosts: 6 (Based on 3 host bits: 2^3 - 2 = 6. 8. Write IP configuration command? 9. Connections matching with cable time ()straight through or crossover? 10. write first octet ranges and subnet mask of class A,B and C? Class A: Range 0 through 127; Subnet mask 255. 0 8, 11. Class B: Range 128 through 191; Subnet mask 255. 255. Class C: Range 192 through 223; Subnet mask 255.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:22:38.715Z"
+ },
+ {
+  "id": "9b6fe0ec08de4419",
+  "subject": "CS610P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s b easy thy\n\n• meiny paradox ke hi current or past paper reviews dekh kr iqra aziz ki video prepare ki thi muje same to same wohi paper a gya baki wo video quality achi nhi thi lakin phir b meiny prepare kr li thi",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:22:39.394Z"
+ },
+ {
+  "id": "aab8e0212bd562e0",
+  "subject": "CS610P",
+  "term": "FINALTERM",
+  "experience": "• Long Questions: to wahi thy same ivp6 , ivp4 Wala. Or match tha column. Us k elawa binary numbers diye thy jaisy 11100100 is k first octet sy Batana tha k Kon c ip class ha. Easy tha.. iqra ki video sy easily ho jaye ga. Inshahallah.. Wireshark or packet tracer allow nahe tha.\n\n• Easy tha. Paradox ki file parh lain. Iqra Azhar ki video dekh lain. 2",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:22:40.187Z"
+ },
+ {
+  "id": "b5436b6f16bcd527",
+  "subject": "CS610P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: 's mobiz knowledge ki video sy ay thy or baqi MCQ's bi Iqra azhar ki video sy ay thy.\n\n• sara paper iqra azhar ki video sy aya tha or 4 5",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:22:47.686Z"
+ },
+ {
+  "id": "4c793e616ab5ac8a",
+  "subject": "CS610P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s theory Mai sy thy , mostly subnet , host , borrowed bits calculation ky thy. Subjective easy tha 2 questions vu zone with iqra ki video Sy thy. Aik question Mai Batana tha ky IPv4 aur IPv6 ky features. IP address bht important. IP configuration ki command likhni thi. Classes likhni thi IP ki air unki ranges.\n\n• Subjective: easy tha 2 questions vu zone with iqra ki video Sy thy. Aik question Mai Batana tha ky IPv4 aur IPv6 ky features. IP address bht important. IP configuration ki command likhni thi. Classes likhni thi IP ki air unki ranges.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:22:48.393Z"
+ },
+ {
+  "id": "12a4a1eaaa278bec",
+  "subject": "CS610P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: S were based on calculations eg subnets, hosts, subnet mask etc.\n\n• Long Questions: 1 Matching of devices with functions\n\n• 50% LQ4 write first octet ranges and subnet mask of class A,B and C.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:22:49.189Z"
+ },
+ {
+  "id": "2c49aaeb556e1971",
+  "subject": "CS610P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: b mere 2 subjective 5 num k us me se aie the ipv4 or ipv6 Batana tha and dosre me bridge lab switch repeater in kancoloumn fill krna tha or agr zada Achi prep krni he to Mobiz k dekh Len 50% hjae ga easily ak or video t Vu exam prep channel nam se us me se b aie hoe the\n\n• Subjective: b or objective b mere 2 subjective 5 num k us me se aie the ipv4 or ipv6 Batana tha and dosre me bridge lab switch repeater in kancoloumn fill krna tha or agr zada Achi prep krni he to Mobiz k dekh Len 50% hjae ga easily ak or video t Vu exam prep channel nam se us me se b aie hoe the\n\n• Bs Vu zone by iqra Azhar ki video dekh lo Dito question Lagen ge us me se Kuch b or",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:22:49.921Z"
+ },
+ {
+  "id": "2c88a971548e81e6",
+  "subject": "CS610P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s kr lein i think 100 ya 110 MCQs hn paper sara almost issi my sy aya v tha\n\n• Paper boht easy tha Y video dekhein lein or paradox ky",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:22:50.800Z"
+ },
+ {
+  "id": "17713641d76cd5e5",
+  "subject": "CS610P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: 70% from video:\n\n• Subjective: from this video: https://www.youtube.com/watch?v=0MiFRLUYJ2c\n\n• 3)Q7.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:22:58.281Z"
+ },
+ {
+  "id": "19c5d4750f92a756",
+  "subject": "CS610P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s ki ik subjective mene wo subjective bhi complete ni ki thi srf 14 questions kiye the ydd...\n\n• Subjective: mene wo subjective bhi complete ni ki thi srf 14 questions kiye the ydd...\n\n• Alhumdulilah Paper bht bht bht zada easy the mene srf 3 video dekhi thi youtube se koi lab kuch bhi ni bs unhi 3 videos me se paper aya hua tha or past papers paradox ki website se ja kr dekhe the ik question un me se aya hua tha youtube videos do mobiz knwolege waalo ki thi ik Or ik video iqra azhar ki bs ye kr lein paper 100 percent ho jai ga INSHAALLAH best of luck for your exams.... 3 question In packet tracer tool, when we perform a static IP configuration, then which types of information will be required? 4 question ye past paper me se tha k ik router h us me router ka name h cisco router hm ne use change kr k likhna cs610p router.. or cs610pp is ka pasword kese lgai ge.. baaqi s were mostly iqra azhar and mobiz knwoledge videos....",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:22:59.105Z"
+ },
+ {
+  "id": "b6015da8c42d4c5e",
+  "subject": "CS610P",
+  "term": "FINALTERM",
+  "experience": "Here",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:23:00.089Z"
+ }
+]
