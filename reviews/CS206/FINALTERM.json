@@ -1,0 +1,50 @@
+[
+ {
+  "id": "4da900aa366fd43c",
+  "subject": "CS206",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s were mostly from the VU Toolkit Extension MCQs, quizzes, and handouts. Most were conceptual, while some were straightforward and easy.\n\n• What is Window Scaling? What is an Ethernet MAC Address? What are Wireshark Filters and their Uses? Write the commands to configure a Loopback Interface for the RIP Routing Protocol. Expert Info System Categories (Table) — Write the Color Names. Mention the name of a specific protocol that indicates route redirection? Also give the corresponding values of protocol fields in the following table that indicate route direction. Duplicate ACKs are used to inform the sender about packet loss. They can also be an indication of out-of-order packets. In the Wireshark tool what filters will you unite in the display filter area to keep a record of out-of-order packets and to determine the numbers of duplicate ACKs?",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:56:52.191Z"
+ },
+ {
+  "id": "1176863072711ace",
+  "subject": "CS206",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s vu toolkit se hy mostly lkn long or short bht zaida difficult thy cisc0 packet tracer se  ques thy Give commands of configure the Ip address\n\n• Short Questions: bht zaida difficult thy cisc0 packet tracer se  ques thy Give commands of configure the Ip address\n\n• Long Questions: or short bht zaida difficult thy cisc0 packet tracer se  ques thy Give commands of configure the Ip address\n\n• s vu toolkit se hy mostly lkn or bht zaida difficult thy cisc0 packet tracer se ques thy Give commands of configure the Ip address ip address dia hua tha uska hr filter k lia apply krna tha or ek table tha sare delays dia huy thy acceptable or not acceptable mention krna tha 5 marks ka tha",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:56:52.898Z"
+ },
+ {
+  "id": "4ec66bc7a9db7822",
+  "subject": "CS206",
+  "term": "FINALTERM",
+  "experience": "• MCQs: 'S\n\n• - \"Is Wireshark used for Wired or Wireless networks? - \"Which one is the correct IP address? At least 10 to 12 s were directly from the VU Toolkit s file.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:56:53.688Z"
+ },
+ {
+  "id": "8fac49056b51e2d9",
+  "subject": "CS206",
+  "term": "FINALTERM",
+  "experience": "• MCQs: or long aye hue thy\n\n• Long Questions: aye hue thy\n\n• Subj was kinda difficult ... Abbreviations zeda ai hui thi ( TAP,SACK,RIP,CLI,SMB) .... Filter name related questions zeda thy ... filter name of double ack ... Wireshark Expert infos system categories are given (table ) write color names ...",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:56:54.389Z"
+ },
+ {
+  "id": "3c4598819795f70b",
+  "subject": "CS206",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s:\n\n• Short Questions:\n\n• Long Questions:  3 questions - 5 marks each\n\n• 1. 2. 3. ICMP Redirect types. Wireshark Colors based question. ACKS / Analysis based question. Overall the paper was mostly covered from VU Toolkit.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:56:55.088Z"
+ },
+ {
+  "id": "e20fe9c029719ad2",
+  "subject": "CS206",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s available on VU Toolkit and memorized some important abbreviations. Based on my own paper, the exam went quite well.\n\n• Short Questions:  Prepare the 57-ish VU Toolkit final-term MCQs with concepts, revise Expert Infos tabs + their colors, and go through the important abbreviations once. This should give you a solid preparation base for the exam. This is only based on my experience with the current paper, so the paper pattern can vary for others.\n\n• Long Questions: with 100% confidence, securing 10 marks for sure from there.\n\n• Just sharing my experience from the CS206 final exam I only prepared the 57-ish final-term I attempted 2 questions One question was about the colors of different tabs in Expert Infos. There was a table where one column had things like Errors, Warnings, Chat, Notes, Packet Comment, and we had to write their corresponding colors. For example, Error = Red, Warning = Yellow, Notes = Cyan, Packet Comment = Green, etc. This question was worth 5 marks. Another question asked us to simply write the names of the tabs available in Expert Infos, such as Error, Warning, Notes, etc. So I would suggest reviewing these two topics once before the exam. As for the s, if you properly prepare the 57 final-term s from VU Toolkit awith understanding the concepts, you can probably get around 12 s confidently correct based on my paper. However, the questions were not exactly the same; the wording was changed slightly, so make sure you understand the concepts rather than just memorizing them. If your goal is just to pass, I think preparing these s properly, understanding the concepts, and preparing the Expert Infos questions can give you a good chance. Also, revise the important abbreviations. I personally didn't prepare them very well. For example, I wasn't completely sure about the full form of SACK (Selective Acknowledgment), but I selected it as a guess and fortunately, it turned out to be correct. For the remaining 20–21 s, I mostly used logic and educated guesses. Around 10–12 of them I was able to solve logically based on my understanding, so there was roughly a 50/50 chance for some of them. The remaining 5–8 s were complete guesses. I only needed 20 marks to pass, and based on the s and questions I attempted confidently, I believe I have already secured enough marks to pass. Any additional marks will just be a bonus. In",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:01.507Z"
+ }
+]
