@@ -1,0 +1,58 @@
+[
+ {
+  "id": "9ae97d17b103d140",
+  "subject": "CS607P",
+  "term": "FINALTERM",
+  "experience": "• Short Questions: s\n\n• Long Questions: Q1. MATLAB Script - Neural Network\n\n• 1. In the context of N-Queen, a queen is placed at (2,3) on 4x4 chess board, which position is safe? 2. 3. 4. 5. Data Structure is mostly used to implement DFS. 6. Display in CLIPS Agenda Browser window? 7. Single line comment in MATLAB. 8. MATLAB stands for Matrix . 9. In clips which sign used to diving / divide? 10. Main Purpose of backtracking in DFS. 11. 12. If we start from A, BFS order will be? Q1. 1. 2. 3. 4. 5. Display the predicted output. Q2. Display the fact using appropriate built-in command in CLIPS. Q3. `printout` function = ? `t` = ? `crlf` stands for = ? Output = ? `crlf` use = ? Q4. Nodes = ? Vertices/Edges = ? Time complexity of BFS = ? Space complexity of BFS = ? Order of nodes visited during BFS traversal = ?",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:20:59.981Z"
+ },
+ {
+  "id": "8e564c17dc4a9f8e",
+  "subject": "CS607P",
+  "term": "FINALTERM",
+  "experience": "1. 2. 3. 4. 5. (bind ? f (+ ( ? c (/ 9. 0 5. (printout t ? c \" °C is equal to \" ? i. ii. iii. For a total of 1 fact. x = 0:0.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:21:00.791Z"
+ },
+ {
+  "id": "30fdd8458631e45f",
+  "subject": "CS607P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s were mostly from the files. Study Hina Shahzadi's files or watch the YouTube videos for better preparation.\n\n• Subjective: was exactly as shown in the images.\n\n• The",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:21:01.425Z"
+ },
+ {
+  "id": "59b0b46beee4c7b2",
+  "subject": "CS607P",
+  "term": "FINALTERM",
+  "experience": "1) Ik graph tha usay bfs mein convert kr k us say related kuch question pochay hoay tha jesay uski time complexity us k vertices edges weghera . a. b. c. d. e.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:21:02.201Z"
+ },
+ {
+  "id": "2320bfcf83a57727",
+  "subject": "CS607P",
+  "term": "FINALTERM",
+  "experience": "• Subjective: Questions:\n\n• Reviews se itna prepare kia per practical men nh aya, baki theory men kujh repeat huwey. Practical subject men sab DFS BFS se tha mera to. DFS tree tha aur phr us se related questions they jou btany they, like how many nodes hen ismen, edges, and then compute krna tha time and space complexity. Tables given thi, us men MATLAB ki tabs ka naam likhna tha k Home tab me hota hai ye feature ya Apps ya Plots men. So MATLAB karlrn men to bilkul nh kia tha. 4×4 ka chess board per queen thi, wo board half filled tha. Usmen easy sawal they k kitney queens hen abi aur nai kaha per rakhna safe hoga, aur row, diagonal and column conflict ka be sawal tha.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:21:03.003Z"
+ },
+ {
+  "id": "5cfb722661d4f27b",
+  "subject": "CS607P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s from files\n\n• Paper was too easy Print welcome cs607p ki command thi batana tha output Kiya ay gi Aik or clip ka question tha fact or defrule Wala animal characteristics likhni thi clips ma Aik mamdani wali diagram thi explan Karni thi Question tha input or output btani thi Clips ka concept achy say clear Kary lay",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:21:09.995Z"
+ },
+ {
+  "id": "f3dfec845e3aa3e5",
+  "subject": "CS607P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s from youtube videos\n\n• Defines a student template. Includes the slots name, age, and grade. Asserts a student fact with the values Khan, 16, and 2. 5. Displays the asserted fact. Defines a vector V = [4 7 6 3]. Finds the maximum value in the vector. Defines a function cube(n) that calculates the cube of a number. Passes the maximum value of V to the function. Displays the output returned by the function.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:21:10.702Z"
+ }
+]
