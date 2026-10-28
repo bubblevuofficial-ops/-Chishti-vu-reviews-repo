@@ -1,0 +1,26 @@
+[
+ {
+  "id": "401ccfafc122c791",
+  "subject": "CS609",
+  "term": "FINALTERM",
+  "experience": "• Long Questions: men ek thread wali create and close API ka syntax dia tha, wo complete krna tha (missing part us men).\n\n• Subjective:\n\n• Paper was a bit difficult. Kujh reviews me se questions repeat huwey they.  Baki API's puchey they.  Kujh k name they, kujh ka syntax be hta.  Ap 2 parameters waly API's zaror parh kar jaen, wo bht aty hen aur easy be hen.   Waiting, running and suspended functions wala reviews me se repeat huwa tha (3 marks ka).  SetEnvironment variable ka syntax.  Interlocked Exchange API ka syntax and parameters tha.  Options they, un me se correct select krny regarding Critical Section tha, I guess.  So concept rakhen, and API's, Critical Section, Semaphores zaroor parhen.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:21:41.615Z"
+ },
+ {
+  "id": "d0d6467dabdd3535",
+  "subject": "CS609",
+  "term": "FINALTERM",
+  "experience": "Paper was way too much tough.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:21:42.512Z"
+ },
+ {
+  "id": "23590d602cf7a682",
+  "subject": "CS609",
+  "term": "FINALTERM",
+  "experience": "• MCQs: 's mostly conceptual thy Past papers se kuch nahi aya thaa\n\n• API required for waiting a single process and getaffinity mask Return Types pochi thi kafi programs ki Three APIs for mapped memory operations Aik code likhna thaa jis mei variables name given thy lpsize or lpn (inhy Inki return type k sath DWORD, TCHAR respectively) inky parameters craete krny thy",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:21:43.204Z"
+ }
+]
