@@ -1,0 +1,74 @@
+[
+ {
+  "id": "7be09955a4826cc3",
+  "subject": "CS205",
+  "term": "MIDTERM",
+  "experience": "• MCQs: s 50% YouTube preparation video ma Sy aay thy\n\n• Short Questions: s question ik ma diagram ma used name batany thy\n\n• Long Questions: ✅Name of stakeholder in Security harding\n\n• Date | Day : Time: Subject: CS205 Questions : Baki conceptual thy Steps in security harding Assest inventory question Name of stakeholder in Security harding Data setup given thy us ma Sy fastest backup Waly data setup batanay thy aur reason",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:56:34.085Z"
+ },
+ {
+  "id": "157e9cfedf5eb294",
+  "subject": "CS205",
+  "term": "MIDTERM",
+  "experience": "• MCQs: s security hardening k tipic me sy thy kafi zyada or kuch conceptual thy\n\n• Short Questions: clients and servers k between device thi usko identify krna tha diagram me\n\n• Long Questions: stackholders and their tasks ko table me align krna tha\n\n• Information security transformation framework ki layers k names",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:56:34.887Z"
+ },
+ {
+  "id": "090d060c9306b7d8",
+  "subject": "CS205",
+  "term": "MIDTERM",
+  "experience": "• MCQs: s are easy and from hands out\n\n• Long Questions: Infosec Transformation Framework 4 Layers\n\n• 1 scenario from Security IT Team Interaction With Other Stakeholders",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:56:35.590Z"
+ },
+ {
+  "id": "d63ee026e0a326f1",
+  "subject": "CS205",
+  "term": "MIDTERM",
+  "experience": "• MCQs: S:\n\n• Short Questions: q:\n\n• Long Questions: 1) How many layers in information security transformation model, write their names?\n\n• Subjective: short q:\n\n• 1) ACTIVE ACTIVE DIAGRAM GIVEN WE NEED TO TELL DEVICE NAME ? 2) WHICH DISA TOOL IS USED BY ORGANIZATION AND STIG IMPLEMENTATION? Some scenarios were given and students had to identify whether the answer was CIS or DISA.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:56:36.281Z"
+ },
+ {
+  "id": "5d4bd94b27c413d4",
+  "subject": "CS205",
+  "term": "MIDTERM",
+  "experience": "• Short Questions: scenario deya tha o se par ke batana tha ke ye 4-layer transformation layer mei se kes layer ka kaam hai\n\n• Long Questions: data items ki list thi aur batana tha ke konsi item backup ki jathi hai aur sab se fast recovey ke leye konsa backup use kare\n\n• questions disa stigs ki type batani thi Question cisco ke router ya server ka timeout command puri likhni thi so that timeout time is 5 or less than 5 aur default value batani thi timeout ki",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:56:37.098Z"
+ },
+ {
+  "id": "e726c1161536801e",
+  "subject": "CS205",
+  "term": "MIDTERM",
+  "experience": "• MCQs: s Koch files se thy Koch conceptual\n\n• Short Questions: qasam mein ek multi factor authentication ki type btani thi or dusry mein I think posture ki mistake ek btani thi\n\n• Long Questions: mein risk assessment k steps thy or dusra ek table tha match krna tha infosec it operations aesa",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:56:43.886Z"
+ },
+ {
+  "id": "78575658e62cfc0b",
+  "subject": "CS205",
+  "term": "MIDTERM",
+  "experience": "• MCQs: s mostly handouts sa tha kuch difficult bht tha\n\n• Short Questions: 1. which type of MFA (multi factor authentication) if used for many,many AWS accounts many create a logistical devices management issue?\n\n• Long Questions: 1. which of the following consider as mistake(s) for Information s improvement\n\n• question:1. 2. what is the first step in automated mechanism or s hardening and validation? also mention the name of nay tool that can be used to verify that the applied controls are in place?",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:56:44.588Z"
+ },
+ {
+  "id": "80acea404ad83e73",
+  "subject": "CS205",
+  "term": "MIDTERM",
+  "experience": "• MCQs: S: just 1 ya 2 mcqs current quizzes se aye thy baki sb almost conceptual hi thy\n\n• Short Questions: I) Just write down the name of most expensive redundant site.\n\n• Long Questions: I) Risk assessment ke Kuch steps thy likhny thy\n\n• II) In which step of securty hardening, the asset inventory involved? Just write down the step name. c) Natura and extent of risk to IT resources....",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:56:45.240Z"
+ },
+ {
+  "id": "0ede7a8daf7cc9a8",
+  "subject": "CS205",
+  "term": "MIDTERM",
+  "experience": "• MCQs: s were all conceptual pta nhi kaha se aye the\n\n• Short Questions: 1:How many different versions SSH support?Write name.\n\n• Long Questions: 1: Mention the reporting period of infosec project.\n\n• 1:How many different versions SSH support? Write name. 2: which type of redundant site model is the expensive one? just give the name. i)What is the severity level of this in terms of CAT? ii) Which type of wifi protected access support EAPTLS?",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:56:46.018Z"
+ }
+]
