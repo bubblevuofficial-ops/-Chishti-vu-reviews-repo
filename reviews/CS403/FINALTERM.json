@@ -1,0 +1,178 @@
+[
+ {
+  "id": "b359062ce31e5dde",
+  "subject": "CS403",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s were easy mostly from the VU toolkit .\n\n• Short Questions: 1.Write the three types of Horizontal Partitioning.\n\n• Long Questions: 1.Write the differences between Clustered Index and Non-Clustered Index.Give one example of Clustered index Only.\n\n• 1. Write the three types of Horizontal Partitioning. 2. Write the three types of Views. Write the differences between Clustered Index and Non-Clustered Index. Give one example of Clustered index Only.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:06:13.887Z"
+ },
+ {
+  "id": "de67175f49d2868e",
+  "subject": "CS403",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s\n\n• Short Questions: L command to create a view named STLIST on the Student table showing all columns\n\n• Long Questions: Q1. Transactions\n\n• Which of the following i not a feature of an effective interface? is a control that enables users to select one option from an associated list and also allows them to type an option. The purpose of is to maintain the consistency of the database during concurrent access. After execution of the COMMIT statement, is updated first. DBMS operation involves . ACID properties are associated with . Which of the following is not a property of a transaction? is a special high-speed memory mechanism. In serial execution, transactions are executed in a . Two-Phase Locking ensures database . command is used to access and manipulate data. Purpose of normalization is to . The worst hash function is . Q3. Q1. a) Write the names of two actions that a transaction can perform on database objects. b) Write the name of the locking protocol used for concurrency control.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:06:14.711Z"
+ },
+ {
+  "id": "4ee685c2637398b0",
+  "subject": "CS403",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s easy bhi the or conceptual  bhi 20 to 25 MCQS  the jo VU Zone with IQRA AZHAR or Information HUB ki preparation vedio se the or kuch VU toolikt ke MCQS se bhi the or baki conceptual  the\n\n• Short Questions: L query ان student record table to find list  of student names that have total  marks higher than the avg marks in class?\n\n• Long Questions: INT.Now keeping rules of defining fields answer the following question.\n\n• Subjective: TYPE:\n\n• Assalam o Alaikum everyone! 1:List down the names of the problem that can occur due to concurrent transaction execution? 2:Does it improve the data integration? Note you answer must be in the form of Yes or No . 3:Read the statement below and determine if it is correct or incorrect. Provide a brief explanation for your answer. \"In RAID level 1 ,if one drive fails no data is lost. 4:What are the key indexes properties? Write an SQL query ان student record table to find list of student names that have total marks higher than the avg marks in class? 6:Given is the structure of table \"Student \". Following query conatin error you are require to write correct query by removing the error . SELECT SID,Sname FROM Student WHERE age >'20. 7:A Database programmer sets the data type of \"cgpa\" attribute as INT. Now keeping rules of defining fields answer the following question. Does it consume the less space in the memory . Does it support all the operations related to cgpa.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:06:15.377Z"
+ },
+ {
+  "id": "311e6edbd9f96864",
+  "subject": "CS403",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s,\n\n• Subjective: What maintined the lock also write the types of lock ?\n\n• Lock is maintined by ? Lock manager. Chosee disadvantage of normalization. Baki yad nahiii sorry. If row is select as a pointer what will be the components of the row called aisa koch question thaa yad nahi shi saii.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:06:16.208Z"
+ },
+ {
+  "id": "75fd78a793cb0e09",
+  "subject": "CS403",
+  "term": "FINALTERM",
+  "experience": "• MCQs: S bs theek hi thy...\n\n• Short Questions: 1. Write SQL query DELETE row from table where username Ali\n\n• Long Questions: 1. Sequential Index ..... 3 statements were given.\n\n• 1. 2. Convert Given Table into 1NF. 3. Create Simple Index. 4. Create view name \"Product-List\" which will show all column. Sequential Index ..... 3 statements were given. Identify 'Partitioning' from given Table. Create view Customer-List table Customer to show only CST-ID in ASC order of those Customers , who beto Gujranwala.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:06:16.998Z"
+ },
+ {
+  "id": "8355275429c2b253",
+  "subject": "CS403",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s to tough hi the 2,3 mcqs SQL se related the\n\n• Short Questions: L se related the\n\n• Long Questions: Almost 3no long SQL query wale the\n\n• Subjective: Short question theory wale the\n\n• 1. 2. 3. Question. Mere hisab se to paper tough tha. Baki Best Of Luck.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:06:23.480Z"
+ },
+ {
+  "id": "644fb7886552e24b",
+  "subject": "CS403",
+  "term": "FINALTERM",
+  "experience": "Best of luck !!!?",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:06:24.221Z"
+ },
+ {
+  "id": "7ffdbe4b82812c53",
+  "subject": "CS403",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s thory bht vu toolkit se aye thy but very reomended ap tyr krnaa or jisy kuch b i ata wo bas sql queries tyar krly sara paper usem ata\n\n• Short Questions: l queries tyar krly sara paper usem ata\n\n• aslam o alaikummmmm",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:06:24.978Z"
+ },
+ {
+  "id": "5277e5b517b6329a",
+  "subject": "CS403",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s bs thk hi thy .\n\n• Short Questions: 1.add karna tha city ko person table main.\n\n• Long Questions: 1.create unique index wala question aya tha\n\n• 1. add karna tha city ko person table main. 2. three classification of indexes ky name btany thy. 3. concurrency transaction main jo problems ati hain unky name likhny thy. 4. statement di thi uska btana tha k correct ya ni or justify krna tha usko. data base create karni thi TESTDB ki or table bnana tha test ka . data tpes write karni thi (ID ,Name, Address ) ki . or ID ko asa primary key define karna tha. ye bhi SQL wala hi tha .",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:06:25.788Z"
+ },
+ {
+  "id": "fc6dba211903ee66",
+  "subject": "CS403",
+  "term": "FINALTERM",
+  "experience": "• MCQs: S:\n\n• Short Questions: L Query with constraints(5)\n\n• TIME:CITY:.... Q1 provinces Punjab three times and two times sindh I mean in rows and we have to tell that i in list partitioning how many groups it will be divided the correct answer was 2 groups and the reason why? 6: application program is for ? Now my commission just say ameen to what my goal CGPA is..",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:06:26.584Z"
+ },
+ {
+  "id": "f57e456eb7973ee6",
+  "subject": "CS403",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s where from handout and conceptual . 3 quairys thin or column milanay waly aye thy kch definations thi jinka difference pucha gya tha mtlb na mushkil tha na zyda asan . so so well best of luck for me\n\n• all s where from handout and conceptual . 3 quairys thin or column milanay waly aye thy kch definations thi jinka difference pucha gya tha mtlb na mushkil tha na zyda asan .",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:06:32.902Z"
+ },
+ {
+  "id": "f94419a90f83a0b3",
+  "subject": "CS403",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s:\n\n• Short Questions: L (INSERT, HAVING Clause, SQL Commands), Inference Rules, Deadlock Resolution, Locking, Inconsistent Analysis, and Recovery Procedures.\n\n• Long Questions: from Inference Rules.,Q2Match the correct descriptions with RAM, WORM, SRAM, and DRAM\n\n• Overall, the paper mainly covered Physical Storage Media, Memory Types (RAM, WORM, SRAM, DRAM), SQ Question from Inference Rules.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:06:33.646Z"
+ },
+ {
+  "id": "3fdea349229702cd",
+  "subject": "CS403",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s Vu gate k video m sa YouTube pr search kre cs403 p vu gate 9 mint k video ha jis m 23 mcqs ha ur 5 question same to same 16 mcqs tha ur question m 4 same tha bass thorey s statement change thi bass wo kr lain achy s\n\n• Sarey",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:06:34.487Z"
+ },
+ {
+  "id": "e375fcfa2b931ebc",
+  "subject": "CS403",
+  "term": "FINALTERM",
+  "experience": "• MCQs: S mobiz knowledge wali video sy 4-5 ay thy\n\n• Short Questions: 1️⃣. Three Index classification\n\n• Long Questions: 1️⃣. yeh he screenshot wala aya tha(Handouts page # 310)\n\n• 1⃣. 2⃣. 3⃣. 4⃣. yeh 3NF may ni h iss may btana tha k kon sa attribute remove ho k new table may jy ga .",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:06:35.181Z"
+ },
+ {
+  "id": "da6d4df9a6b2b7bb",
+  "subject": "CS403",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s handouts ma sa tha iqra ki video kro 10+ mcqs aii tha or Baki handouts ma sa tha orr short 2nd normalization wala tha or isolation Wala tha short correct incorrect Batana tha or view ki query thi or long ma form ka bara ma true false tha or long ma query Wala question tha mcqs zayada tar last Wala lectures ma sa tha or short long query or normal form sa tha kst ka lectures lo InshAllah paper acha hojai ga query ki practice lazmi krna muja to query Bhool Gai thii mera to itna acha paper nhi hova Baki apak Liya Mari Dua ha sab acha paper hojai\n\n• Short Questions: 2nd normalization wala tha or isolation Wala tha short correct incorrect Batana tha or view ki query thi or long ma form ka bara ma true false tha or long ma query Wala question tha mcqs zayada tar last Wala lectures ma sa tha or short long query or normal form sa tha kst ka lectures lo InshAllah paper acha hojai ga query ki practice lazmi krna muja to query Bhool Gai thii mera to itna acha paper nhi hova Baki apak Liya Mari Dua ha sab acha paper hojai\n\n• Long Questions: ma form ka bara ma true false tha or long ma query Wala question tha mcqs zayada tar last Wala lectures ma sa tha or short long query or normal form sa tha kst ka lectures lo InshAllah paper acha hojai ga query ki practice lazmi krna muja to query Bhool Gai thii mera to itna acha paper nhi hova Baki apak Liya Mari Dua ha sab acha paper hojai\n\n• Paper theek tha handouts ma sa he tha",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:06:36.106Z"
+ },
+ {
+  "id": "bc0243eb8c998caa",
+  "subject": "CS403",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s kiye hai to mcqs ka concept to 80 percent clear hai\n\n• Short Questions: L query ke ke ye 1NF ya 2NF\n\n• Long Questions: Redone aur ignore ye 3 column match the\n\n• Paper is na ziada mushkil tha na ziada easy agar AP ne handouts paradox Question me file organization ki type ke name the Relation btana SQ Delete ki query likhni thi insert ki likhni thi select ki Aik question tha ke select ko use kr ke SQL query likhe question Table dia tha aur kaha tha delete query di hai btaye ke baaqi is table me kia bacha aise hi insert query ka b btana tha",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:06:42.097Z"
+ },
+ {
+  "id": "ecdfbfe75a973384",
+  "subject": "CS403",
+  "term": "FINALTERM",
+  "experience": "• MCQs: S : deadlock, transitions , Normal form ,SQL Query, views, index in sab kay syntex yad karna achy say\n\n• Short Questions: L Query, views, index in sab kay syntex yad karna achy say\n\n• Long Questions: ek aya that deadlock mey say unho nay poori hi example handouts me say utha kay di thi kay ye bato ko sa deadlock transition error wo question page no 310 per ha uncommitted update problem wala  tha ek aya tha sql may say name wo selct karna that jis ky start mey DR. aye . ek question me iew create karna that or ek me index create karna tha.ek long question unho nay diya that or kha tha kayagar to ye 2nd normal form ha to is ko 3rd me convert karo or agar1st me ha to is ko 2nd me yani jis normal form me ha us say above normal form me convert karo\n\n• question ek aya that deadlock mey say unho nay poori hi example handouts me say utha kay di thi kay ye bato ko sa deadlock transition error wo question page no 310 per ha uncommitted update problem wala tha ek aya tha sql may say name wo selct karna that jis ky start mey DR. aye . ek question me iew create karna that or ek me index create karna tha.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:06:42.781Z"
+ },
+ {
+  "id": "8087c57d8798aa53",
+  "subject": "CS403",
+  "term": "FINALTERM",
+  "experience": "• MCQs: S mix thy na mushkil na easy ma ny paradox ki files sy kiy thy un ma sy 3 4 ayy thy bss\n\n• Short Questions: query likhni thi select ki\n\n• Long Questions: 2 long scenario based thi ik  indexed sequential key define krni thi baqi yaad nahi\n\n• or ik or view create krna tha ik transaction prevention technique likhni thi question 2 scenario based thi ik indexed sequential key define krni thi baqi yaad nahi",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:06:43.510Z"
+ },
+ {
+  "id": "f4dd7af00d430ce0",
+  "subject": "CS403",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s from handouts\n\n• Short Questions: 1-Row ID component ?\n\n• Long Questions: 1-create view from given sql query.\n\n• 2-when \"write\" sequence transaction executed ,where entry is placed? 3-sql query. 2-sql is given you need to make resultant table. 3-date types in sql table (attribute) are given.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:06:44.306Z"
+ },
+ {
+  "id": "fe1b4f1b0809f6ed",
+  "subject": "CS403",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s were from Hadi files and paste paper or handout main sa tha easy tha boht or queries sa related 9 sa 10 mcqs tha\n\n• Short Questions: main ak table dia first a normal form apply karni thi  ak indexes ka point batana tha or ak table create Karna ki do approaches likhni thi\n\n• Long Questions: Ak query likhni thi\n\n• Subjective: Short question main ak table dia first a normal form apply karni thi  ak indexes ka point batana tha or ak table create Karna ki do approaches likhni thi\n\n• question main ak table dia first a normal form apply karni thi ak indexes ka point batana tha or ak table create Karna ki do approaches likhni thi question Or dusra main query thi us ki according table banana tha table given us main Kuch changes Karna tha so overall paper was easy and manageable",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:06:45.007Z"
+ },
+ {
+  "id": "e3cbcbed77d06702",
+  "subject": "CS403",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s were conceptual from handout in given screenshot they ask what type of concurrency is this the same table was given in paper Q: List down the simple two type of disk Ans: Hard Disk Drives (HDDs) and Solid-State Drive (SSDs) one Q: related to the view of salary with and age between 35-45 and aslo do with the deptno in the arrange way  Q: was to update the salary from employee table to Decimal(10,2) Q:\"replication is applicable in a environment where changes are made frequently\" is this statement correct or incorrect\n\n• Justify your ans.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:06:52.299Z"
+ },
+ {
+  "id": "55d0de9f43fddeb8",
+  "subject": "CS403",
+  "term": "FINALTERM",
+  "experience": "• MCQs: S were mostly come from VU toolkit\n\n• Short Questions: L query is given u need to fetch a specific Attributes and tuples according to the SQL query\n\n• Paper was totally conceptual Question: Create index query Attributes and Relations were given all u need is to find FDs An SQ",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:06:53.021Z"
+ }
+]
