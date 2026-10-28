@@ -1,0 +1,26 @@
+[
+ {
+  "id": "27b62ca931227ea7",
+  "subject": "CS407",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s and subjective, for example \"vu gateway\" and other etc. Watch them, almost all of them are similar and you will get 90 percent marks. 100 percent of my paper was from there.\n\n• Subjective: , for example \"vu gateway\" and other etc. Watch them, almost all of them are similar and you will get 90 percent marks. 100 percent of my paper was from there.\n\n• all the videos on youtube containing both",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:08:19.717Z"
+ },
+ {
+  "id": "2a8243b9c121b66a",
+  "subject": "CS407",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s\n\n• Subjective:\n\n• 1. 2. S. Two networks were given, configure ACL on router for host (1st network) accepting (2nd network), and reject all other networks. 3. Two MAC addresses were given (1, separated through - and 1 through :, identify valid MAC address with justification. 4. You want to know statistics of all translations of Nat, which command is used? L. You have to configure a new switch with Fast Ethernet speed 100 mb/s, and mode Full Duplex. Write all commands for this configuration.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:08:20.395Z"
+ },
+ {
+  "id": "953c045529bc4be8",
+  "subject": "CS407",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s thaor DHCP ka related tha aik\n\n• IPv3 ko implement karna ka lia area me two ways btana tha, or 1pv6 ka related aik Qs tha or aik DHCP ka scenario-related Qs tha or ACL Command btani thi or Command for Cisco IOS device to get IP dynamically from DHCP or NAT ki types me sa aik",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:08:21.211Z"
+ }
+]
