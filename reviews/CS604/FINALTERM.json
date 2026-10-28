@@ -1,0 +1,146 @@
+[
+ {
+  "id": "5011eba63fee3a4e",
+  "subject": "CS604",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s were from handouts\n\n• S. 1. 2. 3. 4. L.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:18:32.086Z"
+ },
+ {
+  "id": "a2a01d2e522786e7",
+  "subject": "CS604",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s 60 percent final preparation videos se thay, like mobiz, masters, smart workzone, world of education etc. including vutoolkit waley.\n\n• Subjective: questions:\n\n• types of mount thi: Answer is 1. remote mount , 2. numerical than effective access time ka. swap ka code tha, means a or b swap ho sake, is ka answer be world of education waley ke ma hai. jo last mai permission control hai wo dek lein. answer ye hai : read, write, delete, execute append etc.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:18:32.894Z"
+ },
+ {
+  "id": "2935e6523bf5047b",
+  "subject": "CS604",
+  "term": "FINALTERM",
+  "experience": "• MCQs: nia yaa! pata ni kaha sy otha k dy diay thay MCQ meko....luckily subjective aati thi meko lkn mcqs ma kaant kr k aya hn ma\n\n• Subjective: easy aati hy tu objective qasar pori kr daity hy or jb obj easy aiay tu sub kaant kr daity hyy! kaha jao ma.......................🙂\n\n• tbh paper easy tha lkn meko ni ata tha... jab easy aati hy tu qasar pori kr daity hy or jb obj easy aiay tu sub kaant kr daity hyy! kaha jao ma....................... Let's talk about the paper... >>vutoolkit sy mjhy 1 b nia yaa! pata ni kaha sy otha k dy diay thay meko.... Questions! >\"Virtual Memory is an extremely large main memory\" Do u agree wth the statement or not? Give reason to support your answer. > In Semaphore P and V are termed for what? > Compute the producer process for the bounded buffer problem by writing the four missing semaphore statements using the semaphores empty, mutex and full. > Consider a scenario in which some software engineers working on the same project need to share files or directories related to the project . Write down at least 4 ways that facilitate file sharing in the scenario. > A tablw was given about MFT... fill the blocks with true and false. > A table was given .... > Write ur opinion as good or bad about these....",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:18:33.704Z"
+ },
+ {
+  "id": "fd955ac8d5159520",
+  "subject": "CS604",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s were from the VU Toolkit, Mobiz Knowledge Korner, and HamzaVersity videos.\n\n• 1. If a process is in its critical section, any other process that tries to enter its critical section must loop continuously in the entry section until the critical section becomes available. What is this condition called? 2. A deadlock has occurred and has been detected using the deadlock detection algorithm. Which methods are used to recover from the deadlock after it has been detected? 3. Two paging techniques to reduce the size of the page table. 4. Data were given. - (i) No. of bits needed for p. - (ii) No. of bits needed for f. - (iii) No. of bits needed for d. 5. Types of Mount. 6. Yaad ni h. 7. Values were given. Write the formula for Effective Access Time (EAT) and solve the given problem. Write the code snippet to calculate the Average Wait Time and average turnaround time of each process in First Come First Serve FCFS. A C program related to physical address translation was given. Only two missing lines had to be completed. The required lines were the input statements for the segment number and offset, both to be entered in hexadecimal (hex). Use \"TOTALBLOCKS\" as the constant name for the total number of blocks and \"disk\" as the array name. - (i) Define the total number of blocks as 100. - (ii) Declare and initialize an array so that all blocks contain 0. A thread-related C program was given. - (i) Declare thread variables \"t1\" and \"t2\". - (ii) Declare integer variables \"rc1\" and \"rc2\". - (iii) Create and run Thread 1 using its corresponding thread function. - (iv) Create and run Thread 2 using its corresponding thread function.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:18:34.420Z"
+ },
+ {
+  "id": "c2e64c695bd94a10",
+  "subject": "CS604",
+  "term": "FINALTERM",
+  "experience": "• MCQs: 's from handouts\n\n• Short Questions: 1-first fit allocation ? 20kB,10KB, 9KB\n\n• Long Questions: 1-logical and physical address calculation same from handouts\n\n• 1-first fit allocation ? 4-fcfs ma konsi anomaly hoti h.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:18:35.284Z"
+ },
+ {
+  "id": "e43737837a6b1a84",
+  "subject": "CS604",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s from mobiz knowledge korner and hamzaversity mcqs video\n\n• Short Questions: list 3 access modes used for file protection\n\n• Long Questions: Producer ka code likhna tha using empty,mutex,full\n\n• Name two hardware based solutions for critical section How paging avoid fragmentation issues identify which statement is for fork() and which one for vfork() from table",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:18:41.981Z"
+ },
+ {
+  "id": "961dc3f7bdaf7621",
+  "subject": "CS604",
+  "term": "FINALTERM",
+  "experience": "• MCQs: vu Waqar files\n\n• Short Questions: 1. CPU ultization\n\n• Long Questions: 1.Effectiveness time Wala\n\n• 1. 2. 3. 4.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:18:42.696Z"
+ },
+ {
+  "id": "fced0faee92aed58",
+  "subject": "CS604",
+  "term": "FINALTERM",
+  "experience": "2nd question: wrote 3 access method for protecting file in UNIX?",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:18:43.580Z"
+ },
+ {
+  "id": "1e9a24bba6aefc70",
+  "subject": "CS604",
+  "term": "FINALTERM",
+  "experience": "• Long Questions: 1. wait(S), signal(S) ka pseudo code likhna tha\n\n• 1. order: 10KB, 4 KB, 20 KB, 18 KB, 7 KB, 9 KB, 12 KB, and 15KB. successive segment requests of: (a) 12 KB (b) 10 KB (c) 9 KB For first fit. 2. 3. 4. Consider the following programming techniques and data structures. environment, which of the following is/are good or bad? Low CPU utilization, high disk utilization...",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:18:44.219Z"
+ },
+ {
+  "id": "a0e15169217a65f3",
+  "subject": "CS604",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s b pora paper hmza university or world of education sy tha agr ap hamza university k 100 mcqs or world of education ki pori video dakty ho to apka paper 90% hojay ga\n\n• Cs604 current paper Buhat easy tha question b or",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:18:44.908Z"
+ },
+ {
+  "id": "c97d81a36e7d0437",
+  "subject": "CS604",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s were all from past papers\n\n• Short Questions: 1. One advantage of high level synchronization over semaphore\n\n• Long Questions: 1. 5 disk scheduling Algo\n\n• The paper was pretty straightforward. 1. 2. 3. 4.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:18:51.686Z"
+ },
+ {
+  "id": "a471668e3c617817",
+  "subject": "CS604",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s\n\n• Short Questions: 1) virtual memory is largest memory  give two points\n\n• Long Questions: 1) test and set lock cod ko complete krna tha wait and lock = false\n\n• CS604 30 july 2026 10 am waqar file and junaid files really very important answer key of s ,you can get statment of these from files exact same 1) store name of files or directories --- directory file 2) scan algorithm statment 3) deadlock avoid condition with special changes deadlock free 4) demand paging 5) page fault 6) hardlink 7) increses page fault with increse of frame in page replacement algorithm 8)ln  s used for soft links 9) size of process ,compare like statment look in handouts contiguous allocation 10) indexed --- no external fragmentation 11) pager 12) demand paging 13) banker algorithm software solution of synchronization problem 14) wait for graph 15) address binding 16) MVT  dynamic binding 17) page directory 18) working set characteristics  size 19) synchronization problem 20 ) MFT stands for 21 ) deadlock 22)pTBR stands for 23) Deadlock avoidance does not mean --- not happen  starvation 24) spinlock 25 ) busy waiting 26) bound waiting 27) block specil file 28) thrashing is not page replacement algorithm 29) page fault triggered 30) hash table bad SQ 1) virtual memory is largest memory give two points 2 ) sequencing ,stack are good and hash bad 3) semaphore violation of mutual exclusion which semaphore wait after first wait operation two process po and p1 were give 4) High level synchonization important give two points 2) five algorithm for code access and disk improvment 3) write two methods of page implementation hierarchical indexed inverted",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:18:52.511Z"
+ },
+ {
+  "id": "78213e59c4d62675",
+  "subject": "CS604",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s were repeated from:\n\n• Short Questions: )\n\n• Long Questions: )\n\n• Subjective: (Short Questions)\n\n• Paper Overview. Paper was much easier than expected. 1. Write the name of the algorithm used to solve the Critical Section Problem. 2. Among Hash Table, Sequential Search, and Stack, which is the best technique? 3. Most of the questions were from the Masters File. Convert Resource Allocation Graph (RAG to Wait-For Graph (WFG. Determine whether deadlock exists or not. Fill in the missing code of a Semaphore program involving waiting processes. Write the names of any five Disk Scheduling Algorithms.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:18:53.201Z"
+ },
+ {
+  "id": "78bfaa3e57c57ed6",
+  "subject": "CS604",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s was from vu toolkit per Jo pardox na provide ka ha\n\n• Short Questions: 1 .Write the  three name  method used to solve the critical section problem\n\n• Long Questions: )\n\n• Subjective: (Long Questions)\n\n• 1 . 2. 1. Convert Resource Allocation Graph (RAG to Wait-For Graph (WFG). This work on FIFO and when there is 3 frame result In 9 page fault . You have to tell what happened with page fault when frame move from 3 to 4 and also tell the name of process happened. In if you read s from vu toolkit and from past and currently paper from vu toolkit.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:18:53.902Z"
+ },
+ {
+  "id": "8381fb2173492538",
+  "subject": "CS604",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s VU Toolkit.app kee Final Term Preparation ka 177 Quizes sa Aya , menay saray 177 quizes prepare kiya Thay and I smashed them.\n\n• Long Questions: in paging scheme.\n\n• Subjective: Questions ma As It is Note Ker ka Agaya Hun Ap Ka Liyay, You will Love Them :\n\n• Maximum s VU Toolkit. app kee Final Term Preparation ka 177 Quizes sa Aya , menay saray 177 quizes prepare kiya Thay and I smashed them. Jo Unseen Quizes Aya meray CS604 ka Paper ma Jo ka VUtoolkit. 7: When a link is created, a directory entry for the existing file is created. 13: In the scan algorithm, disk starts at one end of the disk, and moves towards the other end, servicing requests as it reaches each cylinder, until it gets to the other end of the disk. 19: If validation bit is 0, it indicates a/an state of segment. 23: Each page is a power of bytes 25: 2-process and n-process critical section problems are solution to solve the synchronization problems. 27: WOF is the correct order for of different types of memories in memory hierarchy. 29: In Bankers algorithm, Need matrix is calculated by subtracting . 33: What happens if during address translation, the valid-invalid bit is set to 0? (d) The process terminates immediately. Q34: Consider the following programming & data structures. In demand paged environments, wof is/are good or bad? Q35: Write down the names of three types of solutions required for solving the critical section problem. Q36: What is the logical address format in segmentation? Q37: Banker's Algorithm use several data structures for resource allocation & deadlock avoidance. Write the name of the appropriate data structure used for each of the following purpose. 1) Stores the number of currently available instances of each resource type. 2) Stores the maximum number of resources that each process may request. 3) Stores the number of resources of each type currently allocated to every process. Q38: In Unix/Linux environment you are required to write down the name of system call for each of the following operation. A directory is searched for the appropriate entry and the current file position is set to a given value. This is often known as file seek. Search the directory for the named file, and then release the file space & erase the directory entry. A user may want to erase the contents of the file but keep its attributes. This function allows all attributes to be unchanged except for file length which is set to zero and file space is released. When a file is closed the os removes its entry in the open file table. Q39: A semaphore is implemented using an integer value and a list of waiting processes. Complete the following data structure by writing two missing declarations. Q40: Write down the names of four data structures we use in the Banker's algorithm? Duaon Ma Yaad Rekhna , Menay CS603 ka Review Bhee Diya hai , ya Review Ap VU Toolkit ka Current Papers ma Bhee In Sha Allah find ker sekthay hain.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:18:54.587Z"
+ },
+ {
+  "id": "18a8fa79a2f78278",
+  "subject": "CS604",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s kiye thy start waly un se 2 aaye thy.\n\n• Assalam o alaikum! Complete paper from world of education, Masters, smart work zone, and MAK abbasi videos. VU toolkit ky 20",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:19:01.431Z"
+ },
+ {
+  "id": "040355065fad84c3",
+  "subject": "CS604",
+  "term": "FINALTERM",
+  "experience": "Cs604\n60 % paper memory section or paging se tha\n30% Semaphore se tha\nAgr koi ye 2 portion kr ly tu unka paper bht acha ho jye ga\nEk ye question tha",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:19:02.119Z"
+ },
+ {
+  "id": "8ecb9a961d4108ed",
+  "subject": "CS604",
+  "term": "FINALTERM",
+  "experience": "• Short Questions: s were from mostly linux, bankers algorithm, LRU,  questions 1: linux commands show current directory, clear screen, enter in desktop, create cs604p, move to cs604p, q2: code related to burst time and waiting time, q:3 write bankers algorithm arrays , q4 write code related to array to initilize frames t0 -1 .......\n\n• msqs were from mostly linux, bankers algorithm, LRU, questions 1: linux commands show current directory, clear screen, enter in desktop, create cs604p, move to cs604p, q2: code related to burst time and waiting time, q:3 write bankers algorithm arrays , q4 write code related to array to initilize frames t0 -1 .......",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:19:03.000Z"
+ }
+]
