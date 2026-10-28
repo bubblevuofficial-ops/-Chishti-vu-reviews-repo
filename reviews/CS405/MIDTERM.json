@@ -1,0 +1,26 @@
+[
+ {
+  "id": "f7b19829e441aa2b",
+  "subject": "CS405",
+  "term": "MIDTERM",
+  "experience": "• Short Questions: s bohat easy thay sara paper handouts say aiya tha subject thora conceptual tha baki overall paper easy tha handouts achy say kar lo to bohat acha paper ho jaye ga\n\n• Msq",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:07:54.202Z"
+ },
+ {
+  "id": "d1f58e6763cec4a7",
+  "subject": "CS405",
+  "term": "MIDTERM",
+  "experience": "• MCQs: sab handout sa ay tha handout kr lo tu mcq arm sa ho jata han week 1 or week 3 sa 6 tk sab ma sa tha mcq .short question ma explain krna tha sequence Oracles\n\n• Short Questions: ma explain krna tha sequence Oracles\n\n• Long Questions: exactly yad ni but week 4 or 5 ma sa rha\n\n• sab handout sa ay tha handout kr lo tu arm sa ho jata han week 1 or week 3 sa 6 tk sab ma sa tha",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:07:54.933Z"
+ },
+ {
+  "id": "9cd481d29d302c8a",
+  "subject": "CS405",
+  "term": "MIDTERM",
+  "experience": "• MCQs: s were from Topics ERD, rollback , save point, SQL full form, which variable is used with %and   sign (LIKE), entity, PL/SQL mandatory part etc.\n\n• Short Questions: L full form, which variable is used with %and   sign (LIKE), entity, PL/SQL mandatory part etc.\n\n• Long Questions: 📚Suppose in the middle of large transaction, one update statement fails due to some violation.. and it give the roll back or rollback to save point.. explain the difference between these..\n\n• s were from Topics ERD, rollback , save point, SQL full form, which variable is used with %and  sign (LIKE), entity, PL/SQL mandatory part etc. A block of pl/sql code was given and had to write the output.. Suppose in the middle of large transaction, one update statement fails due to some violation.. and it give the roll back or rollback to save point.. explain the difference between these.. Had to write a query of age in ascending order and if the grades were all same right it in descending order also explain the order by clause effect in it..",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:07:55.805Z"
+ }
+]
