@@ -1,0 +1,106 @@
+[
+ {
+  "id": "b15d82bf95d6ec0d",
+  "subject": "CS610",
+  "term": "FINALTERM",
+  "experience": "1. A chemical company has designed its network so that each packet travels in an equal amount of time. What is the jitter in this network? 2. IP Address: \"148. 10. Find the number of usable hosts. 3. Write any two informational ICMP messages. 4. What is the routing metric used by RIP? 5. Given the IP address \"220. 170. 6. Explain the Address Resolution Protocol (ARP). 7. Write the names of five multicast routing protocols. • Hub — Always broadcasts data to every node. • Bridge — Connects multiple network segments at the Data Link Layer. • Gateway — Connects two networks with different protocols. • Repeater — Receives a signal and retransmits it at a higher level. Identify the IP address class from the following first octets. Suppose you are using Packet Tracer for simulating a network. a) Change the default name of the Cisco Router to \"CS610P-Router\". b) Set the router password as \"CS610pp\". c) Display the IP addresses of all router interfaces. a) Write the Windows command used to display the IP configuration of a computer.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:21:59.603Z"
+ },
+ {
+  "id": "9e605d84242194e3",
+  "subject": "CS610",
+  "term": "FINALTERM",
+  "experience": "• MCQs: 's mostlyy files say ayee thy moaz or waqar kii tuh files lazmi karlye ga wohh orr\n\n• Short Questions: time main prep ka lyee best haii\n\n• Subjective: https://www.youtube.com/watch?v=7fndbGQf6ag  meraa is video say thaa is video ko lazmi karak janaa\n\n• meraa is video say thaa is video ko lazmi karak janaa or ye video",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:22:01.105Z"
+ },
+ {
+  "id": "bd617774c8736cd0",
+  "subject": "CS610",
+  "term": "FINALTERM",
+  "experience": "• Short Questions: mein jitter se related question tha aik scenario tha us k according jitter btana tha?\n\n• Long Questions: Q/A\n\n• 1. IP address dia hua tha subnet mask find krna tha? Ans: In a classful system, you use default masks: Class A is 255. 0. 255. 0, and Class C is 255. 2. Two informational messages write krny thy? ping) and Address mask request/reply . 3. ATM sy related question tha ? ensure high speed and quality of service. 4. address resolution technique aysa kuch concept tha? 5. Table given tha name likhny thy computer network ky? Ethernet, Token Ring, FDDI,Frame Relay, SMDS, ATM, and LocalTalk. 6. Routing in RIP is ka ans HOP COUNT he? distance between networks. 7. TCP/Up is used for intern........ And write the name? connection-oriented and reliable. UDP (fast but unreliable) and TCP (reliable and guaranteed). 8. University Ka agr setup reset kar Diya jiy es trha Ka tha? 9. router sa related tha? routing table to forward data to the next hop. 10. exact same time. Or The variation or change in packet arrival delay. 11. Nat ka alternatives btana tha? Translation) and Twice NAT. 12. protocol use krega? address using its IP address before sending the data. static and dynamic routing difference? Ans: Static is manually fixed; dynamic updates automatically using software. kwsy kregy? Ans: Use an encrypted tunnel across the public internet to link the sites privately. tcp/ip protocol ke name btany thy inky functions given thy table mai? TCP (reliable, guaranteed data delivery). Class C ki addresses range kam hai lkn hm isy ku use krty hai? addresses. UDP characteristics dy hui thi unka true or false btana tha? OS independent, Arbitrary interaction, Endpoint Identification (Ports). ● DVMRP: Distance Vector Multicast Routing Protocol. ● CBT: Core Based Trees. ● PIM-SM: Protocol Independent Multicast - Sparse Mode. ● PIM-DM: Protocol Independent Multicast - Dense Mode. ● MOSPF: Multicast Extensions to the Open est Path First Protocol. Types of multitasking? Many-to-many 15, 16. Routing provided IGP and EGP or internet routing protocol name likhny thy? ● OSPF (IGP): Open est Path First Protocol. ● RIP (IGP): Routing Information Protocol. ● BGP (EGP): Border Gateway Protocol. ● IGP: Interior Gateway Protocols. ● EGP: Exterior Gateway Protocols. IP address given find usable host and subnet mask? IP Address dia hoa tha uska subnet find krna tha? 32-bit Subnet Mask. darmiyan logical 'AND' operation kiya jata hai. ○ Farz karen IP address 128. 3 hai aur Subnet Mask 255. 0 hai. ○ Jab in dono ka binary mein 'AND' kiya jata hai, to result 128. 0 aata hai. ○ Yehi 128. 0 aapka network prefix ya subnet hai. Ans In dono ka AND ese krna hai k jo chota ho whi select kro 255. 0 aur 128. smaller h 255 se to wo select hoga phr 10 small h wo select phr 0 aur phr 0 to 128. Scenario table diya hua tha next coloum ma btna tha kon sy delay used ho rhi ha? type of network delay occurring. physical medium (like a wire or fiber optic cable) from one point to another. packet switch) takes to process and forward data to the next part of its journey. using CSMA/CD in Ethernet). (queue) because the switch is busy forwarding other packets that arrived earlier. Delay. another, it is Switching Delay. it is Access Delay. clear, it is Queuing Delay. D. 1) 30. 2) 40. 3) 128. 4) 192. M. 1) 255. 2) 255. 3) 255. 4) 255.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:22:02.009Z"
+ },
+ {
+  "id": "85304402988b9fc7",
+  "subject": "CS610",
+  "term": "FINALTERM",
+  "experience": "Q: Alternatives of NAT? Q: Which protocol is used for troubleshooting? What are tools of this protocol? Q: Use to for external routing in autonomous system? Q: IP address 220. 10. 170. 1. 2. 3.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:22:02.707Z"
+ },
+ {
+  "id": "48aa88e1e326c838",
+  "subject": "CS610",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s waqar ke file 1 to 8 ma sy 85% (26 SA 29) mcqs ay hn\n\n• Short Questions: 1. TCP/Up is used for intern........ And write the name\n\n• Long Questions: 1. Routing provided IGP and EGP or  internet routing protocol name likhny they\n\n• 1. TCP/Up is used for intern........ 2. D. M. 30. 0. 40. 3. 128. 4. 192. 10. 255.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:22:03.396Z"
+ },
+ {
+  "id": "b64ce2c52df542be",
+  "subject": "CS610",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s Paradox waly mostly\n\n• Short Questions: 1. address resolution technique aysa kuch concept tha\n\n• Long Questions: q\n\n• 1. 2. 3. 4.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:22:10.196Z"
+ },
+ {
+  "id": "c05d57ac62bb80fe",
+  "subject": "CS610",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s handsout or khuch paradox main sy thy.\n\n• Short Questions: 1. IP address dia hua tha subnet mask find krna tha\n\n• Long Questions: 1. UDP characteristics dy hui thi unka true or false btana tha\n\n• Asslam o alikum!! 1. 2. 3.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:22:11.023Z"
+ },
+ {
+  "id": "23df6fa9304bac2d",
+  "subject": "CS610",
+  "term": "FINALTERM",
+  "experience": "1. 2. 3. 4.",
+  "difficulty": "Moderate",
+  "savedAt": "2026-10-28T17:22:12.017Z"
+ },
+ {
+  "id": "c41c7db3b876177f",
+  "subject": "CS610",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s: s moaaz or Waqar ke files se aye thy\n\n• Short Questions:  mein jitter se related question tha aik scenario tha us k according jitter btana tha\n\n• Long Questions:  mein UDP ke characteristics the true false btana tha\n\n• Subject: CS610 Term: Final-Term CS610 Final Paper Review",
+  "difficulty": "Not Specified ⭐ Verified Student Paper",
+  "savedAt": "2026-10-28T17:22:12.608Z"
+ },
+ {
+  "id": "5a6e24d6d51673b2",
+  "subject": "CS610",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s easily ho jayin ga\n\n• Short Questions:\n\n• Long Questions:\n\n• Subjective:\n\n• Scenario based tha computer A is sa connect to Computer B .... 1. 2. IP addresses diye hoye tha class batani thi kon si ha A B C.... 3.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:22:13.489Z"
+ },
+ {
+  "id": "bc71e2070e19326d",
+  "subject": "CS610",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s handouts sa hi ayy thy\n\n• Short Questions: mai\n\n• Long Questions: Multicasting ki types 5\n\n• CS610 27 July final term question Data transmist ho rha hai source to destination to ip datagram header mai kon sii field error indicate krti hai Three address types ki statement thi btna tha kay kon kon sii address type use hoti hai Ek column tha jis mai match krny ka switch,hub,gateway,repeater Columns tha jis mai delay likhny rhy statements dii thi Propagation delay,switch delay,access delay,Query delay",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:22:20.585Z"
+ },
+ {
+  "id": "a113421e65172edf",
+  "subject": "CS610",
+  "term": "FINALTERM",
+  "experience": "Paper was quite easy\nalmost meray saray same yahi questions thay",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:22:21.415Z"
+ },
+ {
+  "id": "d2d5ba981a7c4981",
+  "subject": "CS610",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s moaaz or Waqar ke files se aye thy\n\n• Short Questions: mein jitter se related question tha aik scenario tha us k according jitter btana tha\n\n• Long Questions: mein UDP ke characteristics the true false btana tha\n\n• Aik s mein subnet mask diya tha or usable host find krna tha Or Nat ka alternatives btana tha IP address diye gy thy (binary form mein ni thy) un ke classes btani the Usable host find krna tha Multicast ke 5 types likhni the with proper names (v imp)",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:22:22.089Z"
+ }
+]
