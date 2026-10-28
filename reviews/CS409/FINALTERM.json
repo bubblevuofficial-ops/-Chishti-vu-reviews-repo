@@ -1,0 +1,50 @@
+[
+ {
+  "id": "ea6d556b8e7230bf",
+  "subject": "CS409",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s were from vutoolkit....half from the handouts\n\n• Short Questions: 1: 3 data types of pl/sql.\n\n• Long Questions: 1. 2 task thy Task 1:Allocate UPDATE,INSERT privileges on ITEM to Itmrol\n\n• s were from vutoolkit.... 3: Write an sql command to copy(load) data from \"product\" table into the product1 table without APPEND hint. 1. 2. An associate array is an index by table which is set of key values pairs. can this key be a string? 3. Logical database structure ki diagram.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:08:55.780Z"
+ },
+ {
+  "id": "d30db37b0c62ac1e",
+  "subject": "CS409",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s kuch easy BHI thy , lakin theory read krogy toh easy hongy mcqs.\n\n• Short Questions: l/Pl queries thi. Privilege find krni thi object hai ya system. Create view etc. aur mcqs kuch easy BHI thy , lakin theory read krogy toh easy hongy mcqs.\n\n• Subjective: wasy easy kyun ky vu tool kit mai jitny reviews thy bas wohi questions kiye thy. Sab Sql/Pl queries thi. Privilege find krni thi object hai ya system. Create view etc. aur mcqs kuch easy BHI thy , lakin theory read krogy toh easy hongy mcqs.\n\n• wasy easy kyun ky vu tool kit mai jitny reviews thy bas wohi questions kiye thy. Sab Sql/Pl queries thi. Privilege find krni thi object hai ya system. Create view etc. aur",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:08:56.400Z"
+ },
+ {
+  "id": "833ff4c9040ff042",
+  "subject": "CS409",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s from the VU Toolkit.\n\n• Short Questions: L. Most of the exam questions come from this chapter.\n\n• The most important topic is PL/SQ That's all I remember.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:08:57.085Z"
+ },
+ {
+  "id": "141b63f83d6fdb43",
+  "subject": "CS409",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s vu toolkit se thy questions almost sare pl/SQL command se the bs code likhna aana chahiye ek long question mn logical database structure ki diagram banani thi\n\n• Short Questions: L command se the bs code likhna aana chahiye ek long question mn logical database structure ki diagram banani thi\n\n• Long Questions: mn logical database structure ki diagram banani thi\n\n• Mostly",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:08:57.792Z"
+ },
+ {
+  "id": "5177b0a68616c520",
+  "subject": "CS409",
+  "term": "FINALTERM",
+  "experience": "• MCQs: vu toolkit sa he ay tha bakii mix tha\n\n• Short Questions: or long question\n\n• Long Questions: Scheme objects ka naam btna tha define keya howa tha na  long\n\n• 50%question Scheme objects ka naam btna tha define keya howa tha na SQL query lekhnii the read function ke Bakii yad ni mujha",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:08:58.680Z"
+ },
+ {
+  "id": "c05d485dc80f6a91",
+  "subject": "CS409",
+  "term": "FINALTERM",
+  "experience": "• MCQs: 'S may sy 14 vutoolkit waly thy baqi handouts sy hon gy idk :(\n\n• Short Questions: L statement to create a view named EMPVIEW using columns EMPNO, EMPID, and MANGID from the EMP table\n\n• Long Questions: 1)Grant DELETE privilege on the COURSE table to TEACHER\n\n• 4)Write three conditions for conflict between two data transactions. Grant SELECT privilege on the EMP table to ALL users.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:09:06.101Z"
+ }
+]
