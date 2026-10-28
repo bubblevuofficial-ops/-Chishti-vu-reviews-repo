@@ -1,0 +1,74 @@
+[
+ {
+  "id": "b9dbc2af87498933",
+  "subject": "CS636",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s mixed thy lekin sahi thy\n\n• Short Questions: 1.Intersection nikalna tha j or k sets mn sy\n\n• Long Questions: 1. State transition wali process diagram bnani thi\n\n• Kuch robots sy thy Kuch disk sy Kuch sets sy or 15 16 weeks sy bhi kafi thy.. 1. 2. 3. 4.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:26:36.894Z"
+ },
+ {
+  "id": "30be227479f384b3",
+  "subject": "CS636",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s bht asan thy , slides sa thy sary\n\n• Short Questions: 1. write two ways to write function in VDM-SL. only name .\n\n• Long Questions: 1. why  wellformedness is essestial?\n\n• 2. 3. which property ensures , system does not contain any contraction/conflict? 4. how can we identify block of a disk? why wellformedness is essestial? to get last element , write function..",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:26:37.788Z"
+ },
+ {
+  "id": "e42860d1073a65fc",
+  "subject": "CS636",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s are very easy 3 sy 4 robustness waly topic sy thy add remove waly topic sy aur baki bhi boht easy thy\n\n• Long Questions: 1:robustness ky aspects\n\n• aur questions bhi easy thy I recommend YouTube video for the preparation (virtual university Alerts) ki time duration wali video 1:Set of operations batany thy 2:universal quantifier ki defination 3:why we use mk function 4:why proofs all important for formal method questions 2:sequences match wala tha Len,hd,tl,elems,inds 3:operations ky sections batany thy",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:26:38.503Z"
+ },
+ {
+  "id": "a4f38f7eac5eae69",
+  "subject": "CS636",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s slides mei se the, Robot Monitoring Sys aur last 3 topics ki slides imp hai\n\n• Short Questions:\n\n• Long Questions:\n\n• - union of sets - universal quantifier - role of proofs - elems operator  - difference operator - components of VDM-SL specifications - robustness aspects",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:26:39.181Z"
+ },
+ {
+  "id": "ec1c6bd04166a250",
+  "subject": "CS636",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s are mostly from last topic Robustness jesy k add robot or remove robot finish work statemts de thi just batan a tha\n\n• Long Questions: 1,predecate logic with examples?\n\n• 1 . 2funaction given identify which one is fun definition which one one is function signature? 2 . ek consistency k related tha scenario base rha k contradions statements foraml method mn Kesy remove hoti hn? 3. purpose of In range function? 2. which function removes last elements from sequence? why well formdness is essential in formal methods?",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:26:39.908Z"
+ },
+ {
+  "id": "1a78f4c0e8ed5da2",
+  "subject": "CS636",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s ek doe file kro aur handouts ko achy sy concept clear kro ho jay gay.\n\n• Long Questions: ma tah example likhni thi.\n\n• paper bhot zada easy tha. Even Quizzes kr lo gay toe s done. 1. inRange function. 2. 3. 4. Which Operator Joins Two Sequences? 5. aur yahi 6. 7. Tip: sary last exam ma jo current papers yt pr yah kahi b share hoy hain, inko combine krain aur wo rady aur Maha rana ki file kr lain. 100% percent paper wohi sy aye ga.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:26:46.389Z"
+ },
+ {
+  "id": "90ef2e6f1765cc83",
+  "subject": "CS636",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s to yaad nai\n\n• Short Questions: qs\n\n• Long Questions: qs\n\n• 1. 2. 3. 4.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:26:47.195Z"
+ },
+ {
+  "id": "ded5fbe64f1a965b",
+  "subject": "CS636",
+  "term": "FINALTERM",
+  "experience": "• MCQs: b aik short b aya tha is and 2 sequence ko join krny k liye kya use krty hn mcq almost slide sy thy file kr le bas aik diagram thi transmission wali koi process management wali and aik table tha robo wala and bas yad.\n\n• Short Questions: b aya tha is and 2 sequence ko join krny k liye kya use krty hn mcq almost slide sy thy file kr le bas aik diagram thi transmission wali koi process management wali and aik table tha robo wala and bas yad.\n\n• Long Questions: mn b tha mcq b aik short b aya tha is and 2 sequence ko join krny k liye kya use krty hn mcq almost slide sy thy file kr le bas aik diagram thi transmission wali koi process management wali and aik table tha robo wala and bas yad.\n\n• cs636 paper zyda tar robotness waly topic sy aya tha add and remove robotness wala mn b tha",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:26:48.105Z"
+ },
+ {
+  "id": "542bc2a2346983bd",
+  "subject": "CS636",
+  "term": "FINALTERM",
+  "experience": "• Short Questions: inRange function\n\n• Long Questions: function that returns last element of sequence write down function\n\n• 5 Quiz from SDM-SL 4 Quiz from Robot Monoitring System Question Question why proofs important in formal methods Operator that are used to join two sequence SQ: statement were given and asked about function definition and signature LQ: LQ:Five instricts in SDMSL LQ: 1 from RMS table correct statement match with functions",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:26:49.332Z"
+ }
+]
