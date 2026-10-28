@@ -1,0 +1,114 @@
+[
+ {
+  "id": "dbcdff0a6de53ee9",
+  "subject": "CS301P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s were mix . And not that much difficult.\n\n• Long Questions: me\n\n• 1. 2. 3. 4.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:58:53.689Z"
+ },
+ {
+  "id": "65d7c07a570d2cf3",
+  "subject": "CS301P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s was so easy main concepts some from that video and others are main concepts.\n\n• Short Questions: Qs was 1-program likhny wala Question 2-program was given of stack data structure push 1 push5 push 7 push 9 krny k bad remove kren to kons nmbr top pe hoga iska lifo ya fifo k according ans krna tha\n\n• Long Questions: was 1-output likhni thi 2-huffmann tree given tha or numbers diye hoye thy jin ko follow kar k characters find kar k word bnana tha free k 5 nmbr.\n\n• Watch video of Education world of 1 hour in which They solve past paper most of your concept will clear.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:58:54.385Z"
+ },
+ {
+  "id": "92a4c43f1d153e75",
+  "subject": "CS301P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s were easy if ur concepts are clear mcqs were mostly from hash functions\n\n• insertion ka code write krna tha avl tree (deletion) node delete kryky phir rotation performs krni or new avl tree draw krna tha with steps min heap array form mai tha ( deletion )",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:58:55.203Z"
+ },
+ {
+  "id": "50b84be318764486",
+  "subject": "CS301P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s yad nhi goizzz anywaysss best of luck ya'll..\n\n• Q2: A question related to linear probing... Q4: A question related to building a Max Heap tree.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:58:55.888Z"
+ },
+ {
+  "id": "05e6a8b861ff92dc",
+  "subject": "CS301P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s with Correct Answers\n\n• #### 1. Q: Linked list kis type ki memory allocation hai? A. B. C. D. #### 2. Q: String ko compare karne ke liye konsa built-in function use hota hai? Wajah: C/C++ mein `strcmp()` standard hai. #### 3. Q: In hashing the size of table is actually the size of  ? #### 4. Q: In sorting algorithms, which is the most effective when almost everything is already sorted? Wajah: Insertion sort best hai for \"nearly sorted\" data. #### 5. Q: `isempty()` kia check karta hai? #### 6. Q: In Huffman encoding, 0 is assigned to? Note: Convention hai. #### 7. Q: Percolate down ka aim kia hai? #### 8. Q: New set name of union(6, 7) ? E. Option mein `{6, 7}` nahi hai to dono alag elements hain. #### 9. Q: The union by height method, which tree is attached to root? #### 10. Q: AVL Tree: Insert 90, 40, 60, 80, 50, 55, 68. Double Left-Right rotation kab occur hoti hai? Q: Double RL rotation kab occur hoti hai?",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:58:56.612Z"
+ },
+ {
+  "id": "bc38387059295d4e",
+  "subject": "CS301P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: S FROM Paradox plus conceptual thay overall easy tha paper.short lecture must watch kst learning ki .\n\n• Short Questions: lecture must watch kst learning ki .\n\n• Subjective: mai\n\n• S FROM Paradox plus conceptual thay overall easy tha paper. 1. AVL tree deya tha add two node and then balanced. 2. AVL tree sy node delete krna tha and then balanced. easy tha dono question. 3. array wala code tha iska output lekhna tha. 4. unsorted list deya tha or check krna tha ky ye konsa sorted algorthim mean selection, inseration, bubble in sy aik choose krna tha. VU TALK CHANNEL KI 2 preparation video hain must watch karo.. 90 percent paper isi sy aya tha .",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:59:03.983Z"
+ },
+ {
+  "id": "6aaeb853e8809671",
+  "subject": "CS301P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: S jaty howy VUtoolkit k solve kar k gaya tha jis ma sy 12 mcqs ayy\n\n• Subjective: ma AVL tree ma node add karni thi or balance karna tha or sary steps jo tree bnaty huwy howy udar bnany thy\n\n• Overall paper itna mushkil tha ik qs hash function wala tha jis ma (2x+1)mod8 kar k values insert karni huti or is ky ilawa 2 coding waly QS thy Stack or is k ilawa ik or tha paper easy hy bas thori c mehnat ki zrorat hay All the best",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:59:04.782Z"
+ },
+ {
+  "id": "c540f2b69ddb14bd",
+  "subject": "CS301P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s thk hi thy mtlb agr apky concept clear to kr lein gy\n\n• Date 27 ppr cs301p Aik tree diya hua tha uska inorder traversal niklna tha 1,2,3,4,5,6,7,8 jiska ye answer tha Aik AVL tree diya hua tha do node add krni thi phir Jo last par tree bnta usko drw krna tha bs Aik queue ka program tha Aik output wala",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:59:05.481Z"
+ },
+ {
+  "id": "2a628b3fd5f87e08",
+  "subject": "CS301P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: S conceptual tha 2 kmap sa tha or aik electronic work bench sa\n\n• Long Questions: tha 3 electronic work bench sa or aik Kmap sa tha kmap diya tha us ka SOP expression batana tha\n\n• 4 question",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:59:06.256Z"
+ },
+ {
+  "id": "c0e52ef317a76581",
+  "subject": "CS301P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s se repeated tha bas just statements change thei thori bohat takay thora confuse ho jaien student's.\n\n• Long Questions: mad code likhna tha\n\n• Overall Paper Vu toolkit ki",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:59:07.021Z"
+ },
+ {
+  "id": "068d71da5a3280e3",
+  "subject": "CS301P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: so so mushkil zayda mcq paradox file sa thy\n\n• Subjective: thora easy tha or thora mushkil\n\n• Or Bs code likhna aina chaheya apko",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:59:13.270Z"
+ },
+ {
+  "id": "dae4633ba1f71830",
+  "subject": "CS301P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s boht easy thy saary handouts mein se hi aye hue thy\n\n• Long Questions: min heap ka tha array given thi uska tree draw karna tha phir min heap k according uski rotations karni thi\n\n• aik question 2 trees given thy un ka union ly kar aik node given thi uska weight find karna tha aik program likhna tha leaf node ko find karny k baary mein tha Aik mein hm ne AVL diagram bnani thi Mostly papar final term mein se hi tha mid k syllabus mein se bass 6-7 s hi thy overall paper boht easy tha",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:59:14.093Z"
+ },
+ {
+  "id": "7638300075445ba6",
+  "subject": "CS301P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s sab vutoolkit mn se thy Subjective MN trees e banany thy kuch ko balance krna tha nodes remove krky\n\n• Subjective: MN trees e banany thy kuch ko balance krna tha nodes remove krky",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:59:14.780Z"
+ },
+ {
+  "id": "f4b7f274a7f7058e",
+  "subject": "CS301P",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s fron AVL tree + Binary search tree and from arry sy thy or accending mei sort krna tha code ko .\n\n•  easy tha sary Subjecticve 1. enque and deque waly program ki output nikalni the. 2. Push() and pop() waly program ka output nikalna tha . Concept clear hony chaye about All AVL tree,BNS tree ,..... 3. Tree mei sy given node ko remove krna tha and agin tree balanced krna tha. 4.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:59:15.506Z"
+ }
+]
