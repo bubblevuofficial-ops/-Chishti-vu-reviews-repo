@@ -1,0 +1,90 @@
+[
+ {
+  "id": "5bf7631cdeb2f0f2",
+  "subject": "CS311",
+  "term": "FINALTERM",
+  "experience": "Q1) select aur delete ka method likna tha? Q2)servelet config aur genaric sevelet ka method likna tha? Q3)difference between dom and sax? Q4)http ka 5 method likna tha method tha ya session maja nahi yad lakin http 5 en dono masa hi likna tha serch kar ka dak lo? Q5)html form ka code likna tha do filed name aur password pher usa jadom servelent ya servelent par send karna tha submit? Write DOM-level code to change the text of first <style> element from \"Left Handed Bowler\" to \"Right Handed Bowler\"? Suppose team. xml is loaded in XMLdoc. You are required to write the DOM XML code to create a new element \"bowler\" by using the setElement(). Set the first node \"age\" value 35. var newElement = XMLdoc. newElement. XMLdoc. documentElement.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:03:53.208Z"
+ },
+ {
+  "id": "14121beb679f21d5",
+  "subject": "CS311",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s lazmi ker lena\n\n• Subjective: Questions\n\n• 70 percent paper was easy. Very conceptual paper overall. Empty text node is problem full? Which type of problem raised in this case? Write code in XML file to correct empty text nodes. J-DOM steps? Steps to connect JDBC with database? Write 2 differences between RPC and Document style. Steps in JAXB. init() method code. Two ways of viewed in architecture. s were mixed from XML, Servlet and API. Write two cases in which we should use DOMParser. Differentiate between GET and POST. Write Servlet methods to execute SELECT and UPDATE query. Create a SAXBuilder. Create a Document from a file or stream. Extract the root element. Write 5 steps to connect any Java application with the database using JDBC. Write common feature of XML-RPC, SOAP and UDDI. Write complete syntax of doGet(), doPost() and destroy() methods. A scenario was given. Write XML code to link style. css file and convert the scenario to XML. How Content Handler is implemented. Marshalling () and Unmarshalling. Servlet life cycle (). Servlet calls which method to process request? Service method invokes which methods? Which server provides which JAR file? Write the names of three session tracking techniques. Register the driver class. Create statement. Create connection. Execute queries. Close connection. Database se connect karne aur ek table ko print karane ka code likhna tha. WSDL stands for? Which is not the characteristic of Web Service? Write the basic functionality of WSDL, SOAP and UDDI. Write the names of the three major Web Service Architecture roles and define them. Write the types of Cookies. Write 5 steps to connect any Java application with database using JDBC. Difference between RPC and Document Web Services. In which cases should we use SAX Parser? Write the server names in which these JAR files are used. servlet-api. weblogic. javaee. JAXP stands for? XSLT stands for? Working of Plugability Layer. SAX stands for? Name of libraries used by API? Why is SAX preferred over DOM? Difference between SAX and DOM. Marshalling or Unmarshalling. Benefits of Servlets? What is Cookie? Advantages and disadvantages of Cookie? What is CGI? Difference between forward() and sendRedirect() methods? What is Session Tracking? How many ways can Servlet be created? Usage of Servlet. Why do we use Java JDBC? What is Connection Interface? Types of JDBC Drivers and their advantages/disadvantages. What is API? Describe DriverManager class. What is Web Service? SOAP stands for? RDF stands for? RSS stands for? Write the characteristics of Web Services. How many ways can we view Web Service Architecture? Four layers of stack? BEEP stands for? Difference between REST and SOAP. What is Service? Describe JAX-WS. Ways to develop JAX-WS.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:03:53.982Z"
+ },
+ {
+  "id": "8f21ee106aa1b122",
+  "subject": "CS311",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s thy .UN mcqs ky concept bhi smja ky jaye gah .or focus\n\n• Paper bht asan tha Sara handouts sy tha or vutoolkit ky sary s thy . UN s ky concept bhi smja ky jaye gah . hands out py .",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:03:54.690Z"
+ },
+ {
+  "id": "0a9d11313322a509",
+  "subject": "CS311",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s aye bs\n\n• Short Questions: mei thy\n\n• Long Questions: iski Api/methods poochy thy\n\n• Sooch KY gya tha servlet sy paper zeida Aaye ga but 2,3 Mostly paper Aya hei Sax related JDom ki classes thi mei Http k methods thy Starting topics mei sy XML element ky child node ko access kr KY uski last child node ko remove krna tha Ik question tha connection interface ki method ya API aeisa Kuch tha Same aeisa ik aur question tha jis mei data chnge krna tha Aeisa ik aur question b tha jis mei attribute set krna Ye 3 Mazy ki bat mere Sath Jo larka beitha tha uska v same paper tha Usky Kuch v j Dom sy related Uska ik question Aya ServletsContext sy related but screen py sahi question ni dekh Saka Ussky paper ik aur question ye b tha WAXAS development method I think ye last 2 pages py hei Written by Innocent killer",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:03:55.486Z"
+ },
+ {
+  "id": "f52a24cb62069812",
+  "subject": "CS311",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s.. What is used to navigate between nodes , JDK KY bary mein tha 1 ,dopost , remove attributes ka method , insert before kaha kary gy parent sy pehly ya child sy pehly , services thi servlet ki , JAXP ki definition or abbreviation, RDF ki abbreviation, array ka starting point pocha tha , servlet characteristics Jo nahi thi wo select Karni thii , dopost kun sa exception throw karta Hy , connection method ka mcqs bhi tha mcqs easy thy as I haven't touch some topics so Kuch tuky py lagy hen .. Subjective: servletconfig kr genericservlet KY methods, teacher or staff ka code tha jis mein 5th number wali teacher ki age ko remove karna tha , datareplace karna tha XML ka code mein HTML ka given tha is  load karna tha XML , text node bana KY data replace karna tha by offset , length or onset ki help sy , init or destroy method ka code likhna tha jis mein lines print karwani thi , difference SAX or DOM ka , UDDI KY protocols or architecture likhny thy is is ky abbreviation or Kuch mcqs bhi ay thy.. Baki Mera paper normal gaya ... Alhamdulilha ✨ agr ap handouts achy sy kary to hi jay ga paper. InshaAllah✨ and best of luck 👍\n\n• Subjective: servletconfig kr genericservlet KY methods, teacher or staff ka code tha jis mein 5th number wali teacher ki age ko remove karna tha , datareplace karna tha XML ka code mein HTML ka given tha is  load karna tha XML , text node bana KY data replace karna tha by offset , length or onset ki help sy , init or destroy method ka code likhna tha jis mein lines print karwani thi , difference SAX or DOM ka , UDDI KY protocols or architecture likhny thy is is ky abbreviation or Kuch mcqs bhi ay thy.. Baki Mera paper normal gaya ... Alhamdulilha ✨ agr ap handouts achy sy kary to hi jay ga paper. InshaAllah✨ and best of luck 👍\n\n• Cs311 paper 27 July Paper was easy.. I have prepared from handouts . s.. What is used to navigate between nodes , JDK KY bary mein tha 1 ,dopost , remove attributes ka method , insert before kaha kary gy parent sy pehly ya child sy pehly , services thi servlet ki , JAXP ki definition or abbreviation, RDF ki abbreviation, array ka starting point pocha tha , servlet characteristics Jo nahi thi wo select Karni thii , dopost kun sa exception throw karta Hy , connection method ka s bhi tha s easy thy as I haven't touch some topics so Kuch tuky py lagy hen .. servletconfig kr genericservlet KY methods, teacher or staff ka code tha jis mein 5th number wali teacher ki age ko remove karna tha , datareplace karna tha XML ka code mein HTML ka given tha is load karna tha XML , text node bana KY data replace karna tha by offset , length or onset ki help sy , init or destroy method ka code likhna tha jis mein lines print karwani thi , difference SAX or DOM ka , UDDI KY protocols or architecture likhny thy is is ky abbreviation or Kuch s bhi ay thy.. Baki Mera paper normal gaya ... Alhamdulilha agr ap handouts achy sy kary to hi jay ga paper.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:03:56.190Z"
+ },
+ {
+  "id": "2ee6f2a44816aecb",
+  "subject": "CS311",
+  "term": "FINALTERM",
+  "experience": "• MCQs: 's mostly from the handouts and 3 to 4 are full forms type (like full form of SOAP)etc:-\n\n• Short Questions: -\n\n• Long Questions: -\n\n• (QUESTION#1. ) Write the names of three JDBC drivers? (QUESTION#2. ) Consider the following code which removes the attribute \"category\" from first \"teacher\" element. Modify the code so, it should remove attribute \"age\" from fifth teacher element. x = xmlDOC. x = [0]. (QUESTION#3. ) UDDI can communicate via protocols and architecture. You are required to write names of protocols and architectures? (QUESTION#4. ) What are the two main approaches used by JAXP for processing XML data? ) How many major roles exist with in the web service architecture? Right the names of three major roles and explain them? ) Write code for init() and destroy() methods of a servlet. In the init() method, print \"servlet is initializing\" to the console, and in the destroy() method, print \"servlet is being destroyed\"? Write DOMlevel code to change the text of first <style> element from \"Left Handed Bowler\" to \"Right Handed Bowler\"?",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:04:03.082Z"
+ },
+ {
+  "id": "5dfc897b509a5a4c",
+  "subject": "CS311",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s Kuch handouts ma sy thy or baqi sb conceptual thy\n\n• Subjective: Sara coding ka tha\n\n• Overall paper was difficult Kisi ma missing statements find kr k likhni thin Kisi ma output d hui thi uska code likhna tha mtlb paper bht mushkil tha Mery lia Dua kijay ga ma pass hojaun",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:04:04.089Z"
+ },
+ {
+  "id": "01538a4cf7597b47",
+  "subject": "CS311",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s are from handouts conceptual.\n\n• Short Questions: Q bhe\n\n• Long Questions: 5 most common JDOM Java classes .\n\n• WSDl , SOAP , JAXP stands for. Q , XML code given tha uska JDOM code lkhna tha .",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:04:05.000Z"
+ },
+ {
+  "id": "af55f9712807c8a6",
+  "subject": "CS311",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s were concept-based, while many were similar in style to the practice MCQs available in the VU Toolkit. A couple of MCQs were related to abbreviations.\n\n• Short Questions: 1. One question was based on JavaScript coding.\n\n• Long Questions: 1. Two questions were related to JAX-WS, including the different ways used to develop JAX-WS web services.\n\n• The paper was overall easy to moderate. - Most of the 2. One question was about the DriverManager in Java. 3. One question required changing the value of the first \"<style>\" element from \"left handed bowler\" to \"right handed bowler\". Two questions were related to JAX-WS, including the different ways used to develop JAX-WS web services. One question was based on DOM coding, where a new attribute had to be created and its value assigned. Overall, students who had a clear understanding of the concepts and practiced coding questions had a good chance of performing well.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:04:05.881Z"
+ },
+ {
+  "id": "504df29d9fc83c20",
+  "subject": "CS311",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s\n\n• Short Questions:\n\n• Long Questions:\n\n• 1. Suppose team. xml load in XMLdoc you are required to write the DOM XML code to create a new element \" bowler\" by using the setelement() . Set the the first node \"age\" value 35. 2. Common features of SOAP ,(one missing element) and UDDI . 3. Difference between SAX and DOM in the context of JAXP . questions. Write the five methods of cookies class. Write the servlet code of init() and destroy () with given description statement \" initiate method successfully execuded\" and in destroy method \" destroyed successfully\" . Team. xml loaded in XML doc . 2:Set First node \"Age\" value \"35' . 3:New node with description of \" waseem Akram\" . dom, web services, or us k roles me sy do s thy almost same same . 4 5 abbreviations s thy.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:04:12.684Z"
+ },
+ {
+  "id": "5a77b9b34cccd76d",
+  "subject": "CS311",
+  "term": "FINALTERM",
+  "experience": "• MCQs: S.\n\n• Write methods of ServletConfig and GenericServlet. Which methods are used for SELECT and DELETE queries in JDBC? xmlDoc = loadXMLData(\"staff. x = xmlDoc. x[0]. Write differences between DOM and SAX parsers for XML processing. Write the names of five most common JDOM Java classes. Write any four commonly used methods of the HttpSession interface in servlets. Write the names of any five key SAX APIs used for XML parsing. Which method of DriverManager is used to obtain a database connection? API STANDS FOR? Application Programming Interface. DOM & SAX RELATED WEB SERVICES RELATED. PREPARE QUIZES S AND ASSESSMENT S.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:04:14.192Z"
+ }
+]
