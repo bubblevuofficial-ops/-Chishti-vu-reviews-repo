@@ -1,0 +1,10 @@
+[
+ {
+  "id": "c1db138a52d9ac90",
+  "subject": "CS206",
+  "term": "MIDTERM",
+  "experience": "• MCQs: s:\n\n• Short Questions: 1. A scenario was given in which each device in a network needed to be identified and managed through a unique MAC address. We had to identify the networking device/method used for this purpose.\n\n• Long Questions: 1. A table was given containing routing protocol names. We had to identify whether each protocol was Public (Open Standard) or Proprietary.\n\n• Most s were easy and could be solved from the handouts, assessment questions, and past files. 2. Another scenario asked which technique is used when multiple VLANs or companies need to send data over a single physical link. A table was given containing routing protocol names. We had to identify whether each protocol was Public (Open Standard) or Proprietary. A matching/fill-in-the-table question was given. - Column A contained incomplete statements or definitions. - Column B contained possible answers, but they were not arranged in the correct order. - We had to find the correct matching answer from Column B and write it in Column C against the appropriate statement from Column A.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:57:09.577Z"
+ }
+]
