@@ -1,0 +1,154 @@
+[
+ {
+  "id": "095ba0e1fdbb158a",
+  "subject": "CS401",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s were all easy but conceptual.\n\n• Short Questions: 1. Write program for parallel port to write 0xAAAA\n\n• Long Questions: 1. Describe TSR\n\n• Time: 1. 2. Bios saw storage as ... 3. Dos saw storage is... 4. Processor use... pin for hardwar int... 5. Parallel control port is.... 6. In scrolling up AL do what.... 7. In dos buffer..... bit is used for storage bit that Buffar can hold. 8. Low previlage mod.... is use for high and low priority ... 9. 68k processor use.... register... 10. Extanded mode of AX is.... 11. service for keyboard ... 12. bios video int.... question. 1. Write assembly program for bios services. Read below give instruction and write program for it. question. How to switch to protected mode from real mode.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:05:05.586Z"
+ },
+ {
+  "id": "1fd1b2cef8fc75a8",
+  "subject": "CS401",
+  "term": "FINALTERM",
+  "experience": "• MCQs: bhot easy tha ma na past files sy parha tha  accha hogya  tha or subjective Mai\n\n• Subjective: Mai\n\n• Q what does asychronus means? Q describe GDT. Disable interrupt ko kesy likhty ? Note: Mushkil paper last rakha kry bhooooot help hojatee hai.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:05:06.323Z"
+ },
+ {
+  "id": "113a0dc33f043d24",
+  "subject": "CS401",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s k lye Waqar ki file, paradox k mcqs and (ehtyatan Vu topper ki file kr k jaain)\n\n• Short Questions: 1-Types of interrupt classes. Name?\n\n• Long Questions: 1- In protected mode, What is meant by level of privileges? total numbers of privilege level?\n\n• Subjective: aya <3 . Baqi MCQs k lye Waqar ki file, paradox k mcqs and (ehtyatan Vu topper ki file kr k jaain)\n\n• 2- Which instruction is used for the string comparison operation in assembly language programming. and how does it work? 3-Explain the role of AL and AH when using int 10h, AH=06h for scrolling screen up? 2-Difference between hooking and unhooking interruption? 3- Device driver routines? their names? Matlab Reviews se sara aya <3 .",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:05:07.092Z"
+ },
+ {
+  "id": "6a6055ed5fe7ac0d",
+  "subject": "CS401",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s:\n\n• Subjective: Questions:\n\n• s bohat easy thay. - Device Driver Routines ki types aur un ke names. - INT 21H ki statement ke mutabiq AX, AL, BX, CX waghera registers ki values find karni thin. - Video Services (5:6:5 ratio/pixel) se related question. - Assembly Language ke code se related question. - INT 10H (AH=01H) se related question. Almost 3 Questions Paradox ka Channel par share kiye gaye Reviews mein se aaye thay. Best of Luck!",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:05:07.941Z"
+ },
+ {
+  "id": "ecfaaaede5db1aa4",
+  "subject": "CS401",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s thik tha jisna handouts phra hi woh easily kr sakta hai !\n\n• Short Questions: bhi easy tha un logo ka Liya jinha Koch ata jata hi Mera jisa logo ka Liya nhi\n\n• Long Questions: bhi bas normal hi the agr ap ek Thora SA bhi phrna likhna wala bacha ho acha mask agai ga paper easy tha but mujhe phir bhi nhi aya so best of luck sab handouts sa hi tha 🤧💔\n\n• Apki trha mein bhi mayos ho......",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:05:08.691Z"
+ },
+ {
+  "id": "2a864881ea15ea24",
+  "subject": "CS401",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s and almost all the subjective was from 2 topics. Video graphics port and device drivers. One long was about write assembly code for disabling sound card from PIC.\n\n• Long Questions: was about write assembly code for disabling sound card from PIC.\n\n• Subjective: was from 2 topics. Video graphics port and device drivers. One long was about write assembly code for disabling sound card from PIC.\n\n• Paper was tough at-least for me. Most of the",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:05:15.485Z"
+ },
+ {
+  "id": "a1c31a089c9c35c9",
+  "subject": "CS401",
+  "term": "FINALTERM",
+  "experience": "This is the paper",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:05:16.197Z"
+ },
+ {
+  "id": "0233f362dbfdbc98",
+  "subject": "CS401",
+  "term": "FINALTERM",
+  "experience": "This is Paper",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:05:17.701Z"
+ },
+ {
+  "id": "3800e4d7dc829c77",
+  "subject": "CS401",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s were very easy. Almost all MCQs were from the Handouts, mainly based on definitions and abbreviations (stand for). The subjective questions are shared below.\n\n• Subjective: questions are shared below.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:05:18.489Z"
+ },
+ {
+  "id": "faafe4b4911b8d17",
+  "subject": "CS401",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s tough ty  zada MCQs handouts mn ty file say bth Kam ay\n\n• Short Questions: mn :\n\n• Long Questions: Bit A , Bit C , Bit D ka poacha ta\n\n• Cs401 paper review Date : 29 July Time 10 am s tough ty zada s handouts mn ty file say bth Kam ay AK code ka ko question ta Define two routine name of device driver AK instructions ka poacha ta us ki working ka or statement yaad nahi",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:05:24.892Z"
+ },
+ {
+  "id": "3dd703baf5ad667c",
+  "subject": "CS401",
+  "term": "FINALTERM",
+  "experience": "• MCQs: to easily ho gai lekin subjective tough thi boht ...achy sy concept clear karain aur bar bar revision karain ........Waqar sidhu , vu topper ki files aur vu concepts ki videos sy kafi objective aii thi\n\n• Subjective: tough thi boht ...achy sy concept clear karain aur bar bar revision karain ........Waqar sidhu , vu topper ki files aur vu concepts ki videos sy kafi objective aii thi\n\n• Mera cs401 aur P dono ka paper ho gaya ha lekin paper tough tha kafi ... to easily ho gai lekin tough thi boht ... achy sy concept clear karain aur bar bar revision karain ........",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:05:25.693Z"
+ },
+ {
+  "id": "6e95078f8a7ea214",
+  "subject": "CS401",
+  "term": "FINALTERM",
+  "experience": "• MCQs: S youtube video or paradox file se the\n\n• Short Questions: Q: Write assembly code of \"0xAAAA\" in parallel port\n\n• Long Questions: Q: In protected mode, What is meant by level of privileges? total numbers of privilege level?\n\n• Q: To store the base and limit of GDT which register is use? Q: Can we increase the speed of multitasking? If Yes, how? Q: What will be effect after exceuting the REPE and REPNE on zero flag? Q: Write Reset Disk System> and also services and varaiables of these services?",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:05:26.385Z"
+ },
+ {
+  "id": "098d8bc9293b4798",
+  "subject": "CS401",
+  "term": "FINALTERM",
+  "experience": "• MCQs: easy tha agr handouts ki theory parhi to easily ho jaye ga solve\n\n• Subjective: MN services scrolling up ka program tha aik program tha instructions btani thi aik MN null descriptor ka code likhna tha aisy tha mtlb subjective tough tha\n\n• Aj Mera paper tha cs 401 ka",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:05:27.195Z"
+ },
+ {
+  "id": "fad7290164526c45",
+  "subject": "CS401",
+  "term": "FINALTERM",
+  "experience": "• MCQs: r koi short long question nai tha is main sy\n\n• Short Questions: long question nai tha is main sy\n\n• Long Questions: nai tha is main sy\n\n• Cs 401 Very very difficultbpaper No question from pastbpapers No from int services No from Irq koi Mujy to yad b nai k koa thy questions 2 question thy bus Decribe Tsr Decsribe int and int 10 services Baqi sb koi nainpat kahan sy thy Coding nai the",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:05:28.183Z"
+ },
+ {
+  "id": "dc0365d6a6d731b1",
+  "subject": "CS401",
+  "term": "FINALTERM",
+  "experience": "This is review of cs401",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:05:34.804Z"
+ },
+ {
+  "id": "0d81df436b8091d8",
+  "subject": "CS401",
+  "term": "FINALTERM",
+  "experience": "• Short Questions:\n\n• Long Questions:\n\n• Cs401 27 july 10 am  5:6:5 what does this format means in VBSE Int 13 service thi koi Which attribute will return error code and error flag Which interrupt has highest priority Which register are push on stack before ISr call  Write 5 data movement instruction of sun sparc Write attributes of int 13 service extended read What is effect of REPNE and REPE On zero flag",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:05:35.583Z"
+ },
+ {
+  "id": "a10b7823e32427b5",
+  "subject": "CS401",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s\n\n• Short Questions: What is effect of REPNE and REPE On zero flag\n\n• Long Questions: Koi 1 bhi program nahi Aya 😆\n\n• Almot s Paradox Bhai ki paper bank ma provided file: final term s by Waqar Siddhu in ma sy aye thy, as it is hi thy jasy is file ma likhy hwy han. highly recommended is file ko lazmi dakh kr jayen. IRQ 0 generated time is tran ka ik tha,(18. Can we increase the speed of multitasking? If Yes, how? Jis ma Multitasking, IRQ 0, debugger, switching, 2 or thy... in ki agy options thy.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:05:36.281Z"
+ },
+ {
+  "id": "f0fb9eac55d0588a",
+  "subject": "CS401",
+  "term": "FINALTERM",
+  "experience": "• MCQs: S mostly from Waqar Sidhu file\n\n• Short Questions: What is the effect of REPNE and REPE on the Zero Flag?\n\n• 1. 2. \"INT 10 Video - Scroll Up Window\" is a type of video services used in which mode? 3. The table index (TT) is set to to access the GDT (Global Descriptor Table). 4. 5. 6. 7. IDTR is a register. 8. Which of the following interrupt is used in debugging with the help oftrap flag? baqi b kafi sare files mn se the..",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:05:37.086Z"
+ },
+ {
+  "id": "5af0aea2818e7a93",
+  "subject": "CS401",
+  "term": "FINALTERM",
+  "experience": "• MCQs: s mostly waqar siddu ki files sy ae thy jo k paradox k file bank sy download ki thi must must ek bar dekhen...is liye wo bhot axhy ho gae\n\n• s mostly waqar siddu ki files sy ae thy jo k paradox k file bank sy download ki thi must must ek bar dekhen... Q1. Q2. Q3. Q4. Q5. Q6.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T17:05:37.906Z"
+ }
+]
