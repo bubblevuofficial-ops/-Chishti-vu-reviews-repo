@@ -1,0 +1,42 @@
+[
+ {
+  "id": "a6b2122ad3be7ac9",
+  "subject": "CS202",
+  "term": "MIDTERM",
+  "experience": "• MCQs: s handouts se thy mostly , lekin bohat focus se prhne kyuke ek mcq yeh bhi aaya opacity kis version ki recommendation hy jiska ans CSS3 tha.\n\n• Short Questions: ques:\n\n• Long Questions: 1. 5 different conditions di thi aur uss mein batana tha kaunsa selector required hoga\n\n• 1. 2. aur uss mein se saare href jismein google likha ho usko select kro.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:55:43.395Z"
+ },
+ {
+  "id": "a600793b00bb4325",
+  "subject": "CS202",
+  "term": "MIDTERM",
+  "experience": "• MCQs: s\n\n• Short Questions: 1. HTML Tags • Short quotation tag\n\n• Long Questions: 1. HTML Output-Based Question • h2 heading di hui thi: How to Make Tea\n\n• • Mot s HTML and CSS se thay. • Sirf 2–3 s JavaScript topics se thay. Some s Included: • HTML heading tags se related question (which is not a heading tag). • Ordered List aur Unordered List ke types. • JavaScript me statements separate karne ke liye semicolon (;). • Opacity kis CSS version ki recommendation hai? • text-transform property (uppercase/lowercase related). • toFixed() method se related question. var num = 12. document. write(num. Output: 12. 1. 2. JavaScript Output • Global aur Local Variable ka code diya gaya tha. • document. write() ke through output predict karna tha. • Unordered List me tea ingredients thay. • Ordered List me steps/items diye gaye thay (Milk, Water, Sugar, etc. • Code ka output draw/show karna tha. CSS Pseudo-Class Question • Input field ko focus hone par blue border dena tha. • Button par hover/focus effect aur 95% scaling apply karni thi. transform: scale(0. Preparation Tip: HTML tags, Lists, CSS Selectors & Pseudo-classes, JavaScript Variables, String Concatenation, toFixed() method aur output-based questions ko achhi tarah prepare karein.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:55:44.184Z"
+ },
+ {
+  "id": "d26d22f07dd3b477",
+  "subject": "CS202",
+  "term": "MIDTERM",
+  "experience": "• MCQs: s\n\n• Short Questions:\n\n• Long Questions:\n\n• 1. 2. In CSS, it is possible to write different padding with different individually. You Are Required to write code padding from top to bottom to 24pixels while right and left 50 pixels. - a image found in url 'image.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:55:44.899Z"
+ },
+ {
+  "id": "db232af171a7c47a",
+  "subject": "CS202",
+  "term": "MIDTERM",
+  "experience": "• MCQs: s very easy about html tags css stands for one from java ol ul\n\n• Short Questions: Java code\n\n• Long Questions: Write html code for align center in div also use margin property width height\n\n• Write html code for insert an image \"VU.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:55:45.618Z"
+ },
+ {
+  "id": "49208063ac9ce189",
+  "subject": "CS202",
+  "term": "MIDTERM",
+  "experience": "• MCQs: s mostly handout sy thy easy thy combinator and links ky related thy\n\n• Short Questions:\n\n• Long Questions:\n\n• 1. 2.",
+  "difficulty": "Not Specified",
+  "savedAt": "2026-10-28T16:55:46.383Z"
+ }
+]
