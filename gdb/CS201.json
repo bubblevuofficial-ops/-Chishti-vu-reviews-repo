@@ -62,5 +62,13 @@
     "text": "╔══════════════\n║ 🎓 *Mʀ Dᴀʀᴋ Lɪʙʀᴀʀʏ*\n║ _Rᴇᴀᴄᴛ ᴡɪᴛʜ ᴀɴ ᴇᴍᴏᴊɪ_\n╠══════════════\n║ 📚 *CS201*  ·  642 ꜰɪʟᴇꜱ\n║ 1️⃣ 🎯 Fɪɴᴀʟ Tᴇʀᴍ  ›  *273*\n║ 2️⃣ 📝 Mɪᴅ Tᴇʀᴍ  ›  *103*\n║ 3️⃣ 📄 Hᴀɴᴅᴏᴜᴛꜱ  ›  *29*\n║ 4️⃣ ❓ Qᴜɪᴢᴢᴇꜱ  ›  *118*\n║ 5️⃣ 📌 Aꜱꜱɪɢɴᴍᴇɴᴛꜱ  ›  *1*\n║ 6️⃣ 💬 GDBꜱ  ›  *2*\n║ 7️⃣ 🎓 Lᴇᴄᴛᴜʀᴇꜱ  ›  *11*\n║ 8️⃣ 🗂 Pᴀꜱᴛ Pᴀᴘᴇʀꜱ  ›  *18*\n║ 9️⃣ 📁 Oᴛʜᴇʀ  ›  *87*\n╚═ ✦ _Mʀ Dᴀʀᴋ_⁣",
     "savedAt": "2026-11-24T22:38:38.611Z",
     "channel": "120363412611942028@g.us"
+  },
+  {
+    "id": "gdbmwva30zdc121",
+    "code": "CS201",
+    "title": "*CS201 GDB SOLUTION*",
+    "text": "*CS201 GDB SOLUTION* \n\n *Suggested Data Structure* \n\nA 2D array would be suitable for this system.\nEach row represents an employee, and each column represents a day. For example, \"attendance[200][31]\" stores monthly attendance records.\n *Reasons* \n- Memory : Both arrays use almost the same amount of memory.\n- Easy access to employee data using rows and columns.\n- Easier to mark, update, and calculate attendance.\n- Reduces the chance of indexing errors.\n- Easy to understand and maintain.\n- Columns can be increased to 365 for yearly attendance.\n *Conclusion* \nA 2D array is more suitable because it makes attendance management, report generation, and future updates easier.\n\n> 𝑽𝒊𝒓𝒕𝒖𝒂𝒍 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 | 𝑺𝒕𝒖𝒅𝒆𝒏𝒕𝒔 𝑯𝒖𝒃 🦋🎓📚",
+    "savedAt": "2026-11-24T22:40:33.721Z",
+    "channel": "120363411880761070@g.us"
   }
 ]
