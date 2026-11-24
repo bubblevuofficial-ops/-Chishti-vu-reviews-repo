@@ -1,0 +1,10 @@
+[
+  {
+    "id": "gdbmwva26rzc86",
+    "code": "GSC101",
+    "title": "📝 *GSC101 — GDB Solution 1*",
+    "text": "📝 *GSC101 — GDB Solution 1*\n\na) The statement is *Wrong.*\n\nb) *Justification using Hund's Rule*\n\nMn²⁺ is used as an MRI contrast agent, but not because its electrons are paired. It is useful because all five of its d electrons are unpaired.\n\nManganese has atomic number 25.\nConfiguration: [Ar] 3d⁵ 4s²\nMn²⁺ (loses 2 electrons from 4s): [Ar] 3d⁵\n\nAccording to Hund's rule, electrons first occupy separate orbitals with the same spin before pairing starts. Five d orbitals, five electrons → each orbital gets one electron. All five remain unpaired.\n\nThese unpaired electrons make Mn²⁺ *paramagnetic* — it responds to a magnetic field. This influences the relaxation of nearby water protons and improves contrast in MRI images.\n\nSo the statement is incorrect: Mn²⁺ has *five unpaired* electrons, not paired.",
+    "savedAt": "2026-11-24T22:39:54.575Z",
+    "channel": "120363410879373193@g.us"
+  }
+]
