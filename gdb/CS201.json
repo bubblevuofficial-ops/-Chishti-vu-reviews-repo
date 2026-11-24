@@ -1,0 +1,10 @@
+[
+  {
+    "id": "gdbmwv9z538c11",
+    "code": "CS201",
+    "title": "*CS201 GDB SOLUTION*",
+    "text": "*CS201 GDB SOLUTION*\n\n*Recommended Option: Two-Dimensional Array* \n\nIn my opinion, a two-dimensional array is the better choice for this attendance system because it keeps employee records organized in rows and days in columns.\n\n1\\. Memory Usage: Both arrays require almost the same memory because they store 6,200 attendance values. A 2D array does not create extra storage for attendance records.\n\n2\\. Easy Access: Each employee's attendance can be accessed through their row, while each column represents a particular day. This makes updating and checking records easier.\n\n3\\. Program Logic: Calculating present days, finding consecutive absences, and preparing monthly reports becomes simpler because all records are arranged in a proper structure.\n\n4\\. Fewer Errors: It reduces confusion while accessing records because employee numbers and day numbers have separate positions.\n\n5\\. Readability and Scalability: The code becomes easier to understand, manage, and update. In the future, the system can be extended to store attendance for a full year.\n\nTherefore, I would recommend a two-dimensional array because it is more organized, readable, and suitable for the requirements of this system.\n\n> 𝑽𝒊𝒓𝒕𝒖𝒂𝒍 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 | 𝑺𝒕𝒖𝒅𝒆𝒏𝒕𝒔 𝑯𝒖𝒃 🦋🎓📚",
+    "savedAt": "2026-11-24T22:37:32.420Z",
+    "channel": "120363411880761070@g.us"
+  }
+]
