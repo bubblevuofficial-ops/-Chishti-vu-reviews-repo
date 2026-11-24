@@ -54,5 +54,13 @@
     "text": "*Cs402 ka GDB solution send krdo*",
     "savedAt": "2026-11-24T22:46:07.441Z",
     "channel": "120363410879373193@g.us"
+  },
+  {
+    "id": "gdbmwvaa7fzc92",
+    "code": "CS402",
+    "title": "=== GDB Information ===",
+    "text": "=== GDB Information ===\n\nCourse Code: CS402\nTotal Marks: 5\nStarting Date: Tuesday, November 24, 2026\nClosing Date: Wednesday, November 25, 2026\nStatus: Open\n\n=== Question Title ===\n\nDesigning a Smart Voice Assistant: Choosing the Right Automaton\n\n=== Question Description ===\n\nScenario:\n\nSuppose you are a member of an IoT research team at Virtual University. Your team has been assigned to design a smart home voice assistant named “Nova”. The assistant listens for a fixed set of voice commands:\n\n\n\t“Hello Nova, lights ON”\n\t“Hello Nova, lights OFF”\n\t“Hello Nova, fan ON”\n\t“Hello Nova, fan OFF”\n\n\nThe assistant runs on a small IoT device with very limited memory and battery power. The set of commands is fixed and finite. The recognizer must read the command one letter at a time, make exactly one move for each letter, and decide immediately whether the command is valid (accept) or invalid (reject). A separate module of the device switches the lights and fan on or off. Your task is to propose the most suitable machine for recognizing these commands.\n\nKeeping the above scenario in mind, which of the following machines will be the most favorable?\n\n\n\tFinite Automaton (FA)\n\tTransition Graph (TG)\n\tNondeterministic Finite Automaton (NFA)\n\n\nJustify your answer with valid reasons.\n\n\n\n\n\nRead the following instructions carefully before sending your comments:\n\n\n\tYour discussion must be based on logical facts, and in-depth knowledge of the topic is a must.\n\tYour comments should be relevant to the topic, i.e. clear and concise (maximum 4–5 lines).\n\tIdentify the type of language formed by the set of commands.\n\tConsider how each machine reads the input (one letter or a string per transition).\n\tConsider whether each machine is deterministic (one possible path) or nondeterministic (several possible paths).\n\tKeep in mind the memory and battery limits of the device and the requirement of one move per letter.\n\tChoose the simplest machine that is sufficient, not just one that works.\n\tDo not copy your answer from the internet or from other students. Copied or identical answers will get zero marks.\n\tPost your comment in the discussion board only. Answers sent by email will not be accepted.",
+    "savedAt": "2026-11-24T22:46:08.687Z",
+    "channel": "120363410879373193@g.us"
   }
 ]
