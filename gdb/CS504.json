@@ -6,5 +6,13 @@
     "text": "*CS504 – GDB SOLUTION BY SAIF CHISHTI*\n\n*Option 1:* Yes, the design of data flows between system processes and data stores can significantly affect the consistency and accuracy of system outputs.\n\n*Reason:* Improper design of data flows between processes and data stores is a major cause of inconsistencies in system outputs, because unnecessary intermediate processes and indirect data paths allow confirmations, duplicate records, and payment mismatches to occur without proper checks.",
     "savedAt": "2026-11-24T22:39:46.561Z",
     "channel": "120363410879373193@g.us"
+  },
+  {
+    "id": "gdbmwva21mtc80",
+    "code": "CS504",
+    "title": "Aslam o alikum",
+    "text": "Aslam o alikum \nCs 504 , Cs304 gdb soln chahiye",
+    "savedAt": "2026-11-24T22:39:47.909Z",
+    "channel": "120363410879373193@g.us"
   }
 ]
