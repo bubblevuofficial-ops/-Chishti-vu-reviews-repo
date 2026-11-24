@@ -6,5 +6,13 @@
     "text": "*IT601 GDB SOLUTION*\n1. Server Architecture Strategy: A scalable multi-tier (N-tier) architecture combined with virtualization and load balancing is the most appropriate strategy. Separating web, application, and database layers while distributing traffic across virtualized servers prevents bottlenecks, accommodates growing campus workloads, and eliminates single points of failure to minimize downtime.\n\n2. Critical Server Hardware Components: There are five primary critical server hardware components that directly impact performance and reliability: CPU (Processor), RAM (Memory), Storage Subsystem (Enterprise SSDs/NVMe with RAID), Network Interface Cards (NICs), and Redundant Power Supply Units (PSUs) & Cooling.\n\n3. Recommended Administration Tasks: To enhance security and efficiency, the administrator should configure Role-Based Access Control (RBAC) alongside a strict firewall/intrusion prevention policy to block unauthorized access, and implement automated patch management and system resource monitoring to maintain optimal server performance and prevent crashes.",
     "savedAt": "2026-11-24T22:37:36.942Z",
     "channel": "VU Connect"
+  },
+  {
+    "id": "gdbmwvabmfec143",
+    "code": "IT601",
+    "title": "*IT601 GDB SOLUTION*",
+    "text": "*IT601 GDB SOLUTION*\n1. Server Architecture Strategy: A scalable multi-tier (N-tier) architecture combined with virtualization and load balancing is the most appropriate strategy. Separating web, application, and database layers while distributing traffic across virtualized servers prevents bottlenecks, accommodates growing campus workloads, and eliminates single points of failure to minimize downtime.\n\n2. Critical Server Hardware Components: There are five primary critical server hardware components that directly impact performance and reliability: CPU (Processor), RAM (Memory), Storage Subsystem (Enterprise SSDs/NVMe with RAID), Network Interface Cards (NICs), and Redundant Power Supply Units (PSUs) & Cooling.\n\n3. Recommended Administration Tasks: To enhance security and efficiency, the administrator should configure Role-Based Access Control (RBAC) alongside a strict firewall/intrusion prevention policy to block unauthorized access, and implement automated patch management and system resource monitoring to maintain optimal server performance and prevent crashes.",
+    "savedAt": "2026-11-24T22:47:14.762Z",
+    "channel": "Virtual University Official Updates | VU Connect"
   }
 ]
