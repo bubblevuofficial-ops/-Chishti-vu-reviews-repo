@@ -70,5 +70,13 @@
     "text": "*CS201 GDB SOLUTION* \n\n *Suggested Data Structure* \n\nA 2D array would be suitable for this system.\nEach row represents an employee, and each column represents a day. For example, \"attendance[200][31]\" stores monthly attendance records.\n *Reasons* \n- Memory : Both arrays use almost the same amount of memory.\n- Easy access to employee data using rows and columns.\n- Easier to mark, update, and calculate attendance.\n- Reduces the chance of indexing errors.\n- Easy to understand and maintain.\n- Columns can be increased to 365 for yearly attendance.\n *Conclusion* \nA 2D array is more suitable because it makes attendance management, report generation, and future updates easier.\n\n> 𝑽𝒊𝒓𝒕𝒖𝒂𝒍 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 | 𝑺𝒕𝒖𝒅𝒆𝒏𝒕𝒔 𝑯𝒖𝒃 🦋🎓📚",
     "savedAt": "2026-11-24T22:40:33.721Z",
     "channel": "120363411880761070@g.us"
+  },
+  {
+    "id": "gdbmwvab1pgc121",
+    "code": "CS201",
+    "title": "*CS201 GDB SOLUTION*",
+    "text": "*CS201 GDB SOLUTION* \n\n *Suggested Data Structure* \n\nA 2D array would be suitable for this system.\nEach row represents an employee, and each column represents a day. For example, \"attendance[200][31]\" stores monthly attendance records.\n *Reasons* \n- Memory : Both arrays use almost the same amount of memory.\n- Easy access to employee data using rows and columns.\n- Easier to mark, update, and calculate attendance.\n- Reduces the chance of indexing errors.\n- Easy to understand and maintain.\n- Columns can be increased to 365 for yearly attendance.\n *Conclusion* \nA 2D array is more suitable because it makes attendance management, report generation, and future updates easier.\n\n> 𝑽𝒊𝒓𝒕𝒖𝒂𝒍 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 | 𝑺𝒕𝒖𝒅𝒆𝒏𝒕𝒔 𝑯𝒖𝒃 🦋🎓📚",
+    "savedAt": "2026-11-24T22:46:47.908Z",
+    "channel": "120363411880761070@g.us"
   }
 ]
