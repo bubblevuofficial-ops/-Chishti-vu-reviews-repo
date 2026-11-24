@@ -54,5 +54,13 @@
     "text": "*CS403 GDB ANSWER*\n \nI will go with Design B because it makes our work easy and safe for long time. First the primary key is only EnrollmentID. It is one small number for one enrollment. It does not depend on student course or semester. So even if any of those values change the key stays same and old records stay safe. In Design A the key is made of three columns and any change can create problems. Second the foreign keys in other tables become very simple. Attendance marks and assessment tables only need to save one EnrollmentID to link with enrollment. They do not need to copy three columns again and again. This saves space and makes joins fast and less confusing for new students. Third Design B is easy to maintain in future. If university adds a new rule we can change the unique rule only. The main key and all linked tables will still work. This is like a library card number. One card number is used for all books and records instead of using name and class every time. So Design B is clean simple and strong and it still stops same student from taking same course twice in same semester.\n\n> 𝑽𝒊𝒓𝒕𝒖𝒂𝒍 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 | 𝑺𝒕𝒖𝒅𝒆𝒏𝒕𝒔 𝑯𝒖𝒃 🦋🎓📚",
     "savedAt": "2026-11-24T22:38:26.053Z",
     "channel": "120363412793715436@g.us"
+  },
+  {
+    "id": "gdbmwva0cyjc46",
+    "code": "CS403",
+    "title": "Kesy KY pass GDB cs403 ka solution ha??",
+    "text": "Kesy KY pass GDB cs403 ka solution ha??",
+    "savedAt": "2026-11-24T22:38:29.275Z",
+    "channel": "120363408979204880@g.us"
   }
 ]
