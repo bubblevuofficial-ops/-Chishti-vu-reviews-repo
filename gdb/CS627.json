@@ -1,0 +1,10 @@
+[
+  {
+    "id": "gdbmwvabcunc133",
+    "code": "CS627",
+    "title": "*Cs627 GDB Solution*",
+    "text": "*Cs627 GDB Solution*\n\nNo\nReason 1: If the database gets hacked, the plain-text passwords can be read directly, so every student account is exposed and the hashed copy gives no protection at all.\n\nReason 2: Storing the plain-text version cancels the purpose of hashing, and account recovery should be done by a reset link or a temporary password instead of looking at the original password.",
+    "savedAt": "2026-11-24T22:47:02.351Z",
+    "channel": "Virtual University Updates"
+  }
+]
