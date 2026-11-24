@@ -6,5 +6,13 @@
     "text": "*CS614 GDB SOLUTION* \n\nCheap cloud storage and compute do not make traditional warehouse modeling obsolete; they make disciplined warehousing more important than ever. Dumping raw data into a lake without a star schema leaves every analyst to define metrics like “revenue” differently, which produces conflicting numbers and exactly the distrust the finance team fears. Cloud lowers the cost of storing and processing data, but it does not create consistent definitions, data quality, or a single version of truth, so ETL/ELT pipelines and dimensional modeling remain essential for trusted, governed reporting.\n\n> 𝑽𝒊𝒓𝒕𝒖𝒂𝒍 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 | 𝑺𝒕𝒖𝒅𝒆𝒏𝒕𝒔 𝑯𝒖𝒃 🦋🎓📚",
     "savedAt": "2026-11-24T22:38:24.888Z",
     "channel": "120363412793715436@g.us"
+  },
+  {
+    "id": "gdbmwvac2lwc160",
+    "code": "CS614",
+    "title": "CS614 GDB Solution",
+    "text": "CS614 GDB Solution \n\n> DON'T COPY PASTE \nOpinion: Cheap cloud storage and compute make disciplined warehousing more important than ever, not obsolete.\n\nCheap storage solves only the cost of keeping data, not the problem of trusting it. If raw data is dumped into a lake and every analyst writes their own revenue logic, one will include returns, another will exclude discounts, and the finance team will get conflicting numbers, which is exactly what Bluebird Books's star schema and ETL pipelines prevent. A star schema gives one agreed definition of revenue, and ETL cleans and validates data once, so everyone reports from the same \"single source of truth.\" A cloud lake is still useful for storing raw data cheaply, but it works best alongside a modeled warehouse layer for reporting, so the finance team's concern is valid.   \n\n`𝑽𝑼 𝑯𝑬𝑳𝑷 𝑺𝑸𝑼𝑨𝑫`",
+    "savedAt": "2026-11-24T22:47:35.732Z",
+    "channel": "𝑽𝑼 𝑯𝑬𝑳𝑷 𝑺𝑸𝑼𝑨𝑫 | 𝑶𝑭𝑭𝑰𝑪𝑰𝑨𝑳 𝑺𝑻𝑼𝑫𝒀 𝑪𝑯𝑨𝑵𝑵𝑬𝑳"
   }
 ]
