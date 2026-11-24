@@ -70,5 +70,13 @@
     "text": "CS402 – GDB SOLUTION BY NINJA\n\nAnswer: Finite Automaton (FA)\n\nThe given commands form a finite regular language because the set of valid commands is fixed and finite. FA reads the input one letter at a time and follows exactly one deterministic path for each letter, making it suitable for immediate acceptance or rejection. It is also simpler and more efficient than NFA for a device with limited memory and battery.\n\nFor More Solutions Follow us\n\nWhatsApp Channel: https://whatsapp.com/channel/0029Vb46vGwJkK7Fw32cAk35",
     "savedAt": "2026-11-24T22:46:22.040Z",
     "channel": "120363239623079949@g.us"
+  },
+  {
+    "id": "gdbmwvaaq9pc111",
+    "code": "CS402",
+    "title": "📚 *GDB — CS402*",
+    "text": "📚 *GDB — CS402*\n\n*Answer:* The most favorable machine for recognizing these commands is the **Finite Automaton (FA)**.\n\nThe fixed set of voice commands forms a finite language, which is a subset of regular languages. An FA is the simplest and most memory-efficient automaton capable of recognizing regular languages. It inherently reads one letter at a time, making exactly one deterministic move for each letter, perfectly aligning with the device's limited memory, battery, and the requirement for immediate, single-move processing. NFA and TG, while also capable, introduce unnecessary complexity (nondeterminism or string transitions) that would be less efficient for this specific, constrained scenario.\n\n📌 Source: VU Channel\n\n> ✦ Tech by Mars & Error 👾 ✦\n\n_24/11/2026_",
+    "savedAt": "2026-11-24T22:46:33.085Z",
+    "channel": "𝕍𝕌 𝕄𝕀𝔻 & 𝔽𝕀ℕ𝔸𝕃 𝕋𝔼ℝ𝕄 ℙℝ𝔼ℙ𝔸ℝ𝔸𝕋𝕀𝕆ℕ🥇"
   }
 ]
