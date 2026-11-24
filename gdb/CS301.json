@@ -46,5 +46,13 @@
     "text": "Cs301 ki gdb agyi hn uska solution agr apky pass hn tu send krdyy",
     "savedAt": "2026-11-24T22:39:32.754Z",
     "channel": "120363406555038128@g.us"
+  },
+  {
+    "id": "gdbmwva258qc84",
+    "code": "CS301",
+    "title": "*CS301 – GDB SOLUTION BY SAIF CHISHTI*",
+    "text": "*CS301 – GDB SOLUTION BY SAIF CHISHTI*\n\n*Operation:* Product Management\n*Data Structure:* Linked List\n*Reason:* Since products keep getting added and removed all the time we need something flexible that can grow or shrink easily A linked list does not need a fixed size like an array so it fits this need perfectly\n\n*Operation:* Product Search\n*Data Structure:* Binary Search Tree\n*Reason:* Because customers search using product IDs we need a structure that makes finding things fast A Binary Search Tree organizes data in a way that lets us skip half the records at each step while searching so it finds the product much quicker than checking one by one\n\n*Operation:* Order Processing\n*Data Structure:* Queue\n*Reason:* Orders need to be handled in the exact order they come in (First In, First Out), and a queue naturally works this way whoever enters first gets served first, just like a line of customers at a counter.\n\n*Operation:* Recently Viewed Products\n*Data Structure:* Stack\n*Reason:* Here we want the newest viewed item to show up first (Last In, First Out) and a stack does exactly that the last product added is the first one that comes out like stacking plates and taking the top one off first.",
+    "savedAt": "2026-11-24T22:39:52.586Z",
+    "channel": "120363410879373193@g.us"
   }
 ]
