@@ -38,5 +38,13 @@
     "text": "📚 *GDB — CS402*\n\n*Answer:* The most favorable machine for recognizing these commands is the **Finite Automaton (FA)**.\n\nThe fixed set of voice commands forms a finite language, which is a subset of regular languages. An FA is the simplest and most memory-efficient automaton capable of recognizing regular languages. It inherently reads one letter at a time, making exactly one deterministic move for each letter, perfectly aligning with the device's limited memory, battery, and the requirement for immediate, single-move processing. NFA and TG, while also capable, introduce unnecessary complexity (nondeterminism or string transitions) that would be less efficient for this specific, constrained scenario.\n\n📌 Source: VU Channel\n\n> ✦ Tech by Mars & Error 👾 ✦\n\n_24/11/2026_",
     "savedAt": "2026-11-24T22:40:22.737Z",
     "channel": "𝕍𝕌 𝕄𝕀𝔻 & 𝔽𝕀ℕ𝔸𝕃 𝕋𝔼ℝ𝕄 ℙℝ𝔼ℙ𝔸ℝ𝔸𝕋𝕀𝕆ℕ🥇"
+  },
+  {
+    "id": "gdbmwvaa5ixc90",
+    "code": "CS402",
+    "title": "Cs402 gdb solution",
+    "text": "Cs402 gdb solution \n\n*Answer:* The most favorable machine for recognizing these commands is the **Finite Automaton (FA)**.\n\nThe fixed set of voice commands forms a finite language, which is a subset of regular languages. An FA is the simplest and most memory-efficient automaton capable of recognizing regular languages. It inherently reads one letter at a time, making exactly one deterministic move for each letter, perfectly aligning with the device's limited memory, battery, and the requirement for immediate, single-move processing. NFA and TG, while also capable, introduce unnecessary complexity (nondeterminism or string transitions) that would be less efficient for this specific, constrained scenario.",
+    "savedAt": "2026-11-24T22:46:06.201Z",
+    "channel": "120363410879373193@g.us"
   }
 ]
