@@ -1,0 +1,10 @@
+[
+  {
+    "id": "gdbmwv9z46tc10",
+    "code": "CS602",
+    "title": "*CS602 – GDB Solution*",
+    "text": "*CS602 – GDB Solution*\n\n*In my opinion, Low-polygon models are more suitable* for real-time video games and interactive simulations. These applications must maintain smooth frame rates of 30 to 60 FPS on limited consumer hardware. Fewer polygons mean less vertex processing, lower memory usage, shorter rendering time, and better computational performance, which is critical for mobile, VR, and low-end GPUs. High-poly models offer superior visual accuracy, but their heavy geometry increases memory demands, slows rendering, and can exceed hardware limits, causing lag.\n\nThe trade-off is balance: use low-poly base meshes and recover visual quality through normal maps, tessellation, and Level-of-Detail (LOD), applying high detail only when objects are near the camera and low detail at a distance. This keeps performance stable while maintaining acceptable visual fidelity. High-poly modelling is better reserved for offline or pre-rendered work, where real-time constraints do not apply.",
+    "savedAt": "2026-11-24T22:37:31.253Z",
+    "channel": "120363411880761070@g.us"
+  }
+]
