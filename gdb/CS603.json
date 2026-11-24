@@ -6,5 +6,13 @@
     "text": "Cs603 ka gdb solution send krdy kindly",
     "savedAt": "2026-11-24T22:37:58.112Z",
     "channel": "120363411330901208@g.us"
+  },
+  {
+    "id": "gdbmwva307bc120",
+    "code": "CS603",
+    "title": "*CS603 GDB ANSWER*",
+    "text": "*CS603 GDB ANSWER*\n\nAnswer: No. Assigning multiple responsibilities to the Employee class is not an ideal approach because it violates the Single Responsibility Principle (SRP). A class should focus on one specific responsibility. Therefore, payroll calculations, PDF report generation, and database operations should be separated into different classes to make the software easier to manage, modify, and maintain.\n\n> 𝑽𝒊𝒓𝒕𝒖𝒂𝒍 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 | 𝑺𝒕𝒖𝒅𝒆𝒏𝒕𝒔 𝑯𝒖𝒃 🦋🎓📚",
+    "savedAt": "2026-11-24T22:40:32.711Z",
+    "channel": "120363411880761070@g.us"
   }
 ]
