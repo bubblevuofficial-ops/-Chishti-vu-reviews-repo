@@ -1,0 +1,10 @@
+[
+  {
+    "id": "gdbmwv9z6urc13",
+    "code": "CS304",
+    "title": "*CS304 GDB SOLUTION*",
+    "text": "*CS304 GDB SOLUTION*\n\nCompile-Time Polymorphism and Run-Time Polymorphism both allow the same function name to perform different tasks, but they differ in when the required function is determined.\n\nCompile-Time Polymorphism (Static Binding) means that the function to be executed is decided by the compiler before the program runs. It generally provides faster execution because there is no need to determine the appropriate function during runtime. It also provides strict type checking at compile time and usually has lower runtime overhead.\n\nRun-Time Polymorphism (Dynamic Binding) means that the function to be executed is selected while the program is running. It is useful when different objects are stored together and their actual types are not known beforehand. However, this flexibility can introduce additional runtime overhead because the correct function must be determined during execution.\n\nFor the peak-hour transaction processing engine, Compile-Time Polymorphism is the better choice. Thousands of standard transactions need to be processed quickly, while low memory and execution overhead are important. Since the required function can be determined before execution, Static Binding avoids the extra runtime decision-making required by Dynamic Binding. It also provides strict type checking before transactions are executed.\n\nTherefore, Compile-Time Polymorphism (Static Binding) is more suitable for the peak-hour processing engine because it provides faster execution, lower runtime overhead, better type checking, and efficient resource usage.\n\nHowever, the admin module is better suited to Run-Time Polymorphism because it needs to process a dynamic collection containing different transaction types whose concrete types are not known beforehand.\n\n> 𝑽𝒊𝒓𝒕𝒖𝒂𝒍 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 | 𝑺𝒕𝒖𝒅𝒆𝒏𝒕𝒔 𝑯𝒖𝒃 🦋🎓📚",
+    "savedAt": "2026-11-24T22:37:34.707Z",
+    "channel": "120363411880761070@g.us"
+  }
+]
