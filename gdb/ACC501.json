@@ -1,0 +1,10 @@
+[
+  {
+    "id": "gdbmwv9zbusc19",
+    "code": "ACC501",
+    "title": "*ACC501 GDB SOLUTION*",
+    "text": "*ACC501 GDB SOLUTION*\nPart\tRequirement\tAnswer\n(a)\tAmount required today for Plan A (Rs.)\t833,333\n\tAmount required today for Plan B (Rs.)\t573,496\n(b)\tAffordable Plan (Plan A or Plan B)\tPlan B\n\tWhy? (Reason behind choosing affordable plan)\tPlan B requires Rs. 573,496 today, which is within Mr. Nadeem’s available donation budget of Rs. 700,000, whereas Plan A requires Rs. 833,333 and exceeds his budget.",
+    "savedAt": "2026-11-24T22:37:41.188Z",
+    "channel": "VU Connect"
+  }
+]
