@@ -1,0 +1,10 @@
+[
+  {
+    "id": "gdbmwva08lac47",
+    "code": "CS409",
+    "title": "*CS409 GDB SOLUTION*",
+    "text": "*CS409 GDB SOLUTION* \n\nRecommendation: Option B (remote backup in another geographical region)\n\nAnswer:\n\nThe DBA should recommend Option B. Management requires recovery to the latest nightly backup even if all office equipment is destroyed, and a backup stored on a disk inside the same office (Option A) would be lost in the same flood that destroys the servers, so it fails the core requirement. Option B keeps the backup outside the flooded area, which makes it the only option that guarantees the backup survives a site-level disaster.\n\nOn recovery time, Option A is faster, but speed is irrelevant if the backup no longer exists. Option B restores more slowly, yet the scenario states it still meets the one-working-day deadline, so it satisfies the requirement. On internet dependency, Option B needs a connection to restore, but the company has reliable internet and replacement infrastructure is available, so this risk is acceptable and manageable. Therefore, backup safety is the deciding factor, and Option B is the correct choice.\n\n> 𝑽𝒊𝒓𝒕𝒖𝒂𝒍 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 | 𝑺𝒕𝒖𝒅𝒆𝒏𝒕𝒔 𝑯𝒖𝒃 🦋🎓📚",
+    "savedAt": "2026-11-24T22:38:23.614Z",
+    "channel": "Virtual University Of Pakistan🇵🇰"
+  }
+]
