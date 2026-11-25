@@ -110,5 +110,13 @@
     "text": "*CS402 GDB SOLUTION*\n**Finite Automaton (FA)** (specifically a Deterministic Finite Automaton) is the most favorable choice for Nova.\n\nBecause the four commands form a **finite (and therefore regular) language**, an FA is the simplest computational model sufficient to recognize them. Unlike a Transition Graph (TG), which reads substrings per transition, an FA reads exactly **one letter per move** as required. Furthermore, unlike an NFA or TG that allow nondeterministic branching across multiple parallel paths, an FA is **deterministic**—following a single, unambiguous transition per character without backtracking or maintaining multiple active states, which directly preserves the IoT device's limited memory and battery power.",
     "savedAt": "2026-11-25T09:58:22.479Z",
     "channel": "Virtual University Official Updates | VU Connect"
+  },
+  {
+    "id": "gdbmwvyb6q8c34",
+    "code": "CS402",
+    "title": "*CS402 – GDB SOLUTION BY NINJA*",
+    "text": "*CS402 – GDB SOLUTION BY NINJA*\n\n*Answer: Finite Automaton (FA)*\n\n*The given commands form a finite regular language because the set of commands is fixed and finite. Finite Automaton reads the input one letter at a time and follows exactly one deterministic path for each letter. This makes it suitable for immediate acceptance or rejection and efficient for a device with limited memory and battery power.*\n\n*For More Solutions Follow us*\n\n*WhatsApp Channel:* https://whatsapp.com/channel/0029Vb46vGwJkK7Fw32cAk35",
+    "savedAt": "2026-11-25T09:58:45.200Z",
+    "channel": "『 𝐕𝐔 𝐄𝐃𝐔𝐖𝐀𝐑𝐑𝐈𝐎𝐑'𝐒 』"
   }
 ]
