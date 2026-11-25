@@ -14,5 +14,13 @@
     "text": "*Cs602 GDB Solution*\nIn my opinion a balanced approach is better, but if I have to choose one, low-polygon models are more suitable for real-time games and interactive simulations.\n\nHigh-polygon models give better visual quality and smooth surfaces, but they need more memory and more processing from the CPU and GPU. This increases rendering time and can lower the frame rate, so the game becomes slow or laggy. Real-time applications need around 30 to 60 frames per second, so performance is very important. Also many users have average hardware, and a heavy model may not run properly on it.\n\nLow-polygon models use less memory and render faster, so they run smoothly on most devices. Their shape may look rough, but this can be improved with texture mapping, normal maps and shading, which add detail without adding many polygons.\n\nThe trade-off is between quality and speed. Developers can use level of detail, so high-polygon models are used for close objects and low-polygon models for far objects.",
     "savedAt": "2026-11-24T22:47:03.886Z",
     "channel": "Virtual University Updates"
+  },
+  {
+    "id": "gdbmwvybuddc60",
+    "code": "CS602",
+    "title": "*Cs602 GDB Solution*",
+    "text": "*Cs602 GDB Solution*\nIn my opinion a balanced approach is better, but if I have to choose one, low-polygon models are more suitable for real-time games and interactive simulations.\n\nHigh-polygon models give better visual quality and smooth surfaces, but they need more memory and more processing from the CPU and GPU. This increases rendering time and can lower the frame rate, so the game becomes slow or laggy. Real-time applications need around 30 to 60 frames per second, so performance is very important. Also many users have average hardware, and a heavy model may not run properly on it.\n\nLow-polygon models use less memory and render faster, so they run smoothly on most devices. Their shape may look rough, but this can be improved with texture mapping, normal maps and shading, which add detail without adding many polygons.\n\nThe trade-off is between quality and speed. Developers can use level of detail, so high-polygon models are used for close objects and low-polygon models for far objects.",
+    "savedAt": "2026-11-25T09:59:15.841Z",
+    "channel": "Virtual University Updates"
   }
 ]
