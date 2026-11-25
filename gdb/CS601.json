@@ -6,5 +6,13 @@
     "text": "*CS601 GDB Answer Idea by VU Mentor*\n\n\n*Your choice: Latency*\n*Reason 1:* The problem is the delay between a player's action and the response on screen, which is latency itself, while bandwidth is already sufficient, so adding more capacity would not fix it.\n*Reason 2:* In real-time multiplayer gaming, responsiveness matters more than raw data rate, so lowering latency through closer servers and better routing directly improves gameplay and user experience.\nNote: the GDB says no grace day, and posts can't be edited once submitted — so it's worth posting this today, before the closing time.\n\n\n\n> VU Mentor",
     "savedAt": "2026-11-24T22:47:53.755Z",
     "channel": "VU Mentor"
+  },
+  {
+    "id": "gdbmwvyasujc19",
+    "code": "CS601",
+    "title": "*CS601 GDB Answer Idea by VU Mentor*",
+    "text": "*CS601 GDB Answer Idea by VU Mentor*\n\n\n*Your choice: Latency*\n*Reason 1:* The problem is the delay between a player's action and the response on screen, which is latency itself, while bandwidth is already sufficient, so adding more capacity would not fix it.\n*Reason 2:* In real-time multiplayer gaming, responsiveness matters more than raw data rate, so lowering latency through closer servers and better routing directly improves gameplay and user experience.\nNote: the GDB says no grace day, and posts can't be edited once submitted — so it's worth posting this today, before the closing time.\n\n\n\n> VU Mentor",
+    "savedAt": "2026-11-25T09:58:27.211Z",
+    "channel": "VU Mentor"
   }
 ]
