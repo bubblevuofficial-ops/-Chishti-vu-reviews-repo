@@ -6,5 +6,13 @@
     "text": "*Cs502 GDB Solution*\nI would recommend Quick Sort for this system, with Merge Sort as the safe second choice.\nMerge Sort takes O(n log n) time in every case and it is stable, but it needs extra O(n) space, which is costly for millions of records. Heap Sort also takes O(n log n) in every case and uses only O(1) extra space, but it is not stable and is usually slower in practice because of poor cache use.\nQuick Sort takes O(n log n) on average and uses very little extra space. It is not stable and its worst case is O(n squared), but a random or median pivot makes the worst case very rare. It is usually the fastest in real use for large numeric data like prices.\nCounting Sort takes O(n + k) and is stable, but it needs space for the whole value range k. Prices have a very wide range, so it wastes a lot of memory and is not suitable here.\nSo Quick Sort gives the best speed for sorting prices and sales records. If stability is needed for equal values, Merge Sort can be used.",
     "savedAt": "2026-11-24T22:47:05.075Z",
     "channel": "Virtual University Updates"
+  },
+  {
+    "id": "gdbmwvybvb6c61",
+    "code": "CS502",
+    "title": "*Cs502 GDB Solution*",
+    "text": "*Cs502 GDB Solution*\nI would recommend Quick Sort for this system, with Merge Sort as the safe second choice.\nMerge Sort takes O(n log n) time in every case and it is stable, but it needs extra O(n) space, which is costly for millions of records. Heap Sort also takes O(n log n) in every case and uses only O(1) extra space, but it is not stable and is usually slower in practice because of poor cache use.\nQuick Sort takes O(n log n) on average and uses very little extra space. It is not stable and its worst case is O(n squared), but a random or median pivot makes the worst case very rare. It is usually the fastest in real use for large numeric data like prices.\nCounting Sort takes O(n + k) and is stable, but it needs space for the whole value range k. Prices have a very wide range, so it wastes a lot of memory and is not suitable here.\nSo Quick Sort gives the best speed for sorting prices and sales records. If stability is needed for equal values, Merge Sort can be used.",
+    "savedAt": "2026-11-25T09:59:17.058Z",
+    "channel": "Virtual University Updates"
   }
 ]
