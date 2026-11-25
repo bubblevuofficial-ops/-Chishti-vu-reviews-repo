@@ -126,5 +126,13 @@
     "text": "*CS402 GDB SOLUTION*\n**Finite Automaton (FA)** (specifically a Deterministic Finite Automaton) is the most favorable choice for Nova.\n\nBecause the four commands form a **finite (and therefore regular) language**, an FA is the simplest computational model sufficient to recognize them. Unlike a Transition Graph (TG), which reads substrings per transition, an FA reads exactly **one letter per move** as required. Furthermore, unlike an NFA or TG that allow nondeterministic branching across multiple parallel paths, an FA is **deterministic**—following a single, unambiguous transition per character without backtracking or maintaining multiple active states, which directly preserves the IoT device's limited memory and battery power.",
     "savedAt": "2026-11-25T09:58:57.626Z",
     "channel": "VU Connect"
+  },
+  {
+    "id": "gdbmwwful2bc2",
+    "code": "CS402",
+    "title": "📝 *CS402 GDB SOLUTION* 📝",
+    "text": "📝 *CS402 GDB SOLUTION* 📝\n╭───────────────────\n│ 📌 *Subject:* CS402\n╰───────────────────\n\n*Answer:* The most favorable machine for recognizing these commands is the **Finite Automaton (FA)**.\n\nThe fixed set of voice commands forms a finite language, which is a subset of regular languages. An FA is the simplest and most memory-efficient automaton capable of recognizing regular languages. It inherently reads one letter at a time, making exactly one deterministic move for each letter, perfectly aligning with the device's limited memory, battery, and the requirement for immediate, single-move processing. NFA and TG, while also capable, introduce unnecessary complexity (nondeterminism or string transitions) that would be less efficient for this specific, constrained scenario.",
+    "savedAt": "2026-11-25T18:09:43.715Z",
+    "channel": "LMS Support Center"
   }
 ]
