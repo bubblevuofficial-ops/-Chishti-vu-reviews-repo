@@ -1,42 +1,51 @@
 [
- {
-  "id": "1407821299f2949c",
-  "subject": "CS401",
-  "term": "MIDTERM",
-  "experience": "• MCQs: s easy the sare\n\n• Short Questions: tha  iAPX8088 me address  bus kitny bits ki hoti hai aur memory kitni access  kr skty hai\n\n• tha iAPX8088 me address bus kitny bits ki hoti hai aur memory kitni access kr skty hai .call instruction ki sari working btani thi .physical adress calculate krna tha",
-  "difficulty": "Not Specified",
-  "savedAt": "2026-10-28T17:05:44.388Z"
- },
- {
-  "id": "c9a41a44a748ea7c",
-  "subject": "CS401",
-  "term": "MIDTERM",
-  "experience": "• MCQs: s asan thy kafi\n\n• Subjective: describe segment wraparound ?",
-  "difficulty": "Not Specified",
-  "savedAt": "2026-10-28T17:05:45.092Z"
- },
- {
-  "id": "b5836c7cbd4c11bf",
-  "subject": "CS401",
-  "term": "MIDTERM",
-  "experience": "Paper me Kuch alphabet they abc un k ASSCI code likhny thy\n8085 processor use maximum memory and address bus\nAik question offset ka tha",
-  "difficulty": "Not Specified",
-  "savedAt": "2026-10-28T17:05:45.810Z"
- },
- {
-  "id": "b8c91ae1dcdd6c9e",
-  "subject": "CS401",
-  "term": "MIDTERM",
-  "experience": "• MCQs: s sare theory based the handouts se the sare\n\n• Short Questions: 1:What is the purpose of debugger?\n\n• Long Questions: 1: 5 different functions dye the or registers ke name likhne the k konsa register kya  function perform  krta\n\n• 2: How many rows and coulums are there in video screen and what will be the last location at that corresonds to screen?",
-  "difficulty": "Not Specified",
-  "savedAt": "2026-10-28T17:05:46.701Z"
- },
- {
-  "id": "114b06c3bfa709c7",
-  "subject": "CS401",
-  "term": "MIDTERM",
-  "experience": "• MCQs: s were easy bit conceptual\n\n• Short Questions: ;\n\n• Long Questions: ;\n\n• SAR how sign number saved and accumulator functions instructions for storing and adding print a in blue background on white foreground",
-  "difficulty": "Not Specified",
-  "savedAt": "2026-10-28T17:05:47.500Z"
- }
+  {
+    "id": "1407821299f2949c",
+    "subject": "CS401",
+    "term": "MIDTERM",
+    "experience": "• MCQs: s easy the sare\n\n• Short Questions: tha  iAPX8088 me address  bus kitny bits ki hoti hai aur memory kitni access  kr skty hai\n\n• tha iAPX8088 me address bus kitny bits ki hoti hai aur memory kitni access kr skty hai .call instruction ki sari working btani thi .physical adress calculate krna tha",
+    "difficulty": "Not Specified",
+    "savedAt": "2026-10-28T17:05:44.388Z"
+  },
+  {
+    "id": "c9a41a44a748ea7c",
+    "subject": "CS401",
+    "term": "MIDTERM",
+    "experience": "• MCQs: s asan thy kafi\n\n• Subjective: describe segment wraparound ?",
+    "difficulty": "Not Specified",
+    "savedAt": "2026-10-28T17:05:45.092Z"
+  },
+  {
+    "id": "b5836c7cbd4c11bf",
+    "subject": "CS401",
+    "term": "MIDTERM",
+    "experience": "Paper me Kuch alphabet they abc un k ASSCI code likhny thy\n8085 processor use maximum memory and address bus\nAik question offset ka tha",
+    "difficulty": "Not Specified",
+    "savedAt": "2026-10-28T17:05:45.810Z"
+  },
+  {
+    "id": "b8c91ae1dcdd6c9e",
+    "subject": "CS401",
+    "term": "MIDTERM",
+    "experience": "• MCQs: s sare theory based the handouts se the sare\n\n• Short Questions: 1:What is the purpose of debugger?\n\n• Long Questions: 1: 5 different functions dye the or registers ke name likhne the k konsa register kya  function perform  krta\n\n• 2: How many rows and coulums are there in video screen and what will be the last location at that corresonds to screen?",
+    "difficulty": "Not Specified",
+    "savedAt": "2026-10-28T17:05:46.701Z"
+  },
+  {
+    "id": "114b06c3bfa709c7",
+    "subject": "CS401",
+    "term": "MIDTERM",
+    "experience": "• MCQs: s were easy bit conceptual\n\n• Short Questions: ;\n\n• Long Questions: ;\n\n• SAR how sign number saved and accumulator functions instructions for storing and adding print a in blue background on white foreground",
+    "difficulty": "Not Specified",
+    "savedAt": "2026-10-28T17:05:47.500Z"
+  },
+  {
+    "id": "chmwz530w8c13",
+    "experience": "s......\n\nMCQ's\n\n1.   The iAPX88 processor supports ....... Memory addressing modes\n2.     Constant cannot appear as the......operand \nSource\nDestination \nMemory \nRegister\n3.  The 8088 stack works on......\nWord sized element \nByte sized element \nDouble sized element \nNibble sized element\n4.   The instruction ADC has ...... Operands\n5.   Which of the following is the unit of memory while dealing with 8088's stack????\nNibble \nByte\nWord\nParagraph\n6.  In the instruction mov word [es:160] , ox1230, 30 represents the character\nA\nB\n0\n1\n\n7.  Which of the following is a small part of memory inside CPU to store data during program execution \nCache \nRam \nRegister\nrom\n8.  Which of the following jumps are taken if the last arithmetic operation has generated a carry or required a borrow \nJB and JZ\nJE and JB\nJC,JB and JNAE\nJNC,JNB and JAE\n9.  By default the code segment is associated with the ...... register\nIP \nSS\nBP \nSI\n10.  What is the result of shift logical right operation on a binary number\n\n• Inserts a zero from the left and moves every bit one position to the right \n• Inserts a one from the left and moves every bit one position to the right \n• Inserts a zero from the right and moves every bit one position to the left \n• Inserts a one from the write and move every bit one position to the left\n\n11.   Extend ASCII has total ....... Character fitting in ...... bits\n12.  In signed binary representation the most significant bit is set to ...... To represent positive number.\n13.Why might a programmer use assembly language in the context of image processing ???\n\n1.  Assembly language allows for direct communication with computer \n2.  Higher level language cannot handle image processing efficiently \n3.   Assembly language is the only language suitable for image processing \n4.   Assembly language ensures precise control over instructions for optimization.\n\nSubjective \n1... Describe any two bitwise logical operation\n2.... You are tasked with programming for the  IAPX88 processor using the segmented memory model for efficient memory management you need to understand the concept of paragraph boundaries provide the names of the segment register that determine memory segments at these boundaries\n\n3....How call instruction change its behaviour for intra segment calling and inter segment calling ???\n4....What will be the new value of a x register after the given set of instruction is executed \nMOV ax,5\nMOV bx, 15\nADD AH ,10\nMOV AL,BL\n......................................................\n[23/11, 1:03 pm] 𝐑𝐰: *Cs401 (1jun 2026)*\nMCQS\nSubroutine only register ka parameter Batana tha ka Kitna ha\n *7* \nNon destructive AND ka liya Kon si condition \n *Test*\nWhen call instructions executived SP\n *Decrement by 2*\n32 bit divdend 16 bit remainder store in\n *DX* \nMov ax,5\nTake operand \n *2* \nWhat the value when stack is full\nMCQS easy tha baqi yad nahi\nShort \nLocal variable kasa created or access karta \nIntel 8080\nOr Intel 8088 ka model Kon sa ha\nLong \nInstructions likhni thi add cx register to bx\nOr mov the value of address [0×1234] into bx register \n2 \nSubroutine only register cannot take argument on stack why\n[23/11, 1:04 pm] 𝐑𝐰: CS401 (05 Jun 2026)\n\nQuestion 1\nDefault segment association of BP is with SS why\nQuestion 2\nWrite equlient assembly language instructions\nA variable var1 as a word with the value 25\nA variable var3 as a byte with the value 25\nLong \nQuestion 1\nSAR differ from SLR to handling the sign bit of signed number\nQuestion 2\nStore two 25 and 69 respective to AX and DX register\nAdd the value and store result in DX\nStore constant 225 in register bx for subsequent set\n[23/11, 1:04 pm] 𝐑𝐰: CS401 (05 Jun 2026)\n\nQuestion 1\nDefault segment association of BP is with SS why\nQuestion 2\nWrite equlient assembly language instructions\nA variable var1 as a word with the value 25\nA variable var3 as a byte with the value 25\nLong \nQuestion 1\nSAR differ from SLR to handling the sign bit of signed number\nQuestion 2\nStore two 25 and 69 respective to AX and DX register\nAdd the value and store result in DX\nStore constant 225 in register bx for subsequent set                                                                                                                                                         *Follow 𝙑𝙪 𝙃𝙚𝙡𝙥𝙞𝙣𝙜 𝘿𝙚𝙨𝙠📚🎓 for more updates*:\n https://whatsapp.com/channel/0029VbCLoq26BIEcATBieS0t\n\n\n> 𝙑𝙪 𝙃𝙚𝙡𝙥𝙞𝙣𝙜 𝘿𝙚𝙨𝙠📚🎓\n[23/11, 1:04 pm] 𝐑𝐰: CS401 (04 Jun 2026)\n\nPaper \ncs401\n1.What is the size 9f the address bus in iapx8088processor and what is the maximum accessible memory usinf this address bus.\n\n2.If we load the ES register with the current segment value of video memory,then what does the following instructions do?\nmov [es:di],dx\n3.How local variables are created in assembly language programming? Write the instruction to creat local variable.\n4.Calculate the physical memory address generated by the following segment: offset pairs (both are hexadecimal values)\na. 0010 :0200\nb. 0100 : DFAD\nWrite all the intermediate steps.\nShort first 2 and long second 2\n\n *Follow 𝙑𝙪 𝙃𝙚𝙡𝙥𝙞𝙣𝙜 𝘿𝙚𝙨𝙠📚🎓 for more updates*:\n https://whatsapp.com/channel/0029VbCLoq26BIEcATBieS0t\n\n\n> 𝙑𝙪 𝙃𝙚𝙡𝙥𝙞𝙣𝙜 𝘿𝙚𝙨𝙠📚🎓\n[23/11, 1:05 pm] 𝐑𝐰: *Course Code* CS401\n📚 *Exam :* Midterm (Spring 2026)\n📅 *Date:* 03-06-2026\n🕐 *Time:* N/A\n👤 *Shared by:* Wajid Ali\n\n*",
+    "savedAt": "2026-11-27T15:31:40.232Z",
+    "source": "channel",
+    "channel": "𝑽𝒊𝒓𝒕𝒖𝒂𝒍 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 | 𝑺𝒕𝒖𝒅𝒆𝒏𝒕𝒔 𝑯𝒖𝒃 🦋🎓📚",
+    "date": "05.06.2026",
+    "sharedBy": "* Wajid Ali"
+  }
 ]
