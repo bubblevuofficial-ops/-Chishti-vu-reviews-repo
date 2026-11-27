@@ -1,0 +1,10 @@
+[
+  {
+    "id": "gdbmwz3b102c9",
+    "code": "CS609",
+    "title": "*CS609 GDB Answer*",
+    "text": "*CS609 GDB Answer*\n\nI will choose *Windows API (CreateFile, ReadFile, WriteFile)* for making this file copy utility.\n\nThe reason is simple, this utility is made only for Windows. So we do not need portability. We need full control, proper handling of big files and clear errors.\n\n*My reasons:*\n\n- *For Large Files:* We can read and write data in small blocks, so the whole file does not need to be loaded in memory.\n- *For Unicode Names:* `CreateFileW` works correctly with Unicode names, while `fopen` can create problems in such cases.\n- *For Error Handling:* With `GetLastError()` we can know the exact problem like file is in use, access denied or disk is full.\n- *For Control:* We can show progress, and we can also pause or cancel the copying. `CopyFile` does not give this option.\n\n*Other options:*\n\nThe C library is portable but it is weak in Unicode and error reporting on Windows. `CopyFile` is easy to use but it copies the file in one go, so we cannot control or monitor it.\n\n*Limitation:*\n\nWindows API code is a bit long and it only works on Windows. But in this case it is not a problem because our target is only Windows.\n\nSo, I will prefer *more control* instead of simplicity or portability, because for this utility reliability and accurate error handling are more important.",
+    "savedAt": "2026-11-27T14:41:54.386Z",
+    "channel": "LMS Support Center"
+  }
+]
