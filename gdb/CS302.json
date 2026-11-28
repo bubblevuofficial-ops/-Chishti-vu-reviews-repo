@@ -22,5 +22,13 @@
     "text": "*CS302 GDB SOLUTION*\n\n> ᗪᖇEᗩᗰEᖇ\n\nOption B – Pure Binary\n\nI would support Option B because pure binary is more efficient for storing and processing the fuel amount. The maximum amount is 999999 paisa, which can easily be stored in a 20-bit binary number. It requires less hardware complexity compared to using separate BCD digits.\n\nBinary adders are simple and commonly used in digital circuits. They can perform addition quickly with less circuit complexity, which helps reduce the overall cost of the dispenser.\n\nFor displaying the bill, a code converter can convert the binary result into BCD digits. These digits can then be sent to 7-segment decoders to show the correct decimal amount. Although conversion requires additional circuitry, it keeps the internal calculations simple and efficient.\n\nTherefore, pure binary is a better choice because it provides efficient storage, simpler arithmetic operations, and lower hardware complexity for this low-cost device.\n\n> 𝑽𝒊𝒓𝒕𝒖𝒂𝒍 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 | 𝑺𝒕𝒖𝒅𝒆𝒏𝒕𝒔 𝑯𝒖𝒃 🦋🎓📚",
     "savedAt": "2026-11-28T12:29:46.751Z",
     "channel": "𝑽𝒊𝒓𝒕𝒖𝒂𝒍 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 | 𝑺𝒕𝒖𝒅𝒆𝒏𝒕𝒔 𝑯𝒖𝒃 🦋🎓📚"
+  },
+  {
+    "id": "gdbmx0e16kjc15",
+    "code": "CS302",
+    "title": "*CS302 GDB SOLUTION*",
+    "text": "*CS302 GDB SOLUTION*\n\n> *AzkaMughal | VU NextGen Scholars*🎓✨\n\nOptionB – Pure Binary\n\nI would support Option B because pure binary is more efficient for storing and processing the fuel amount. The maximum amount is 999999 paisa, which can easily be stored in a 20-bit binary number. It requires less hardware complexity compared to using separate BCD digits.\n\nBinary adders are simple and commonly used in digital circuits. They can perform addition quickly with less circuit complexity, which helps reduce the overall cost of the dispenser.\n\nFor displaying the bill, a code converter can convert the binary result into BCD digits. These digits can then be sent to 7-segment decoders to show the correct decimal amount. Although conversion requires additional circuitry, it keeps the internal calculations simple and efficient.\n\nTherefore, pure binary is a better choice because it provides efficient storage, simpler arithmetic operations, and lower hardware complexity for this low-cost device.\n\nhttps://whatsapp.com/channel/0029Vb6t9fQBPzjbNpZ98v2w",
+    "savedAt": "2026-11-28T12:29:56.995Z",
+    "channel": "𝗩𝗨 𝗡𝗲𝘅𝘁𝗚𝗲𝗻 𝗦𝗰𝗵𝗼𝗹𝗮𝗿𝘀 🎓✨"
   }
 ]
