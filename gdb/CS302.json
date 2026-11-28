@@ -14,5 +14,13 @@
     "text": "*CS302 - GDB Answer*\n\n`My Choice: Option A – BCD`\n\nI support Option A, BCD, for this smart fuel dispenser.\n\nThe main reason is the output device. The dispenser has to show the amount on a 7-segment display, which is decimal in nature. In BCD, each decimal digit is already stored as a separate 4-bit code, so each digit can be directly sent to a BCD-to-7-segment decoder without any extra conversion. This makes the display logic simple and low-cost.\n\nThe maximum amount is Rs. 9,999.99, i.e. 999999 paisa, which needs only 6 BCD digits = 24 bits. This is easily handled by BCD adders. Although BCD adders need correction when the sum exceeds 9 by adding 6, this small extra logic is much cheaper than a large binary-to-BCD converter required in Option B.\n\nIn Option B, the amount is stored as pure binary. Binary adders are faster and use less hardware for calculation, but before display, the whole 20-bit binary number must be converted to decimal. That converter increases cost, complexity and delay, which is not suitable for a low-cost dispenser.\n\nQR-code payment also deals with decimal amounts in paisa, so keeping the amount in decimal form from calculation to display reduces chances of conversion error and makes billing accurate.\n\nTherefore, for low cost, simple display interfacing and accurate decimal billing, BCD is the better choice for this design.",
     "savedAt": "2026-11-27T14:14:05.786Z",
     "channel": "Virtual University Official Updates | VU Connect"
+  },
+  {
+    "id": "gdbmx0e0ynzc14",
+    "code": "CS302",
+    "title": "*CS302 GDB SOLUTION*",
+    "text": "*CS302 GDB SOLUTION*\n\n> ᗪᖇEᗩᗰEᖇ\n\nOption B – Pure Binary\n\nI would support Option B because pure binary is more efficient for storing and processing the fuel amount. The maximum amount is 999999 paisa, which can easily be stored in a 20-bit binary number. It requires less hardware complexity compared to using separate BCD digits.\n\nBinary adders are simple and commonly used in digital circuits. They can perform addition quickly with less circuit complexity, which helps reduce the overall cost of the dispenser.\n\nFor displaying the bill, a code converter can convert the binary result into BCD digits. These digits can then be sent to 7-segment decoders to show the correct decimal amount. Although conversion requires additional circuitry, it keeps the internal calculations simple and efficient.\n\nTherefore, pure binary is a better choice because it provides efficient storage, simpler arithmetic operations, and lower hardware complexity for this low-cost device.\n\n> 𝑽𝒊𝒓𝒕𝒖𝒂𝒍 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 | 𝑺𝒕𝒖𝒅𝒆𝒏𝒕𝒔 𝑯𝒖𝒃 🦋🎓📚",
+    "savedAt": "2026-11-28T12:29:46.751Z",
+    "channel": "𝑽𝒊𝒓𝒕𝒖𝒂𝒍 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 | 𝑺𝒕𝒖𝒅𝒆𝒏𝒕𝒔 𝑯𝒖𝒃 🦋🎓📚"
   }
 ]
